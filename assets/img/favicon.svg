@@ -57,27 +57,35 @@
        width="9.921874"
        height="9.921876"
        x="25.702379"
-       y="125.48809" />
+       y="125.48809"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:#f58220;fill-opacity:1;stroke-width:0.267128"
        id="rect837"
        width="9.921874"
        height="9.921876"
        x="35.624252"
-       y="125.48809" />
+       y="125.48809"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:#ffff55;fill-opacity:1;stroke-width:0.267128"
        id="rect839"
        width="9.921874"
        height="9.921876"
        x="25.702377"
-       y="135.40996" />
+       y="135.40996"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:#55ff99;stroke-width:0.267128"
        id="rect841"
        width="9.921874"
        height="9.921876"
        x="35.624252"
-       y="135.40996" />
+       y="135.40996"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
   </g>
 </svg>
