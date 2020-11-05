@@ -13,7 +13,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="favico.svg">
+   sodipodi:docname="favicon.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -73,7 +73,7 @@
        x="25.702377"
        y="135.40996" />
     <rect
-       style="fill:#00ff00;stroke-width:0.267128"
+       style="fill:#55ff99;stroke-width:0.267128"
        id="rect841"
        width="9.921874"
        height="9.921876"
