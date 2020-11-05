@@ -28,5 +28,6 @@ Raffaele Angius
 Ettore Di Cesare
 Erika Marconato
 Matteo Brunati
-Moreno Colaicovo
+Moreno Colaiacovo
 Matteo Fortini
+Alberto Cottica
