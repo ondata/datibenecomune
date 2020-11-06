@@ -21,6 +21,7 @@
         rel="stylesheet" />
     <!-- Core theme CSS (includes Bootstrap)-->
     <link href="css/styles.css" rel="stylesheet" />
+    <link href="css/custom.css" rel="stylesheet" />
 
     <!-- facebook -->
     <meta property="og:title" content="#datiBeneComune" />
@@ -63,7 +64,7 @@
                 <ul class="navbar-nav ml-auto my-2 my-lg-0">
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#lettera">Lettera aperta</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#promotori">Promotori</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#partecipa">Partecipa</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#partecipa">Firma la petizione!</a></li>
                 </ul>
             </div>
         </div>
@@ -73,13 +74,12 @@
         <div class="container h-100">
             <div class="row h-100 align-items-center justify-content-center text-center">
                 <div class="col-lg-10 align-self-end">
-                    <h1 class="text-uppercase text-white font-weight-bold">supportare le istituzioni nella crisi
-                        COVID-19
+                    <h1 class="text-uppercase text-white font-weight-bold">chiediamo dati aperti, ben descritti, aggiornati e machine readable
                     </h1>
                     <hr class="divider my-4" />
                 </div>
                 <div class="col-lg-8 align-self-baseline">
-                    <p class="text-white-75 font-weight-light mb-5"> La società civile italiana è pronta, però per farlo
+                    <p class="text-white-75 font-weight-light mb-5"> La società civile italiana è pronta ad aiutare le istituzioni nella gestione della crisi del COVID-19, però per farlo
                         ha bisogno di dati aperti, ben descritti, aggiornati e <i>machine readable</i>
                     </p>
                     <a class="btn btn-primary btn-xl js-scroll-trigger" href="#lettera">La nostra richiesta</a>
@@ -117,7 +117,7 @@
                 cittadini. Il nuovo sistema di classificazione del territorio nazionale in tre aree di rischio
                 rappresenta, in questo senso, un'<strong>opportunità,</strong> perché comporta un sofisticato sistema di
                 monitoraggio nazionale e quindi genererà, si presume, molti dati di qualità.</p>
-            <p>Il governo è consapevole di tutto questo, così come evidente nelle conferenze stampa del Governo degli
+            <p>Lo Stato è consapevole di tutto questo, così come evidente nelle conferenze stampa del Governo degli
                 ultimi giorni. E ce n'è traccia anche in un recente documento di indirizzo, in cui si pone &quot;la
                 <strong>trasparenza</strong> e l'accessibilità dei dati al centro della strategia di
                 <strong>gestione</strong> del <strong>rischio pandemico</strong>&quot;. Pandemia a parte, l'Italia si
@@ -182,6 +182,13 @@
             <h2 class="text-center mt-0">Promotori</h2>
             <hr class="divider my-4" />
             <div class="row">
+              <div class="col-lg-3 col-md-6 text-center">
+                <div class="mt-5">
+                  <a href="https://ondata.it/" target="_blank"><img class="img-fluid"
+                    src="imgs/loghi/ondata_logo.png" alt="Associazione onData"></a>
+                    <!-- <p class="text-muted mb-0">You can use this design as is, or you can make changes!</p> -->
+                  </div>
+                </div>
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="mt-5">
                         <a href="https://www.transparency.it/" target="_blank"><img class="img-fluid"
@@ -194,13 +201,6 @@
                         <a href="https://www.actionaid.it/" target="_blank"><img class="img-fluid"
                                 src="imgs/loghi/actionaid_s.jpg" alt="ActionAid Italia"></a>
                         <!-- <p class="text-muted mb-0">All dependencies are kept current to keep things fresh.</p> -->
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 text-center">
-                    <div class="mt-5">
-                        <a href="https://ondata.it/" target="_blank"><img class="img-fluid"
-                                src="imgs/loghi/ondata_logo.png" alt="Associazione onData"></a>
-                        <!-- <p class="text-muted mb-0">You can use this design as is, or you can make changes!</p> -->
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
@@ -268,8 +268,40 @@
                         <!-- <p class="text-muted mb-0">Is it really open source if it's not made with love?</p> -->
                     </div>
                 </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="mt-5">
+
+
+
+
+                        <span class="aderiscianchetu" data-toggle="modal" data-target="#exampleModal">
+                          <img class="img-fluid" src="imgs/loghi/plus.png" alt="Aderisci con la tua organizzazione!"><br/>
+                          <h3 class="text-center mt-0" data-toggle="modal" data-target="#exampleModal">Aderisci con la tua organizzazione!</h3></a>
+                        </span>
+                        <!-- Modal -->
+                        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                          <div class="modal-dialog">
+                            <div class="modal-content">
+                              <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalLabel">Aderisci con la tua organizzazione!</h5>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                  <span aria-hidden="true">&times;</span>
+                                </button>
+                              </div>
+                              <div class="modal-body">
+                                I loghi che vedi qui in alto rappresentano le organizzazioni che hanno aderito a questa campagna. <br><br>Saremmo molto contenti di allargare il numero di soggetti che la sostengono, per cui se ti interessa aderire perché anche tu credi che alla tua organizzazione sta a cuore avere dati aggiornati e di dettaglio sull'emergenza Covid-19 scrivici una mail a info@ondata.it. <br><br>Grazie!
+                              </div>
+                              <div class="modal-footer">
+                                <button type="button" class="btn btn-primary" data-dismiss="modal">Ho capito!</button>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                    </div>
+                </div>
             </div>
             <!-- persone -->
+            <hr class="divider my-4" />
             <br><br>
             <div class="row">
                 <div class="col-sm-2">
@@ -418,12 +450,13 @@
     <!-- Call to action-->
     <section class="page-section bg-dark text-white" id="partecipa">
         <div class="container text-center">
-            <h2 class="mb-4">Cosa puoi fare</h2>
-            <a class="btn btn-light btn-xl" href="https://www.change.org/datibenecomune">Firma la
-                petizione!</a>&nbsp;&nbsp;
+            <a class="btn btn-primary btn-lg" href="https://www.change.org/datibenecomune">
+              <h3 class="">Firma adesso la petizione!</h3></a>
+            <!--
             <a class="btn btn-light btn-xl"
                 href="https://twitter.com/intent/tweet?text=%23datiBeneComune%20Voglio%20tutti%20i%20dati%20comunicati%20dalle%20Regioni%20al%20Governo%20per%20monitorare%20e%20classificare%20il%20rischio%20epidemico%2C%20in%20formato%20aperto%2C%20ben%20descritti%20e%20machine%20readable%20%40Palazzo_Chigi%0Ahttps%3A%2F%2Fdatibenecomune.it%2F"
                 class="text-right" target="_blank" style="margin: 4px;">un tweet <i class="fab fa-twitter"></i></a>
+            -->
         </div>
     </section>
     <!-- Contact-->
@@ -457,9 +490,6 @@
                 del Consiglio
                 Conte per la pubblicazione in modalità adeguate dei dati COVID-19 | <a
                     href="https://creativecommons.org/licenses/by/4.0/deed.it" target="_blank">CC BY 4.0</a></div>
-            <div class="small text-center text-muted">La foto di sfondo è di <a
-                    href="https://www.flickr.com/photos/marzocchi/" target="_blank">Daniele Marzocchi</a></div>
-        </div>
     </footer>
     <!-- Bootstrap core JS-->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>

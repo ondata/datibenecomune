@@ -1,0 +1,38 @@
+.aderiscianchetu img {
+    opacity: 50%;
+    cursor:pointer;
+}
+
+
+header.masthead {
+    padding-top: 10rem;
+    padding-bottom: calc(10rem - 4.5rem);
+    background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url(../imgs/bg-masthead.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+
+/* font MEDIuM LIKE */
+
+
+#lettera p {
+    margin-top: 2em;
+    letter-spacing: -0.003em;
+    line-height: 32px;
+    font-size: 21px;
+    margin-bottom: -0.46em;
+    letter-spacing: -0.004em;
+    line-height: 1.58;
+    font-style: normal;
+    word-break: break-word;
+    font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif;
+    color: rgba(41, 41, 41, 1);
+    font-weight: 400;
+}
+
+.modal-body {
+    text-align: left !important;
+}
