@@ -11,23 +11,3 @@
 ~~OpenDataSicilia,https://groups.google.com/g/opendatasicilia~~
 ~~The Good Lobby Italia,https://www.thegoodlobby.it/~~
 
-
-
-
-# Giornalisti
-
-Isaia Invernizzi
-Gloria Riva
-Riccardo Saporiti
-Luca Tremolada
-Luca Zorloni
-Raffaele Angius
-
-# le persone/cittadini
-
-Ettore Di Cesare
-Erika Marconato
-Matteo Brunati
-Moreno Colaiacovo
-Matteo Fortini
-Alberto Cottica
