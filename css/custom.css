@@ -36,3 +36,8 @@ header.masthead {
 .modal-body {
     text-align: left !important;
 }
+
+#partners-container {
+    align-items: center;
+}
+
