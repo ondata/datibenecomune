@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 737.82 230.69"
+   version="1.1"
+   sodipodi:docname="Qeios.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata21">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1017"
+     id="namedview19"
+     showgrid="false"
+     inkscape:zoom="1.5613564"
+     inkscape:cx="368.91"
+     inkscape:cy="115.345"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1,.cls-2{fill:#49abed;}.cls-1{fill-rule:evenodd;}</style>
+  </defs>
+  <title
+     id="title6">QeiosLogo</title>
+  <g
+     id="g28">
+    <path
+       class="cls-1"
+       d="M206,124.17C206,66.5,160,19.58,103.5,19.58S1,66.5,1,124.17,47,228.69,103.5,228.69c.34,0,.66,0,1-.05H223.09A45.94,45.94,0,0,0,187.39,184,105.24,105.24,0,0,0,206,124.17Zm-157.9,0a57.2,57.2,0,1,1,57.3,57.3h-.09a57.35,57.35,0,0,1-57.21-57.3"
+       transform="translate(-1 -2)"
+       id="path8" />
+    <path
+       class="cls-2"
+       d="M359.88,169.94H268.52c4.31,16.92,17.84,25.84,38.76,25.84,9.84,0,18.46-2.15,29.22-8.92l3.68-2.44s2,1.94,3.09,3.05l16,15.38,3,3s-2.47,2.62-3.62,3.77a78.55,78.55,0,0,1-56,23.07c-47.37,0-80-34.76-80-79.05s32.6-79,76.59-79c43.68,0,71.67,34.76,71.67,76.28,0,8.57-.54,19-.54,19S362.93,169.94,359.88,169.94Zm-92-29.22H330c-2.77-18.46-15.38-27.38-30.45-27.38C284.21,113.35,271.29,122.27,267.91,140.72Z"
+       transform="translate(-1 -2)"
+       id="path10" />
+    <path
+       class="cls-2"
+       d="M387.87,26.91a24.76,24.76,0,1,1,24.91,24.61A24.81,24.81,0,0,1,387.87,26.91ZM389.71,78h46.14V228.69H389.71Z"
+       transform="translate(-1 -2)"
+       id="path12" />
+    <path
+       class="cls-2"
+       d="M454.61,153.64c0-44.29,35.06-79,78.43-79,43.68,0,78.74,34.76,78.74,79S576.72,232.69,533,232.69C489.68,232.69,454.61,197.93,454.61,153.64Zm112.58,0c0-21.22-15.07-36.29-34.14-36.29-18.76,0-34.14,15.07-34.14,36.29s15.38,36.3,34.14,36.3C552.12,189.94,567.19,174.86,567.19,153.64Z"
+       transform="translate(-1 -2)"
+       id="path14" />
+    <path
+       class="cls-2"
+       d="M738.82,185c0,30.76-31.37,47.68-59.36,47.68-25.84,0-47.06-12.61-57.83-25.22-.83-1-2.49-2.87-2.49-2.87l2.49-3.29,15.91-22.62,4.7,2.93c13.84,8.61,26.14,12.61,36,12.61,7.08,0,15.69-1.54,15.69-9.84,0-20.3-69.51-11.69-69.51-62.44,0-30.45,26.14-47.37,53.21-47.37,20.61,0,40.29,8,52.91,22.76l2.38,2.73-18.7,24.46s-3.36-2.15-4.59-2.89c-11.38-6.77-17.84-10.46-27.37-10.46-9.23,0-13.53,5.23-13.53,10.46C668.69,142.87,738.82,129.34,738.82,185Z"
+       transform="translate(-1 -2)"
+       id="path16" />
+  </g>
+</svg>
