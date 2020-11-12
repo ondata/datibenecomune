@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="70mm"
+   height="64mm"
+   viewBox="0 0 70.000004 64"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="QGIS_ITA.svg"
+   inkscape:export-filename="C:\Users\Salvatore\Desktop\marchi Q mondo\spaziani_IT.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.4847714"
+     inkscape:cx="125.42827"
+     inkscape:cy="109.3931"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:window-width="2560"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:object-nodes="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="false"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:document-rotation="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(146.4055,349.97412)">
+    <g
+       id="g25">
+      <polygon
+         points="198.306,162 176,162 176,183.433 195,202.37 195,180 216.513,180 "
+         id="polygon3-7-88"
+         style="fill:#009246;fill-opacity:1;stroke-width:0.666005"
+         transform="matrix(0.39726949,0,0,0.39726949,-185.90981,-386.85371)" />
+      <polygon
+         points="204,189 204,211.34 240.782,248 264,248 264,226.946 225.617,189 "
+         id="polygon31-58-6"
+         style="fill:#ce2b37;fill-opacity:1;stroke-width:0.666005"
+         transform="matrix(0.39726949,0,0,0.39726949,-185.90981,-386.85371)" />
+      <polygon
+         points="216.513,180 195,180 195,202.37 204,211.34 204,189 225.617,189 "
+         id="polygon33-34-3"
+         style="fill:#f1f2f1;fill-opacity:1;stroke-width:0.666005"
+         transform="matrix(0.39726949,0,0,0.39726949,-185.90981,-386.85371)" />
+      <path
+         d="m -107.22979,-300.70025 c -1.29471,0.29795 -2.64105,0.45964 -4.02991,0.45964 -9.93372,0 -18.38205,-8.16866 -18.38205,-18.75986 0,-10.5912 8.35537,-18.5799 18.38205,-18.5799 10.02668,0 18.010606,7.9883 18.010606,18.5799 0,1.72256 -0.214518,3.37997 -0.611392,4.94998 l 9.19441,9.19281 c 2.370509,-4.15345 3.696581,-8.98266 3.696581,-14.21351 0,-16.3238 -13.026861,-28.54619 -30.476125,-28.54619 -17.36941,0 -30.39588,12.14215 -30.39588,28.54619 0,16.4843 13.02686,28.86799 30.39588,28.86799 4.48398,0 8.67439,-0.82473 12.428173,-2.32562 z"
+         id="path40-5-66"
+         inkscape:connector-curvature="0"
+         style="fill:#93b023;fill-opacity:1;stroke-width:0.264584" />
+      <path
+         d="m -115.99038,-322.49605 34.959714,34.16518 v -8.36439 l -15.248317,-15.07451 -3.616551,-3.57542 -7.233106,-7.15086 z"
+         id="polygon4174-8-3"
+         style="fill:#ffffff;fill-opacity:0.172549;stroke-width:0.264584"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+      <g
+         aria-label="ITA"
+         transform="rotate(44.672304)"
+         id="text4155-76"
+         style="font-style:normal;font-weight:normal;font-size:4.76723px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+        <path
+           d="m -287.51724,-144.61482 h 1.73682 v -6.83018 h -1.73682 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.75739px;line-height:1.25;font-family:Trueno;-inkscape-font-specification:'Trueno Bold';letter-spacing:2.49187px;fill:#ffffff;fill-opacity:1;stroke-width:0.264584px"
+           id="path22" />
+        <path
+           d="m -282.53725,-150.04969 h 2.0393 v 5.43487 h 1.73681 v -5.43487 h 2.05881 v -1.40506 h -5.83492 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.75739px;line-height:1.25;font-family:Trueno;-inkscape-font-specification:'Trueno Bold';letter-spacing:2.49187px;fill:#ffffff;fill-opacity:1;stroke-width:0.264584px"
+           id="path24" />
+        <path
+           d="m -274.93253,-144.61482 h 1.7856 l 0.49763,-1.25871 h 2.98576 l 0.48787,1.25871 h 1.85391 l -2.87843,-6.83018 h -1.78561 z m 2.79062,-2.57595 0.99525,-2.52717 0.97574,2.52717 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.75739px;line-height:1.25;font-family:Trueno;-inkscape-font-specification:'Trueno Bold';letter-spacing:2.49187px;fill:#ffffff;fill-opacity:1;stroke-width:0.264584px"
+           id="path26" />
+      </g>
+    </g>
+  </g>
+</svg>
