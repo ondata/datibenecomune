@@ -33,5 +33,4 @@ mv "$folder"/rawdata/commnentiChange.csv "$folder"/../risorse/commnentiChange.cs
 mv "$folder"/rawdata/commnenti.jsonl "$folder"/../risorse/commnentiChange.jsonl
 
 # cancella file temporanei di lavoro
-rm "$folder"/rawdata/commnenti.jsonl
 rm "$folder"/rawdata/data.json
