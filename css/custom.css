@@ -15,8 +15,29 @@ header.masthead {
     background-size: cover;
 }
 
+/* cover mobile */
+
+@media (max-width: 575.98px) {
+header.masthead {
+    padding-top: 39rem;
+    padding-bottom: calc(10rem - 4.5rem);
+    background: url(../imgs/DBC_Mobile_320x640.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+  }
+
 
 /* font MEDIuM LIKE */
+
+
+
+
+#lettera {
+  padding-top: 3rem !important;
+}
 
 
 #lettera p {
