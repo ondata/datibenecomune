@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 8850
+      "total_count": 8851
     },
     {
       "id": 493503,
@@ -95,13 +95,13 @@
       "photo_id": null,
       "created_by_owner": false,
       "created_by_staff_member": true,
-      "total_count": 636
+      "total_count": 637
     }
   ],
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "total_signature_count": 34700,
+  "total_signature_count": 34758,
   "weekly_signature_count": 25218,
   "total_page_views": 62789,
   "total_share_count": 8109,
@@ -110,71 +110,9 @@
   "daily_signup_count": 63,
   "weekly_signup_count": 634,
   "monthly_signup_count": 1475,
-  "total_signup_count": 1490,
+  "total_signup_count": 1492,
   "supporter_message_count": null,
   "starter_vanity_url": null,
-  "organization": {
-    "id": 3192669,
-    "slug": "ondata",
-    "name": "Ondata",
-    "website": "https://ondata.it/",
-    "country_code": "IT",
-    "mission": "Siamo un’associazione che promuove l’apertura dei dati pubblici per renderli accessibili a tutti.",
-    "address": "",
-    "address_line_2": null,
-    "city": "",
-    "state": "",
-    "state_code": "",
-    "zipcode": "",
-    "postal_code": "",
-    "formatted_location_string": "Italia",
-    "fb_page": "",
-    "twitter_page": "ondatait",
-    "phone_number": null,
-    "admin_contact_name": null,
-    "admin_contact_email": null,
-    "tax_name": null,
-    "tax_id_number": null,
-    "tax_address": null,
-    "tax_city": null,
-    "tax_state_code": null,
-    "tax_country_code": null,
-    "non_profit": null,
-    "verified_by": null,
-    "verified_at": null,
-    "verification_requested_at": null,
-    "video": null,
-    "photo": {
-      "id": 224817960,
-      "url": "photos/6/qo/re/DDQoreneslQRRpQ-fullsize.jpg",
-      "sizes": {
-        "small": {
-          "url": "//assets.change.org/photos/6/qo/re/DDQoreneslQRRpQ-48x48-noPad.jpg?1604593004",
-          "processing": false,
-          "size": {
-            "width": 48,
-            "height": 48
-          }
-        },
-        "medium": {
-          "url": "//assets.change.org/photos/6/qo/re/DDQoreneslQRRpQ-128x128-noPad.jpg?1604593004",
-          "processing": false,
-          "size": {
-            "width": 128,
-            "height": 128
-          }
-        },
-        "large": {
-          "url": "//assets.change.org/photos/6/qo/re/DDQoreneslQRRpQ-400x400-noPad.jpg?1604593005",
-          "processing": false,
-          "size": {
-            "width": 400,
-            "height": 400
-          }
-        }
-      }
-    }
-  },
   "photo": {
     "id": 224817954,
     "url": "photos/5/yr/fm/eryrfmwKHIUhUlN-fullsize.jpg",
@@ -267,6 +205,139 @@
     },
     "roles": []
   },
+  "organization": {
+    "id": 3192669,
+    "slug": "ondata",
+    "name": "Ondata",
+    "website": "https://ondata.it/",
+    "country_code": "IT",
+    "mission": "Siamo un’associazione che promuove l’apertura dei dati pubblici per renderli accessibili a tutti.",
+    "address": "",
+    "address_line_2": null,
+    "city": "",
+    "state": "",
+    "state_code": "",
+    "zipcode": "",
+    "postal_code": "",
+    "formatted_location_string": "Italia",
+    "fb_page": "",
+    "twitter_page": "ondatait",
+    "phone_number": null,
+    "admin_contact_name": null,
+    "admin_contact_email": null,
+    "tax_name": null,
+    "tax_id_number": null,
+    "tax_address": null,
+    "tax_city": null,
+    "tax_state_code": null,
+    "tax_country_code": null,
+    "non_profit": null,
+    "verified_by": null,
+    "verified_at": null,
+    "verification_requested_at": null,
+    "video": null,
+    "photo": {
+      "id": 224817960,
+      "url": "photos/6/qo/re/DDQoreneslQRRpQ-fullsize.jpg",
+      "sizes": {
+        "small": {
+          "url": "//assets.change.org/photos/6/qo/re/DDQoreneslQRRpQ-48x48-noPad.jpg?1604593004",
+          "processing": false,
+          "size": {
+            "width": 48,
+            "height": 48
+          }
+        },
+        "medium": {
+          "url": "//assets.change.org/photos/6/qo/re/DDQoreneslQRRpQ-128x128-noPad.jpg?1604593004",
+          "processing": false,
+          "size": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "large": {
+          "url": "//assets.change.org/photos/6/qo/re/DDQoreneslQRRpQ-400x400-noPad.jpg?1604593005",
+          "processing": false,
+          "size": {
+            "width": 400,
+            "height": 400
+          }
+        }
+      }
+    }
+  },
+  "headline_bandit": {
+    "experimentName": "fht-25684771-it-it",
+    "variants": [
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Hai un minuto per aiutare %{sharer_name}?"
+        },
+        "inserted_at": "2020-04-15T20:36:03",
+        "position": 0,
+        "pulls": 73,
+        "rewards": 35,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:03",
+        "variant_group_name": "fht_it-IT"
+      },
+      {
+        "data": {
+          "description": "Mancano ancora %{signature_target} firme! %{petition_name}",
+          "headline": "Hai un minuto per aiutare %{sharer_name}?"
+        },
+        "inserted_at": "2020-04-15T20:36:03",
+        "position": 1,
+        "pulls": 74,
+        "rewards": 37,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:03",
+        "variant_group_name": "fht_it-IT"
+      },
+      {
+        "data": {
+          "description": "Mancano ancora %{signature_target} firme!",
+          "headline": "Petizione di tendenza 🚀: %{petition_name}"
+        },
+        "inserted_at": "2020-04-15T20:36:03",
+        "position": 2,
+        "pulls": 69,
+        "rewards": 70,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:03",
+        "variant_group_name": "fht_it-IT"
+      },
+      {
+        "data": {
+          "description": "Mancano ancora %{signature_target} firme!",
+          "headline": "Firma ora 👉 %{petition_name}"
+        },
+        "inserted_at": "2020-04-15T20:36:03",
+        "position": 3,
+        "pulls": 2412,
+        "rewards": 3455,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:03",
+        "variant_group_name": "fht_it-IT"
+      }
+    ],
+    "selectedVariant": {
+      "data": {
+        "description": "Mancano ancora %{signature_target} firme!",
+        "headline": "Firma ora 👉 %{petition_name}"
+      },
+      "inserted_at": "2020-04-15T20:36:03",
+      "position": 3,
+      "pulls": 2412,
+      "rewards": 3455,
+      "state": "active",
+      "updated_at": "2020-04-15T20:36:03",
+      "variant_group_name": "fht_it-IT"
+    },
+    "is_active": true
+  },
   "copylink_share_copy_bandit_definition": {
     "experimentName": "cl_sharecopy_25684771_it-IT",
     "selectedVariant": {
@@ -277,8 +348,8 @@
       },
       "inserted_at": "2020-04-15T20:36:32",
       "position": 2,
-      "pulls": 1587,
-      "rewards": 1048,
+      "pulls": 1593,
+      "rewards": 1049,
       "state": "active",
       "updated_at": "2020-04-15T20:36:32",
       "variant_group_name": "copylink-sharecopy_it-IT"
@@ -320,8 +391,8 @@
         },
         "inserted_at": "2020-04-15T20:36:32",
         "position": 2,
-        "pulls": 1587,
-        "rewards": 1048,
+        "pulls": 1593,
+        "rewards": 1049,
         "state": "active",
         "updated_at": "2020-04-15T20:36:32",
         "variant_group_name": "copylink-sharecopy_it-IT"
@@ -370,89 +441,18 @@
       }
     ]
   },
-  "headline_bandit": {
-    "experimentName": "fht-25684771-it-it",
-    "variants": [
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Hai un minuto per aiutare %{sharer_name}?"
-        },
-        "inserted_at": "2020-04-15T20:36:03",
-        "position": 0,
-        "pulls": 73,
-        "rewards": 34,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:03",
-        "variant_group_name": "fht_it-IT"
-      },
-      {
-        "data": {
-          "description": "Mancano ancora %{signature_target} firme! %{petition_name}",
-          "headline": "Hai un minuto per aiutare %{sharer_name}?"
-        },
-        "inserted_at": "2020-04-15T20:36:03",
-        "position": 1,
-        "pulls": 74,
-        "rewards": 37,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:03",
-        "variant_group_name": "fht_it-IT"
-      },
-      {
-        "data": {
-          "description": "Mancano ancora %{signature_target} firme!",
-          "headline": "Petizione di tendenza 🚀: %{petition_name}"
-        },
-        "inserted_at": "2020-04-15T20:36:03",
-        "position": 2,
-        "pulls": 68,
-        "rewards": 70,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:03",
-        "variant_group_name": "fht_it-IT"
-      },
-      {
-        "data": {
-          "description": "Mancano ancora %{signature_target} firme!",
-          "headline": "Firma ora 👉 %{petition_name}"
-        },
-        "inserted_at": "2020-04-15T20:36:03",
-        "position": 3,
-        "pulls": 2408,
-        "rewards": 3451,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:03",
-        "variant_group_name": "fht_it-IT"
-      }
-    ],
-    "selectedVariant": {
-      "data": {
-        "description": "Mancano ancora %{signature_target} firme!",
-        "headline": "Firma ora 👉 %{petition_name}"
-      },
-      "inserted_at": "2020-04-15T20:36:03",
-      "position": 3,
-      "pulls": 2408,
-      "rewards": 3451,
-      "state": "active",
-      "updated_at": "2020-04-15T20:36:03",
-      "variant_group_name": "fht_it-IT"
-    },
-    "is_active": true
-  },
   "whatsapp_share_copy_bandit_definition": {
     "experimentName": "washarecopy_25684771_it-IT",
     "selectedVariant": {
       "data": {
         "description": "%{petition_name}",
-        "headline": "Questa campagna ha bisogno di te, adesso",
-        "message": "Arriviamo a %{signature_target} firme entro oggi, puoi firmare ora?"
+        "headline": "Aiuta %{sharer_name} a far crescere questa petizione! 🚀",
+        "message": "Puoi firmare anche tu? ✍️"
       },
       "inserted_at": "2020-04-15T20:36:22",
-      "position": 4,
-      "pulls": 4431,
-      "rewards": 5551,
+      "position": 1,
+      "pulls": 137,
+      "rewards": 175,
       "state": "active",
       "updated_at": "2020-04-15T20:36:22",
       "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -480,8 +480,8 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 1,
-        "pulls": 131,
-        "rewards": 164,
+        "pulls": 137,
+        "rewards": 175,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
         "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -522,7 +522,7 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 4,
-        "pulls": 4431,
+        "pulls": 4433,
         "rewards": 5551,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
@@ -854,7 +854,7 @@
     }
   },
   "display_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
-  "displayed_signature_count": 34700,
+  "displayed_signature_count": 34758,
   "petition_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
   "petition_status": "active",
   "calculated_goal": 35000,
@@ -956,5 +956,5 @@
       }
     }
   },
-  "progress": 99.14285714285714
+  "progress": 99.30857142857143
 }
