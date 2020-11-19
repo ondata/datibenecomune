@@ -1,7 +1,7 @@
-name: aggiornamento giornaliero commenti change
+name: aggiornamento biorario dati campagna change
 
 on:
-  push:
+#  push:
   repository_dispatch:
   schedule:
     - cron:  '13 */2 * * *'
