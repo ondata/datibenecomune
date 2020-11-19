@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 8865
+      "total_count": 8866
     },
     {
       "id": 493503,
@@ -101,16 +101,16 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "total_signature_count": 35130,
+  "total_signature_count": 35150,
   "weekly_signature_count": 24950,
-  "total_page_views": 60061,
+  "total_page_views": 64180,
   "total_share_count": 8109,
   "daily_signature_count": 675,
   "monthly_signature_count": 35053,
   "daily_signup_count": 57,
   "weekly_signup_count": 574,
   "monthly_signup_count": 1518,
-  "total_signup_count": 1525,
+  "total_signup_count": 1526,
   "supporter_message_count": null,
   "starter_vanity_url": null,
   "photo": {
@@ -272,13 +272,13 @@
     "selectedVariant": {
       "data": {
         "description": "%{petition_name}",
-        "headline": "Aiuta %{sharer_name} a far crescere questa petizione! 🚀",
-        "message": "Puoi firmare anche tu? ✍️"
+        "headline": "Questa campagna ha bisogno di te, adesso",
+        "message": "Arriviamo a %{signature_target} firme entro oggi, puoi firmare ora?"
       },
       "inserted_at": "2020-04-15T20:36:22",
-      "position": 1,
-      "pulls": 162,
-      "rewards": 204,
+      "position": 4,
+      "pulls": 4457,
+      "rewards": 5592,
       "state": "active",
       "updated_at": "2020-04-15T20:36:22",
       "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -306,7 +306,7 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 1,
-        "pulls": 162,
+        "pulls": 164,
         "rewards": 204,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
@@ -348,8 +348,8 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 4,
-        "pulls": 4456,
-        "rewards": 5591,
+        "pulls": 4457,
+        "rewards": 5592,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
         "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -405,8 +405,8 @@
         },
         "inserted_at": "2020-04-15T20:36:03",
         "position": 3,
-        "pulls": 2446,
-        "rewards": 3520,
+        "pulls": 2450,
+        "rewards": 3523,
         "state": "active",
         "updated_at": "2020-04-15T20:36:03",
         "variant_group_name": "fht_it-IT"
@@ -419,8 +419,8 @@
       },
       "inserted_at": "2020-04-15T20:36:03",
       "position": 3,
-      "pulls": 2446,
-      "rewards": 3520,
+      "pulls": 2450,
+      "rewards": 3523,
       "state": "active",
       "updated_at": "2020-04-15T20:36:03",
       "variant_group_name": "fht_it-IT"
@@ -437,7 +437,7 @@
       },
       "inserted_at": "2020-04-15T20:36:32",
       "position": 2,
-      "pulls": 1626,
+      "pulls": 1627,
       "rewards": 1068,
       "state": "active",
       "updated_at": "2020-04-15T20:36:32",
@@ -480,7 +480,7 @@
         },
         "inserted_at": "2020-04-15T20:36:32",
         "position": 2,
-        "pulls": 1626,
+        "pulls": 1627,
         "rewards": 1068,
         "state": "active",
         "updated_at": "2020-04-15T20:36:32",
@@ -854,7 +854,7 @@
     }
   },
   "display_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
-  "displayed_signature_count": 35130,
+  "displayed_signature_count": 35150,
   "petition_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
   "petition_status": "active",
   "calculated_goal": 50000,
@@ -956,5 +956,5 @@
       }
     }
   },
-  "progress": 70.26
+  "progress": 70.3
 }
