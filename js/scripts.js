@@ -62,5 +62,10 @@
 
   $('#number-of-partners').text($('.partners').length);
 
+  $.getJSON("./risorse/datiChange.json", function (data) {
+    $("#total-number-of-signatures").text(data["total_signature_count"]);
+    $("#number-of-other-signatures").text(data["total_signature_count"] - $(".persone").length);
+   });
+
 
 })(jQuery); // End of use strict
