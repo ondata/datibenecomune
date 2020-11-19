@@ -62,3 +62,7 @@ header.masthead {
 #partners-container {
     align-items: center;
 }
+
+#partecipa .btn {
+    margin: 8px 4px;
+}
