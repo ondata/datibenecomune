@@ -18,6 +18,7 @@ code=$(curl -s -L -o /dev/null -w "%{http_code}" ''"$URL"'')
 # se il sito è raggiungibile scarica i dati
 if [ $code -eq 200 ]; then
 
-  curl -kLs "$URL" | jq -r '.total_signature_count' >"$folder"/../risorse/firmatariChange
+  curl -kLs "$URL" | jq . >"$folder"/../risorse/datiChange.json
+  <"$folder"/../risorse/datiChange.json jq -r '.total_signature_count' >"$folder"/../risorse/firmatariChange
 
 fi
