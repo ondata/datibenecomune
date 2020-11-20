@@ -101,14 +101,14 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "total_signature_count": 35176,
-  "weekly_signature_count": 24950,
+  "total_signature_count": 35177,
+  "weekly_signature_count": 24840,
   "total_page_views": 60061,
   "total_share_count": 12689,
-  "daily_signature_count": 675,
+  "daily_signature_count": 558,
   "monthly_signature_count": 35053,
-  "daily_signup_count": 57,
-  "weekly_signup_count": 574,
+  "daily_signup_count": 46,
+  "weekly_signup_count": 559,
   "monthly_signup_count": 1518,
   "total_signup_count": 1527,
   "supporter_message_count": null,
@@ -432,13 +432,13 @@
     "selectedVariant": {
       "data": {
         "description": "%{petition_name}",
-        "headline": "Aiuta %{sharer_name} a far crescere questa petizione! 🚀",
-        "message": "Puoi firmare anche tu? ✍️"
+        "headline": "Crea il cambiamento. Firma questa petizione.",
+        "message": "C'è ancora bisogno di %{signature_target} firme, puoi aggiungere anche la tua? ✍️"
       },
       "inserted_at": "2020-04-15T20:36:32",
-      "position": 1,
-      "pulls": 39,
-      "rewards": 3,
+      "position": 2,
+      "pulls": 1632,
+      "rewards": 1068,
       "state": "active",
       "updated_at": "2020-04-15T20:36:32",
       "variant_group_name": "copylink-sharecopy_it-IT"
@@ -854,7 +854,7 @@
     }
   },
   "display_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
-  "displayed_signature_count": 35176,
+  "displayed_signature_count": 35177,
   "petition_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
   "petition_status": "active",
   "calculated_goal": 50000,
@@ -956,5 +956,5 @@
       }
     }
   },
-  "progress": 70.352
+  "progress": 70.354
 }
