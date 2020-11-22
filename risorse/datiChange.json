@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 8906
+      "total_count": 8907
     },
     {
       "id": 493503,
@@ -101,16 +101,16 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "total_signature_count": 36893,
-  "weekly_signature_count": 25213,
-  "total_page_views": 66564,
+  "total_signature_count": 36947,
+  "weekly_signature_count": 12759,
+  "total_page_views": 70797,
   "total_share_count": 12939,
-  "daily_signature_count": 447,
-  "monthly_signature_count": 36659,
-  "daily_signup_count": 46,
-  "weekly_signup_count": 576,
-  "monthly_signup_count": 1682,
-  "total_signup_count": 1706,
+  "daily_signature_count": 411,
+  "monthly_signature_count": 36825,
+  "daily_signup_count": 34,
+  "weekly_signup_count": 504,
+  "monthly_signup_count": 1696,
+  "total_signup_count": 1714,
   "supporter_message_count": null,
   "starter_vanity_url": null,
   "photo": {
@@ -316,8 +316,8 @@
         },
         "inserted_at": "2020-04-15T20:36:03",
         "position": 3,
-        "pulls": 2618,
-        "rewards": 3673,
+        "pulls": 2621,
+        "rewards": 3675,
         "state": "active",
         "updated_at": "2020-04-15T20:36:03",
         "variant_group_name": "fht_it-IT"
@@ -330,8 +330,8 @@
       },
       "inserted_at": "2020-04-15T20:36:03",
       "position": 3,
-      "pulls": 2618,
-      "rewards": 3673,
+      "pulls": 2621,
+      "rewards": 3675,
       "state": "active",
       "updated_at": "2020-04-15T20:36:03",
       "variant_group_name": "fht_it-IT"
@@ -348,8 +348,8 @@
       },
       "inserted_at": "2020-04-15T20:36:32",
       "position": 2,
-      "pulls": 1832,
-      "rewards": 1148,
+      "pulls": 1836,
+      "rewards": 1149,
       "state": "active",
       "updated_at": "2020-04-15T20:36:32",
       "variant_group_name": "copylink-sharecopy_it-IT"
@@ -391,8 +391,8 @@
         },
         "inserted_at": "2020-04-15T20:36:32",
         "position": 2,
-        "pulls": 1832,
-        "rewards": 1148,
+        "pulls": 1836,
+        "rewards": 1149,
         "state": "active",
         "updated_at": "2020-04-15T20:36:32",
         "variant_group_name": "copylink-sharecopy_it-IT"
@@ -451,8 +451,8 @@
       },
       "inserted_at": "2020-04-15T20:36:22",
       "position": 4,
-      "pulls": 4775,
-      "rewards": 5889,
+      "pulls": 4785,
+      "rewards": 5898,
       "state": "active",
       "updated_at": "2020-04-15T20:36:22",
       "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -522,8 +522,8 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 4,
-        "pulls": 4775,
-        "rewards": 5889,
+        "pulls": 4785,
+        "rewards": 5898,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
         "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -854,7 +854,7 @@
     }
   },
   "display_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
-  "displayed_signature_count": 36893,
+  "displayed_signature_count": 36947,
   "petition_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
   "petition_status": "active",
   "calculated_goal": 50000,
@@ -956,5 +956,5 @@
       }
     }
   },
-  "progress": 73.786
+  "progress": 73.894
 }
