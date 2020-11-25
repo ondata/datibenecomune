@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 8959
+      "total_count": 8962
     },
     {
       "id": 493503,
@@ -101,18 +101,110 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "total_signature_count": 37920,
-  "weekly_signature_count": 3792,
-  "total_page_views": 73398,
-  "total_share_count": 14249,
-  "daily_signature_count": 208,
-  "monthly_signature_count": 37828,
+  "total_signature_count": 37940,
+  "weekly_signature_count": 3522,
+  "total_page_views": 73577,
+  "total_share_count": 14213,
+  "daily_signature_count": 174,
+  "monthly_signature_count": 37900,
   "daily_signup_count": 26,
-  "weekly_signup_count": 376,
-  "monthly_signup_count": 1817,
+  "weekly_signup_count": 368,
+  "monthly_signup_count": 1829,
   "total_signup_count": 1829,
   "supporter_message_count": null,
   "starter_vanity_url": null,
+  "photo": {
+    "id": 224817954,
+    "url": "photos/5/yr/fm/eryrfmwKHIUhUlN-fullsize.jpg",
+    "sizes": {
+      "square": {
+        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-400x400-noPad.jpg?1605763696",
+        "processing": false,
+        "size": {
+          "width": 400,
+          "height": 400
+        }
+      },
+      "small": {
+        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-400x225-noPad.jpg?1605763696",
+        "processing": false,
+        "size": {
+          "width": 400,
+          "height": 225
+        }
+      },
+      "medium": {
+        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-800x450-noPad.jpg?1605763697",
+        "processing": false,
+        "size": {
+          "width": 800,
+          "height": 450
+        }
+      },
+      "large": {
+        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-1600x900-noPad.jpg?1605763696",
+        "processing": false,
+        "size": {
+          "width": 1600,
+          "height": 900
+        }
+      }
+    },
+    "type": "photo"
+  },
+  "user": {
+    "id": 1161785303,
+    "slug": "1161785303",
+    "first_name": "Andrea Nelson",
+    "last_name": "Mauro",
+    "short_display_name": "Andrea Nelson",
+    "display_name": "Andrea Nelson Mauro",
+    "city": "Milan",
+    "state_code": "",
+    "country_code": "IT",
+    "website": "https://www.twitter.com/nelsonmau",
+    "locale": "it-IT",
+    "description": "",
+    "photo": {
+      "id": 224827295,
+      "url": "photos/5/kx/wg/WNKxwGhTiaCbqCH-fullsize.jpg",
+      "sizes": {
+        "small": {
+          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-48x48-noPad.jpg?1604769385",
+          "processing": false,
+          "size": {
+            "width": 48,
+            "height": 48
+          }
+        },
+        "medium": {
+          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-128x128-noPad.jpg?1604769385",
+          "processing": false,
+          "size": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "large": {
+          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-400x400-noPad.jpg?1604769385",
+          "processing": false,
+          "size": {
+            "width": 400,
+            "height": 400
+          }
+        },
+        "xlarge": {
+          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-800x800-noPad.jpg?1604769385",
+          "processing": false,
+          "size": {
+            "width": 800,
+            "height": 800
+          }
+        }
+      }
+    },
+    "roles": []
+  },
   "organization": {
     "id": 3192669,
     "slug": "ondata",
@@ -175,97 +267,76 @@
       }
     }
   },
-  "user": {
-    "id": 1161785303,
-    "slug": "1161785303",
-    "first_name": "Andrea Nelson",
-    "last_name": "Mauro",
-    "short_display_name": "Andrea Nelson",
-    "display_name": "Andrea Nelson Mauro",
-    "city": "Milan",
-    "state_code": "",
-    "country_code": "IT",
-    "website": "https://www.twitter.com/nelsonmau",
-    "locale": "it-IT",
-    "description": "",
-    "photo": {
-      "id": 224827295,
-      "url": "photos/5/kx/wg/WNKxwGhTiaCbqCH-fullsize.jpg",
-      "sizes": {
-        "small": {
-          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-48x48-noPad.jpg?1604769385",
-          "processing": false,
-          "size": {
-            "width": 48,
-            "height": 48
-          }
+  "headline_bandit": {
+    "experimentName": "fht-25684771-it-it",
+    "variants": [
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Hai un minuto per aiutare %{sharer_name}?"
         },
-        "medium": {
-          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-128x128-noPad.jpg?1604769385",
-          "processing": false,
-          "size": {
-            "width": 128,
-            "height": 128
-          }
+        "inserted_at": "2020-04-15T20:36:03",
+        "position": 0,
+        "pulls": 80,
+        "rewards": 35,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:03",
+        "variant_group_name": "fht_it-IT"
+      },
+      {
+        "data": {
+          "description": "Mancano ancora %{signature_target} firme! %{petition_name}",
+          "headline": "Hai un minuto per aiutare %{sharer_name}?"
         },
-        "large": {
-          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-400x400-noPad.jpg?1604769385",
-          "processing": false,
-          "size": {
-            "width": 400,
-            "height": 400
-          }
+        "inserted_at": "2020-04-15T20:36:03",
+        "position": 1,
+        "pulls": 79,
+        "rewards": 40,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:03",
+        "variant_group_name": "fht_it-IT"
+      },
+      {
+        "data": {
+          "description": "Mancano ancora %{signature_target} firme!",
+          "headline": "Petizione di tendenza 🚀: %{petition_name}"
         },
-        "xlarge": {
-          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-800x800-noPad.jpg?1604769385",
-          "processing": false,
-          "size": {
-            "width": 800,
-            "height": 800
-          }
-        }
+        "inserted_at": "2020-04-15T20:36:03",
+        "position": 2,
+        "pulls": 77,
+        "rewards": 73,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:03",
+        "variant_group_name": "fht_it-IT"
+      },
+      {
+        "data": {
+          "description": "Mancano ancora %{signature_target} firme!",
+          "headline": "Firma ora 👉 %{petition_name}"
+        },
+        "inserted_at": "2020-04-15T20:36:03",
+        "position": 3,
+        "pulls": 2677,
+        "rewards": 3735,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:03",
+        "variant_group_name": "fht_it-IT"
       }
+    ],
+    "selectedVariant": {
+      "data": {
+        "description": "Mancano ancora %{signature_target} firme!",
+        "headline": "Petizione di tendenza 🚀: %{petition_name}"
+      },
+      "inserted_at": "2020-04-15T20:36:03",
+      "position": 2,
+      "pulls": 77,
+      "rewards": 73,
+      "state": "active",
+      "updated_at": "2020-04-15T20:36:03",
+      "variant_group_name": "fht_it-IT"
     },
-    "roles": []
-  },
-  "photo": {
-    "id": 224817954,
-    "url": "photos/5/yr/fm/eryrfmwKHIUhUlN-fullsize.jpg",
-    "sizes": {
-      "square": {
-        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-400x400-noPad.jpg?1605763696",
-        "processing": false,
-        "size": {
-          "width": 400,
-          "height": 400
-        }
-      },
-      "small": {
-        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-400x225-noPad.jpg?1605763696",
-        "processing": false,
-        "size": {
-          "width": 400,
-          "height": 225
-        }
-      },
-      "medium": {
-        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-800x450-noPad.jpg?1605763697",
-        "processing": false,
-        "size": {
-          "width": 800,
-          "height": 450
-        }
-      },
-      "large": {
-        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-1600x900-noPad.jpg?1605763696",
-        "processing": false,
-        "size": {
-          "width": 1600,
-          "height": 900
-        }
-      }
-    },
-    "type": "photo"
+    "is_active": true
   },
   "whatsapp_share_copy_bandit_definition": {
     "experimentName": "washarecopy_25684771_it-IT",
@@ -278,7 +349,7 @@
       "inserted_at": "2020-04-15T20:36:22",
       "position": 4,
       "pulls": 4893,
-      "rewards": 5989,
+      "rewards": 5990,
       "state": "active",
       "updated_at": "2020-04-15T20:36:22",
       "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -334,8 +405,8 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 3,
-        "pulls": 102,
-        "rewards": 88,
+        "pulls": 103,
+        "rewards": 90,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
         "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -349,7 +420,7 @@
         "inserted_at": "2020-04-15T20:36:22",
         "position": 4,
         "pulls": 4893,
-        "rewards": 5989,
+        "rewards": 5990,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
         "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -361,13 +432,13 @@
     "selectedVariant": {
       "data": {
         "description": "%{petition_name}",
-        "headline": "Crea il cambiamento. Firma questa petizione.",
-        "message": "C'è ancora bisogno di %{signature_target} firme, puoi aggiungere anche la tua? ✍️"
+        "headline": "Firma la petizione",
+        "message": "Puoi aiutarmi firmando anche tu questa petizione?"
       },
       "inserted_at": "2020-04-15T20:36:32",
-      "position": 2,
-      "pulls": 1921,
-      "rewards": 1164,
+      "position": 0,
+      "pulls": 188,
+      "rewards": 112,
       "state": "active",
       "updated_at": "2020-04-15T20:36:32",
       "variant_group_name": "copylink-sharecopy_it-IT"
@@ -458,77 +529,6 @@
         "variant_group_name": "copylink-sharecopy_it-IT"
       }
     ]
-  },
-  "headline_bandit": {
-    "experimentName": "fht-25684771-it-it",
-    "variants": [
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Hai un minuto per aiutare %{sharer_name}?"
-        },
-        "inserted_at": "2020-04-15T20:36:03",
-        "position": 0,
-        "pulls": 80,
-        "rewards": 35,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:03",
-        "variant_group_name": "fht_it-IT"
-      },
-      {
-        "data": {
-          "description": "Mancano ancora %{signature_target} firme! %{petition_name}",
-          "headline": "Hai un minuto per aiutare %{sharer_name}?"
-        },
-        "inserted_at": "2020-04-15T20:36:03",
-        "position": 1,
-        "pulls": 79,
-        "rewards": 40,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:03",
-        "variant_group_name": "fht_it-IT"
-      },
-      {
-        "data": {
-          "description": "Mancano ancora %{signature_target} firme!",
-          "headline": "Petizione di tendenza 🚀: %{petition_name}"
-        },
-        "inserted_at": "2020-04-15T20:36:03",
-        "position": 2,
-        "pulls": 77,
-        "rewards": 73,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:03",
-        "variant_group_name": "fht_it-IT"
-      },
-      {
-        "data": {
-          "description": "Mancano ancora %{signature_target} firme!",
-          "headline": "Firma ora 👉 %{petition_name}"
-        },
-        "inserted_at": "2020-04-15T20:36:03",
-        "position": 3,
-        "pulls": 2676,
-        "rewards": 3734,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:03",
-        "variant_group_name": "fht_it-IT"
-      }
-    ],
-    "selectedVariant": {
-      "data": {
-        "description": "Mancano ancora %{signature_target} firme!",
-        "headline": "Firma ora 👉 %{petition_name}"
-      },
-      "inserted_at": "2020-04-15T20:36:03",
-      "position": 3,
-      "pulls": 2676,
-      "rewards": 3734,
-      "state": "active",
-      "updated_at": "2020-04-15T20:36:03",
-      "variant_group_name": "fht_it-IT"
-    },
-    "is_active": true
   },
   "targets": [
     {
@@ -854,7 +854,7 @@
     }
   },
   "display_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
-  "displayed_signature_count": 37920,
+  "displayed_signature_count": 37940,
   "petition_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
   "petition_status": "active",
   "calculated_goal": 50000,
@@ -956,5 +956,5 @@
       }
     }
   },
-  "progress": 75.84
+  "progress": 75.88
 }
