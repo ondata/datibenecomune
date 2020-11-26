@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 8964
+      "total_count": 8968
     },
     {
       "id": 493503,
@@ -101,16 +101,16 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "total_signature_count": 37991,
+  "total_signature_count": 38008,
   "weekly_signature_count": 3321,
-  "total_page_views": 73776,
-  "total_share_count": 14213,
+  "total_page_views": 73398,
+  "total_share_count": 14290,
   "daily_signature_count": 170,
   "monthly_signature_count": 37956,
   "daily_signup_count": 19,
   "weekly_signup_count": 349,
   "monthly_signup_count": 1831,
-  "total_signup_count": 1835,
+  "total_signup_count": 1839,
   "supporter_message_count": null,
   "starter_vanity_url": null,
   "photo": {
@@ -317,7 +317,7 @@
         "inserted_at": "2020-04-15T20:36:03",
         "position": 3,
         "pulls": 2681,
-        "rewards": 3738,
+        "rewards": 3739,
         "state": "active",
         "updated_at": "2020-04-15T20:36:03",
         "variant_group_name": "fht_it-IT"
@@ -326,12 +326,12 @@
     "selectedVariant": {
       "data": {
         "description": "Mancano ancora %{signature_target} firme!",
-        "headline": "Firma ora 👉 %{petition_name}"
+        "headline": "Petizione di tendenza 🚀: %{petition_name}"
       },
       "inserted_at": "2020-04-15T20:36:03",
-      "position": 3,
-      "pulls": 2681,
-      "rewards": 3738,
+      "position": 2,
+      "pulls": 79,
+      "rewards": 73,
       "state": "active",
       "updated_at": "2020-04-15T20:36:03",
       "variant_group_name": "fht_it-IT"
@@ -348,8 +348,8 @@
       },
       "inserted_at": "2020-04-15T20:36:22",
       "position": 4,
-      "pulls": 4900,
-      "rewards": 5994,
+      "pulls": 4902,
+      "rewards": 5995,
       "state": "active",
       "updated_at": "2020-04-15T20:36:22",
       "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -419,8 +419,8 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 4,
-        "pulls": 4900,
-        "rewards": 5994,
+        "pulls": 4902,
+        "rewards": 5995,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
         "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -432,13 +432,13 @@
     "selectedVariant": {
       "data": {
         "description": "%{petition_name}",
-        "headline": "Aiuta %{sharer_name} a far crescere questa petizione! 🚀",
-        "message": "Puoi firmare anche tu? ✍️"
+        "headline": "Crea il cambiamento. Firma questa petizione.",
+        "message": "C'è ancora bisogno di %{signature_target} firme, puoi aggiungere anche la tua? ✍️"
       },
       "inserted_at": "2020-04-15T20:36:32",
-      "position": 1,
-      "pulls": 45,
-      "rewards": 4,
+      "position": 2,
+      "pulls": 1931,
+      "rewards": 1169,
       "state": "active",
       "updated_at": "2020-04-15T20:36:32",
       "variant_group_name": "copylink-sharecopy_it-IT"
@@ -480,8 +480,8 @@
         },
         "inserted_at": "2020-04-15T20:36:32",
         "position": 2,
-        "pulls": 1929,
-        "rewards": 1167,
+        "pulls": 1931,
+        "rewards": 1169,
         "state": "active",
         "updated_at": "2020-04-15T20:36:32",
         "variant_group_name": "copylink-sharecopy_it-IT"
@@ -854,7 +854,7 @@
     }
   },
   "display_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
-  "displayed_signature_count": 37991,
+  "displayed_signature_count": 38008,
   "petition_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
   "petition_status": "active",
   "calculated_goal": 50000,
@@ -956,5 +956,5 @@
       }
     }
   },
-  "progress": 75.982
+  "progress": 76.016
 }
