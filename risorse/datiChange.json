@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 8962
+      "total_count": 8963
     },
     {
       "id": 493503,
@@ -101,16 +101,16 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "total_signature_count": 37940,
+  "total_signature_count": 37950,
   "weekly_signature_count": 3522,
-  "total_page_views": 73577,
+  "total_page_views": 73398,
   "total_share_count": 14213,
   "daily_signature_count": 174,
   "monthly_signature_count": 37900,
   "daily_signup_count": 26,
   "weekly_signup_count": 368,
   "monthly_signup_count": 1829,
-  "total_signup_count": 1829,
+  "total_signup_count": 1830,
   "supporter_message_count": null,
   "starter_vanity_url": null,
   "photo": {
@@ -303,7 +303,7 @@
         },
         "inserted_at": "2020-04-15T20:36:03",
         "position": 2,
-        "pulls": 77,
+        "pulls": 78,
         "rewards": 73,
         "state": "active",
         "updated_at": "2020-04-15T20:36:03",
@@ -317,7 +317,7 @@
         "inserted_at": "2020-04-15T20:36:03",
         "position": 3,
         "pulls": 2677,
-        "rewards": 3735,
+        "rewards": 3736,
         "state": "active",
         "updated_at": "2020-04-15T20:36:03",
         "variant_group_name": "fht_it-IT"
@@ -326,12 +326,12 @@
     "selectedVariant": {
       "data": {
         "description": "Mancano ancora %{signature_target} firme!",
-        "headline": "Petizione di tendenza 🚀: %{petition_name}"
+        "headline": "Firma ora 👉 %{petition_name}"
       },
       "inserted_at": "2020-04-15T20:36:03",
-      "position": 2,
-      "pulls": 77,
-      "rewards": 73,
+      "position": 3,
+      "pulls": 2677,
+      "rewards": 3736,
       "state": "active",
       "updated_at": "2020-04-15T20:36:03",
       "variant_group_name": "fht_it-IT"
@@ -348,7 +348,7 @@
       },
       "inserted_at": "2020-04-15T20:36:22",
       "position": 4,
-      "pulls": 4893,
+      "pulls": 4894,
       "rewards": 5990,
       "state": "active",
       "updated_at": "2020-04-15T20:36:22",
@@ -419,7 +419,7 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 4,
-        "pulls": 4893,
+        "pulls": 4894,
         "rewards": 5990,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
@@ -432,13 +432,13 @@
     "selectedVariant": {
       "data": {
         "description": "%{petition_name}",
-        "headline": "Firma la petizione",
-        "message": "Puoi aiutarmi firmando anche tu questa petizione?"
+        "headline": "Crea il cambiamento. Firma questa petizione.",
+        "message": "C'è ancora bisogno di %{signature_target} firme, puoi aggiungere anche la tua? ✍️"
       },
       "inserted_at": "2020-04-15T20:36:32",
-      "position": 0,
-      "pulls": 188,
-      "rewards": 112,
+      "position": 2,
+      "pulls": 1923,
+      "rewards": 1165,
       "state": "active",
       "updated_at": "2020-04-15T20:36:32",
       "variant_group_name": "copylink-sharecopy_it-IT"
@@ -480,8 +480,8 @@
         },
         "inserted_at": "2020-04-15T20:36:32",
         "position": 2,
-        "pulls": 1921,
-        "rewards": 1164,
+        "pulls": 1923,
+        "rewards": 1165,
         "state": "active",
         "updated_at": "2020-04-15T20:36:32",
         "variant_group_name": "copylink-sharecopy_it-IT"
@@ -508,7 +508,7 @@
         },
         "inserted_at": "2020-04-15T20:36:32",
         "position": 4,
-        "pulls": 51,
+        "pulls": 52,
         "rewards": 12,
         "state": "active",
         "updated_at": "2020-04-15T20:36:32",
@@ -854,7 +854,7 @@
     }
   },
   "display_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
-  "displayed_signature_count": 37940,
+  "displayed_signature_count": 37950,
   "petition_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
   "petition_status": "active",
   "calculated_goal": 50000,
@@ -956,5 +956,5 @@
       }
     }
   },
-  "progress": 75.88
+  "progress": 75.9
 }
