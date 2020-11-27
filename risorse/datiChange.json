@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 8979
+      "total_count": 8980
     },
     {
       "id": 493503,
@@ -101,7 +101,7 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "total_signature_count": 38104,
+  "total_signature_count": 38119,
   "weekly_signature_count": 2922,
   "total_page_views": 73398,
   "total_share_count": 14316,
@@ -110,7 +110,7 @@
   "daily_signup_count": 18,
   "weekly_signup_count": 321,
   "monthly_signup_count": 1848,
-  "total_signup_count": 1848,
+  "total_signup_count": 1850,
   "supporter_message_count": null,
   "starter_vanity_url": null,
   "photo": {
@@ -348,8 +348,8 @@
       },
       "inserted_at": "2020-04-15T20:36:22",
       "position": 4,
-      "pulls": 4910,
-      "rewards": 6001,
+      "pulls": 4913,
+      "rewards": 6012,
       "state": "active",
       "updated_at": "2020-04-15T20:36:22",
       "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -419,8 +419,8 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 4,
-        "pulls": 4910,
-        "rewards": 6001,
+        "pulls": 4913,
+        "rewards": 6012,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
         "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -437,8 +437,8 @@
       },
       "inserted_at": "2020-04-15T20:36:32",
       "position": 2,
-      "pulls": 1937,
-      "rewards": 1170,
+      "pulls": 1938,
+      "rewards": 1172,
       "state": "active",
       "updated_at": "2020-04-15T20:36:32",
       "variant_group_name": "copylink-sharecopy_it-IT"
@@ -480,8 +480,8 @@
         },
         "inserted_at": "2020-04-15T20:36:32",
         "position": 2,
-        "pulls": 1937,
-        "rewards": 1170,
+        "pulls": 1938,
+        "rewards": 1172,
         "state": "active",
         "updated_at": "2020-04-15T20:36:32",
         "variant_group_name": "copylink-sharecopy_it-IT"
@@ -854,7 +854,7 @@
     }
   },
   "display_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
-  "displayed_signature_count": 38104,
+  "displayed_signature_count": 38119,
   "petition_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
   "petition_status": "active",
   "calculated_goal": 50000,
@@ -956,5 +956,5 @@
       }
     }
   },
-  "progress": 76.208
+  "progress": 76.238
 }
