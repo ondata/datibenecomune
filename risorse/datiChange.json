@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 8982
+      "total_count": 8988
     },
     {
       "id": 493503,
@@ -101,9 +101,9 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "total_signature_count": 38135,
+  "total_signature_count": 38148,
   "weekly_signature_count": 2803,
-  "total_page_views": 74089,
+  "total_page_views": 73398,
   "total_share_count": 14316,
   "daily_signature_count": 122,
   "monthly_signature_count": 38108,
@@ -316,7 +316,7 @@
         },
         "inserted_at": "2020-04-15T20:36:03",
         "position": 3,
-        "pulls": 2685,
+        "pulls": 2687,
         "rewards": 3740,
         "state": "active",
         "updated_at": "2020-04-15T20:36:03",
@@ -330,7 +330,7 @@
       },
       "inserted_at": "2020-04-15T20:36:03",
       "position": 3,
-      "pulls": 2685,
+      "pulls": 2687,
       "rewards": 3740,
       "state": "active",
       "updated_at": "2020-04-15T20:36:03",
@@ -348,8 +348,8 @@
       },
       "inserted_at": "2020-04-15T20:36:22",
       "position": 4,
-      "pulls": 4913,
-      "rewards": 6014,
+      "pulls": 4915,
+      "rewards": 6018,
       "state": "active",
       "updated_at": "2020-04-15T20:36:22",
       "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -419,8 +419,8 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 4,
-        "pulls": 4913,
-        "rewards": 6014,
+        "pulls": 4915,
+        "rewards": 6018,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
         "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -854,7 +854,7 @@
     }
   },
   "display_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
-  "displayed_signature_count": 38135,
+  "displayed_signature_count": 38148,
   "petition_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
   "petition_status": "active",
   "calculated_goal": 50000,
@@ -956,5 +956,5 @@
       }
     }
   },
-  "progress": 76.27
+  "progress": 76.296
 }
