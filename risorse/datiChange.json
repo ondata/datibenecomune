@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 9010
+      "total_count": 9011
     },
     {
       "id": 493503,
@@ -101,16 +101,16 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "total_signature_count": 38755,
-  "weekly_signature_count": 1275,
-  "total_page_views": 75131,
+  "total_signature_count": 38776,
+  "weekly_signature_count": 1217,
+  "total_page_views": 75486,
   "total_share_count": 14316,
-  "daily_signature_count": 159,
-  "monthly_signature_count": 38724,
-  "daily_signup_count": 15,
-  "weekly_signup_count": 122,
-  "monthly_signup_count": 1896,
-  "total_signup_count": 1900,
+  "daily_signature_count": 132,
+  "monthly_signature_count": 38727,
+  "daily_signup_count": 14,
+  "weekly_signup_count": 119,
+  "monthly_signup_count": 1897,
+  "total_signup_count": 1904,
   "supporter_message_count": null,
   "starter_vanity_url": null,
   "photo": {
@@ -316,8 +316,8 @@
         },
         "inserted_at": "2020-04-15T20:36:03",
         "position": 3,
-        "pulls": 2716,
-        "rewards": 3789,
+        "pulls": 2718,
+        "rewards": 3798,
         "state": "active",
         "updated_at": "2020-04-15T20:36:03",
         "variant_group_name": "fht_it-IT"
@@ -325,13 +325,13 @@
     ],
     "selectedVariant": {
       "data": {
-        "description": "Mancano ancora %{signature_target} firme!",
-        "headline": "Firma ora 👉 %{petition_name}"
+        "description": "%{petition_name}",
+        "headline": "Hai un minuto per aiutare %{sharer_name}?"
       },
       "inserted_at": "2020-04-15T20:36:03",
-      "position": 3,
-      "pulls": 2716,
-      "rewards": 3789,
+      "position": 0,
+      "pulls": 80,
+      "rewards": 35,
       "state": "active",
       "updated_at": "2020-04-15T20:36:03",
       "variant_group_name": "fht_it-IT"
@@ -348,8 +348,8 @@
       },
       "inserted_at": "2020-04-15T20:36:22",
       "position": 4,
-      "pulls": 4992,
-      "rewards": 6075,
+      "pulls": 4997,
+      "rewards": 6076,
       "state": "active",
       "updated_at": "2020-04-15T20:36:22",
       "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -419,8 +419,8 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 4,
-        "pulls": 4992,
-        "rewards": 6075,
+        "pulls": 4997,
+        "rewards": 6076,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
         "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -437,8 +437,8 @@
       },
       "inserted_at": "2020-04-15T20:36:32",
       "position": 2,
-      "pulls": 1995,
-      "rewards": 1208,
+      "pulls": 1999,
+      "rewards": 1218,
       "state": "active",
       "updated_at": "2020-04-15T20:36:32",
       "variant_group_name": "copylink-sharecopy_it-IT"
@@ -480,8 +480,8 @@
         },
         "inserted_at": "2020-04-15T20:36:32",
         "position": 2,
-        "pulls": 1995,
-        "rewards": 1208,
+        "pulls": 1999,
+        "rewards": 1218,
         "state": "active",
         "updated_at": "2020-04-15T20:36:32",
         "variant_group_name": "copylink-sharecopy_it-IT"
@@ -854,7 +854,7 @@
     }
   },
   "display_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
-  "displayed_signature_count": 38755,
+  "displayed_signature_count": 38776,
   "petition_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
   "petition_status": "active",
   "calculated_goal": 50000,
@@ -956,5 +956,5 @@
       }
     }
   },
-  "progress": 77.51
+  "progress": 77.552
 }
