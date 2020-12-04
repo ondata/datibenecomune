@@ -101,7 +101,7 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "total_signature_count": 39148,
+  "total_signature_count": 39157,
   "weekly_signature_count": 935,
   "total_page_views": 76555,
   "total_share_count": 14690,
@@ -110,7 +110,7 @@
   "daily_signup_count": 4,
   "weekly_signup_count": 76,
   "monthly_signup_count": 1930,
-  "total_signup_count": 1932,
+  "total_signup_count": 1933,
   "supporter_message_count": null,
   "starter_vanity_url": null,
   "photo": {
@@ -277,8 +277,8 @@
       },
       "inserted_at": "2020-04-15T20:36:22",
       "position": 4,
-      "pulls": 5035,
-      "rewards": 6121,
+      "pulls": 5036,
+      "rewards": 6122,
       "state": "active",
       "updated_at": "2020-04-15T20:36:22",
       "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -348,8 +348,8 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 4,
-        "pulls": 5035,
-        "rewards": 6121,
+        "pulls": 5036,
+        "rewards": 6122,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
         "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -366,8 +366,8 @@
       },
       "inserted_at": "2020-04-15T20:36:32",
       "position": 2,
-      "pulls": 2034,
-      "rewards": 1239,
+      "pulls": 2035,
+      "rewards": 1243,
       "state": "active",
       "updated_at": "2020-04-15T20:36:32",
       "variant_group_name": "copylink-sharecopy_it-IT"
@@ -409,8 +409,8 @@
         },
         "inserted_at": "2020-04-15T20:36:32",
         "position": 2,
-        "pulls": 2034,
-        "rewards": 1239,
+        "pulls": 2035,
+        "rewards": 1243,
         "state": "active",
         "updated_at": "2020-04-15T20:36:32",
         "variant_group_name": "copylink-sharecopy_it-IT"
@@ -854,7 +854,7 @@
     }
   },
   "display_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
-  "displayed_signature_count": 39148,
+  "displayed_signature_count": 39157,
   "petition_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
   "petition_status": "active",
   "calculated_goal": 50000,
@@ -956,5 +956,5 @@
       }
     }
   },
-  "progress": 78.296
+  "progress": 78.314
 }
