@@ -101,16 +101,16 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "total_signature_count": 39254,
-  "weekly_signature_count": 886,
-  "total_page_views": 76839,
-  "total_share_count": 14736,
-  "daily_signature_count": 75,
-  "monthly_signature_count": 39176,
-  "daily_signup_count": 5,
-  "weekly_signup_count": 76,
-  "monthly_signup_count": 1934,
-  "total_signup_count": 1942,
+  "total_signature_count": 39264,
+  "weekly_signature_count": 837,
+  "total_page_views": 76422,
+  "total_share_count": 14690,
+  "daily_signature_count": 58,
+  "monthly_signature_count": 39205,
+  "daily_signup_count": 7,
+  "weekly_signup_count": 70,
+  "monthly_signup_count": 1938,
+  "total_signup_count": 1943,
   "supporter_message_count": null,
   "starter_vanity_url": null,
   "photo": {
@@ -267,109 +267,6 @@
       }
     }
   },
-  "copylink_share_copy_bandit_definition": {
-    "experimentName": "cl_sharecopy_25684771_it-IT",
-    "selectedVariant": {
-      "data": {
-        "description": "%{petition_name}",
-        "headline": "Crea il cambiamento. Firma questa petizione.",
-        "message": "C'è ancora bisogno di %{signature_target} firme, puoi aggiungere anche la tua? ✍️"
-      },
-      "inserted_at": "2020-04-15T20:36:32",
-      "position": 2,
-      "pulls": 2042,
-      "rewards": 1244,
-      "state": "active",
-      "updated_at": "2020-04-15T20:36:32",
-      "variant_group_name": "copylink-sharecopy_it-IT"
-    },
-    "variants": [
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Firma la petizione",
-          "message": "Puoi aiutarmi firmando anche tu questa petizione?"
-        },
-        "inserted_at": "2020-04-15T20:36:32",
-        "position": 0,
-        "pulls": 189,
-        "rewards": 112,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:32",
-        "variant_group_name": "copylink-sharecopy_it-IT"
-      },
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Aiuta %{sharer_name} a far crescere questa petizione! 🚀",
-          "message": "Puoi firmare anche tu? ✍️"
-        },
-        "inserted_at": "2020-04-15T20:36:32",
-        "position": 1,
-        "pulls": 45,
-        "rewards": 4,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:32",
-        "variant_group_name": "copylink-sharecopy_it-IT"
-      },
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Crea il cambiamento. Firma questa petizione.",
-          "message": "C'è ancora bisogno di %{signature_target} firme, puoi aggiungere anche la tua? ✍️"
-        },
-        "inserted_at": "2020-04-15T20:36:32",
-        "position": 2,
-        "pulls": 2042,
-        "rewards": 1244,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:32",
-        "variant_group_name": "copylink-sharecopy_it-IT"
-      },
-      {
-        "data": {
-          "description": "C'è ancora bisogno di %{signature_target} firme! %{petition_name}",
-          "headline": "Questa è una petizione di successo 🚀",
-          "message": "Puoi aiutarmi firmando questa petizione?"
-        },
-        "inserted_at": "2020-04-15T20:36:32",
-        "position": 3,
-        "pulls": 57,
-        "rewards": 16,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:32",
-        "variant_group_name": "copylink-sharecopy_it-IT"
-      },
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Possiamo creare un cambiamento.",
-          "message": "C'è ancora bisogno di %{signature_target} firme, possiamo dare il nostro aiuto firmando questa petizione. 💪"
-        },
-        "inserted_at": "2020-04-15T20:36:32",
-        "position": 4,
-        "pulls": 55,
-        "rewards": 14,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:32",
-        "variant_group_name": "copylink-sharecopy_it-IT"
-      },
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Questa campagna ha bisogno di te, adesso",
-          "message": "Arriviamo a %{signature_target} firme entro oggi, puoi firmare ora?"
-        },
-        "inserted_at": "2020-04-15T20:36:32",
-        "position": 5,
-        "pulls": 52,
-        "rewards": 29,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:32",
-        "variant_group_name": "copylink-sharecopy_it-IT"
-      }
-    ]
-  },
   "headline_bandit": {
     "experimentName": "fht-25684771-it-it",
     "variants": [
@@ -419,7 +316,7 @@
         },
         "inserted_at": "2020-04-15T20:36:03",
         "position": 3,
-        "pulls": 2747,
+        "pulls": 2752,
         "rewards": 3838,
         "state": "active",
         "updated_at": "2020-04-15T20:36:03",
@@ -433,7 +330,7 @@
       },
       "inserted_at": "2020-04-15T20:36:03",
       "position": 3,
-      "pulls": 2747,
+      "pulls": 2752,
       "rewards": 3838,
       "state": "active",
       "updated_at": "2020-04-15T20:36:03",
@@ -451,8 +348,8 @@
       },
       "inserted_at": "2020-04-15T20:36:22",
       "position": 4,
-      "pulls": 5047,
-      "rewards": 6127,
+      "pulls": 5050,
+      "rewards": 6129,
       "state": "active",
       "updated_at": "2020-04-15T20:36:22",
       "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -522,11 +419,114 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 4,
-        "pulls": 5047,
-        "rewards": 6127,
+        "pulls": 5050,
+        "rewards": 6129,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
         "variant_group_name": "whatsapp-sharecopy_it-IT"
+      }
+    ]
+  },
+  "copylink_share_copy_bandit_definition": {
+    "experimentName": "cl_sharecopy_25684771_it-IT",
+    "selectedVariant": {
+      "data": {
+        "description": "%{petition_name}",
+        "headline": "Crea il cambiamento. Firma questa petizione.",
+        "message": "C'è ancora bisogno di %{signature_target} firme, puoi aggiungere anche la tua? ✍️"
+      },
+      "inserted_at": "2020-04-15T20:36:32",
+      "position": 2,
+      "pulls": 2044,
+      "rewards": 1244,
+      "state": "active",
+      "updated_at": "2020-04-15T20:36:32",
+      "variant_group_name": "copylink-sharecopy_it-IT"
+    },
+    "variants": [
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Firma la petizione",
+          "message": "Puoi aiutarmi firmando anche tu questa petizione?"
+        },
+        "inserted_at": "2020-04-15T20:36:32",
+        "position": 0,
+        "pulls": 189,
+        "rewards": 112,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:32",
+        "variant_group_name": "copylink-sharecopy_it-IT"
+      },
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Aiuta %{sharer_name} a far crescere questa petizione! 🚀",
+          "message": "Puoi firmare anche tu? ✍️"
+        },
+        "inserted_at": "2020-04-15T20:36:32",
+        "position": 1,
+        "pulls": 45,
+        "rewards": 4,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:32",
+        "variant_group_name": "copylink-sharecopy_it-IT"
+      },
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Crea il cambiamento. Firma questa petizione.",
+          "message": "C'è ancora bisogno di %{signature_target} firme, puoi aggiungere anche la tua? ✍️"
+        },
+        "inserted_at": "2020-04-15T20:36:32",
+        "position": 2,
+        "pulls": 2044,
+        "rewards": 1244,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:32",
+        "variant_group_name": "copylink-sharecopy_it-IT"
+      },
+      {
+        "data": {
+          "description": "C'è ancora bisogno di %{signature_target} firme! %{petition_name}",
+          "headline": "Questa è una petizione di successo 🚀",
+          "message": "Puoi aiutarmi firmando questa petizione?"
+        },
+        "inserted_at": "2020-04-15T20:36:32",
+        "position": 3,
+        "pulls": 57,
+        "rewards": 16,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:32",
+        "variant_group_name": "copylink-sharecopy_it-IT"
+      },
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Possiamo creare un cambiamento.",
+          "message": "C'è ancora bisogno di %{signature_target} firme, possiamo dare il nostro aiuto firmando questa petizione. 💪"
+        },
+        "inserted_at": "2020-04-15T20:36:32",
+        "position": 4,
+        "pulls": 55,
+        "rewards": 14,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:32",
+        "variant_group_name": "copylink-sharecopy_it-IT"
+      },
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Questa campagna ha bisogno di te, adesso",
+          "message": "Arriviamo a %{signature_target} firme entro oggi, puoi firmare ora?"
+        },
+        "inserted_at": "2020-04-15T20:36:32",
+        "position": 5,
+        "pulls": 52,
+        "rewards": 29,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:32",
+        "variant_group_name": "copylink-sharecopy_it-IT"
       }
     ]
   },
@@ -854,7 +854,7 @@
     }
   },
   "display_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
-  "displayed_signature_count": 39254,
+  "displayed_signature_count": 39264,
   "petition_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
   "petition_status": "active",
   "calculated_goal": 50000,
@@ -956,5 +956,5 @@
       }
     }
   },
-  "progress": 78.508
+  "progress": 78.528
 }
