@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 9086
+      "total_count": 9088
     },
     {
       "id": 493503,
@@ -95,22 +95,22 @@
       "photo_id": null,
       "created_by_owner": false,
       "created_by_staff_member": true,
-      "total_count": 650
+      "total_count": 652
     }
   ],
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "total_signature_count": 39488,
-  "weekly_signature_count": 565,
-  "total_page_views": 77742,
+  "total_signature_count": 39494,
+  "weekly_signature_count": 559,
+  "total_page_views": 77668,
   "total_share_count": 14838,
-  "daily_signature_count": 40,
-  "monthly_signature_count": 36439,
+  "daily_signature_count": 41,
+  "monthly_signature_count": 36167,
   "daily_signup_count": 2,
   "weekly_signup_count": 43,
-  "monthly_signup_count": 1609,
-  "total_signup_count": 1958,
+  "monthly_signup_count": 1586,
+  "total_signup_count": 1959,
   "supporter_message_count": null,
   "starter_vanity_url": null,
   "photo": {
@@ -405,7 +405,7 @@
         },
         "inserted_at": "2020-04-15T20:36:03",
         "position": 3,
-        "pulls": 2769,
+        "pulls": 2770,
         "rewards": 3851,
         "state": "active",
         "updated_at": "2020-04-15T20:36:03",
@@ -415,12 +415,12 @@
     "selectedVariant": {
       "data": {
         "description": "Mancano ancora %{signature_target} firme!",
-        "headline": "Firma ora 👉 %{petition_name}"
+        "headline": "Petizione di tendenza 🚀: %{petition_name}"
       },
       "inserted_at": "2020-04-15T20:36:03",
-      "position": 3,
-      "pulls": 2769,
-      "rewards": 3851,
+      "position": 2,
+      "pulls": 80,
+      "rewards": 73,
       "state": "active",
       "updated_at": "2020-04-15T20:36:03",
       "variant_group_name": "fht_it-IT"
@@ -854,7 +854,7 @@
     }
   },
   "display_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
-  "displayed_signature_count": 39488,
+  "displayed_signature_count": 39494,
   "petition_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
   "petition_status": "active",
   "calculated_goal": 50000,
@@ -956,5 +956,5 @@
       }
     }
   },
-  "progress": 78.976
+  "progress": 78.988
 }
