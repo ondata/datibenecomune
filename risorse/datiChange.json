@@ -101,15 +101,15 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "total_signature_count": 39481,
-  "weekly_signature_count": 553,
+  "total_signature_count": 39482,
+  "weekly_signature_count": 565,
   "total_page_views": 77668,
   "total_share_count": 14838,
-  "daily_signature_count": 18,
-  "monthly_signature_count": 36623,
-  "daily_signup_count": 0,
-  "weekly_signup_count": 41,
-  "monthly_signup_count": 1619,
+  "daily_signature_count": 40,
+  "monthly_signature_count": 36439,
+  "daily_signup_count": 2,
+  "weekly_signup_count": 43,
+  "monthly_signup_count": 1609,
   "total_signup_count": 1957,
   "supporter_message_count": null,
   "starter_vanity_url": null,
@@ -317,7 +317,7 @@
         "inserted_at": "2020-04-15T20:36:03",
         "position": 3,
         "pulls": 2769,
-        "rewards": 3849,
+        "rewards": 3851,
         "state": "active",
         "updated_at": "2020-04-15T20:36:03",
         "variant_group_name": "fht_it-IT"
@@ -331,7 +331,7 @@
       "inserted_at": "2020-04-15T20:36:03",
       "position": 3,
       "pulls": 2769,
-      "rewards": 3849,
+      "rewards": 3851,
       "state": "active",
       "updated_at": "2020-04-15T20:36:03",
       "variant_group_name": "fht_it-IT"
@@ -854,7 +854,7 @@
     }
   },
   "display_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
-  "displayed_signature_count": 39481,
+  "displayed_signature_count": 39482,
   "petition_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
   "petition_status": "active",
   "calculated_goal": 50000,
@@ -956,5 +956,5 @@
       }
     }
   },
-  "progress": 78.962
+  "progress": 78.964
 }
