@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 9130
+      "total_count": 9132
     },
     {
       "id": 493503,
@@ -101,16 +101,16 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "total_signature_count": 39612,
+  "total_signature_count": 39613,
   "weekly_signature_count": 304,
   "total_page_views": 77861,
-  "total_share_count": 14838,
+  "total_share_count": 14878,
   "daily_signature_count": 26,
   "monthly_signature_count": 29404,
   "daily_signup_count": 1,
   "weekly_signup_count": 22,
   "monthly_signup_count": 1009,
-  "total_signup_count": 1968,
+  "total_signup_count": 1969,
   "supporter_message_count": null,
   "starter_vanity_url": null,
   "photo": {
@@ -854,7 +854,7 @@
     }
   },
   "display_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
-  "displayed_signature_count": 39612,
+  "displayed_signature_count": 39613,
   "petition_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
   "petition_status": "active",
   "calculated_goal": 50000,
@@ -956,5 +956,5 @@
       }
     }
   },
-  "progress": 79.224
+  "progress": 79.226
 }
