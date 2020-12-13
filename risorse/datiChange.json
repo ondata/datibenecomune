@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 9145
+      "total_count": 9146
     },
     {
       "id": 493503,
@@ -102,14 +102,14 @@
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
   "total_signature_count": 39625,
-  "weekly_signature_count": 276,
-  "total_page_views": 78129,
+  "weekly_signature_count": 222,
+  "total_page_views": 77861,
   "total_share_count": 14838,
-  "daily_signature_count": 20,
-  "monthly_signature_count": 29017,
+  "daily_signature_count": 19,
+  "monthly_signature_count": 28863,
   "daily_signup_count": 2,
-  "weekly_signup_count": 21,
-  "monthly_signup_count": 964,
+  "weekly_signup_count": 19,
+  "monthly_signup_count": 935,
   "total_signup_count": 1970,
   "supporter_message_count": null,
   "starter_vanity_url": null,
@@ -272,13 +272,13 @@
     "selectedVariant": {
       "data": {
         "description": "%{petition_name}",
-        "headline": "Questa campagna ha bisogno di te, adesso",
-        "message": "Arriviamo a %{signature_target} firme entro oggi, puoi firmare ora?"
+        "headline": "Firma la petizione",
+        "message": "Puoi aiutarmi firmando anche tu questa petizione?"
       },
       "inserted_at": "2020-04-15T20:36:22",
-      "position": 4,
-      "pulls": 5086,
-      "rewards": 6197,
+      "position": 0,
+      "pulls": 113,
+      "rewards": 105,
       "state": "active",
       "updated_at": "2020-04-15T20:36:22",
       "variant_group_name": "whatsapp-sharecopy_it-IT"
