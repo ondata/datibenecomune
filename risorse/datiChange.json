@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 9138
+      "total_count": 9144
     },
     {
       "id": 493503,
@@ -267,95 +267,6 @@
       }
     }
   },
-  "whatsapp_share_copy_bandit_definition": {
-    "experimentName": "washarecopy_25684771_it-IT",
-    "selectedVariant": {
-      "data": {
-        "description": "%{petition_name}",
-        "headline": "Questa campagna ha bisogno di te, adesso",
-        "message": "Arriviamo a %{signature_target} firme entro oggi, puoi firmare ora?"
-      },
-      "inserted_at": "2020-04-15T20:36:22",
-      "position": 4,
-      "pulls": 5086,
-      "rewards": 6197,
-      "state": "active",
-      "updated_at": "2020-04-15T20:36:22",
-      "variant_group_name": "whatsapp-sharecopy_it-IT"
-    },
-    "variants": [
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Firma la petizione",
-          "message": "Puoi aiutarmi firmando anche tu questa petizione?"
-        },
-        "inserted_at": "2020-04-15T20:36:22",
-        "position": 0,
-        "pulls": 113,
-        "rewards": 105,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:22",
-        "variant_group_name": "whatsapp-sharecopy_it-IT"
-      },
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Aiuta %{sharer_name} a far crescere questa petizione! 🚀",
-          "message": "Puoi firmare anche tu? ✍️"
-        },
-        "inserted_at": "2020-04-15T20:36:22",
-        "position": 1,
-        "pulls": 185,
-        "rewards": 222,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:22",
-        "variant_group_name": "whatsapp-sharecopy_it-IT"
-      },
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Crea il cambiamento. Firma questa petizione.",
-          "message": "C'è ancora bisogno di %{signature_target} firme, puoi aggiungere anche la tua? ✍️"
-        },
-        "inserted_at": "2020-04-15T20:36:22",
-        "position": 2,
-        "pulls": 126,
-        "rewards": 150,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:22",
-        "variant_group_name": "whatsapp-sharecopy_it-IT"
-      },
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Possiamo creare un cambiamento.",
-          "message": "C'è ancora bisogno di %{signature_target} firme, possiamo dare il nostro aiuto firmando questa petizione. 💪"
-        },
-        "inserted_at": "2020-04-15T20:36:22",
-        "position": 3,
-        "pulls": 105,
-        "rewards": 93,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:22",
-        "variant_group_name": "whatsapp-sharecopy_it-IT"
-      },
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Questa campagna ha bisogno di te, adesso",
-          "message": "Arriviamo a %{signature_target} firme entro oggi, puoi firmare ora?"
-        },
-        "inserted_at": "2020-04-15T20:36:22",
-        "position": 4,
-        "pulls": 5086,
-        "rewards": 6197,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:22",
-        "variant_group_name": "whatsapp-sharecopy_it-IT"
-      }
-    ]
-  },
   "headline_bandit": {
     "experimentName": "fht-25684771-it-it",
     "variants": [
@@ -406,7 +317,7 @@
         "inserted_at": "2020-04-15T20:36:03",
         "position": 3,
         "pulls": 2775,
-        "rewards": 3858,
+        "rewards": 3859,
         "state": "active",
         "updated_at": "2020-04-15T20:36:03",
         "variant_group_name": "fht_it-IT"
@@ -420,7 +331,7 @@
       "inserted_at": "2020-04-15T20:36:03",
       "position": 3,
       "pulls": 2775,
-      "rewards": 3858,
+      "rewards": 3859,
       "state": "active",
       "updated_at": "2020-04-15T20:36:03",
       "variant_group_name": "fht_it-IT"
@@ -432,13 +343,13 @@
     "selectedVariant": {
       "data": {
         "description": "%{petition_name}",
-        "headline": "Aiuta %{sharer_name} a far crescere questa petizione! 🚀",
-        "message": "Puoi firmare anche tu? ✍️"
+        "headline": "Crea il cambiamento. Firma questa petizione.",
+        "message": "C'è ancora bisogno di %{signature_target} firme, puoi aggiungere anche la tua? ✍️"
       },
       "inserted_at": "2020-04-15T20:36:32",
-      "position": 1,
-      "pulls": 46,
-      "rewards": 4,
+      "position": 2,
+      "pulls": 2067,
+      "rewards": 1254,
       "state": "active",
       "updated_at": "2020-04-15T20:36:32",
       "variant_group_name": "copylink-sharecopy_it-IT"
@@ -527,6 +438,95 @@
         "state": "active",
         "updated_at": "2020-04-15T20:36:32",
         "variant_group_name": "copylink-sharecopy_it-IT"
+      }
+    ]
+  },
+  "whatsapp_share_copy_bandit_definition": {
+    "experimentName": "washarecopy_25684771_it-IT",
+    "selectedVariant": {
+      "data": {
+        "description": "%{petition_name}",
+        "headline": "Questa campagna ha bisogno di te, adesso",
+        "message": "Arriviamo a %{signature_target} firme entro oggi, puoi firmare ora?"
+      },
+      "inserted_at": "2020-04-15T20:36:22",
+      "position": 4,
+      "pulls": 5086,
+      "rewards": 6197,
+      "state": "active",
+      "updated_at": "2020-04-15T20:36:22",
+      "variant_group_name": "whatsapp-sharecopy_it-IT"
+    },
+    "variants": [
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Firma la petizione",
+          "message": "Puoi aiutarmi firmando anche tu questa petizione?"
+        },
+        "inserted_at": "2020-04-15T20:36:22",
+        "position": 0,
+        "pulls": 113,
+        "rewards": 105,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:22",
+        "variant_group_name": "whatsapp-sharecopy_it-IT"
+      },
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Aiuta %{sharer_name} a far crescere questa petizione! 🚀",
+          "message": "Puoi firmare anche tu? ✍️"
+        },
+        "inserted_at": "2020-04-15T20:36:22",
+        "position": 1,
+        "pulls": 185,
+        "rewards": 222,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:22",
+        "variant_group_name": "whatsapp-sharecopy_it-IT"
+      },
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Crea il cambiamento. Firma questa petizione.",
+          "message": "C'è ancora bisogno di %{signature_target} firme, puoi aggiungere anche la tua? ✍️"
+        },
+        "inserted_at": "2020-04-15T20:36:22",
+        "position": 2,
+        "pulls": 126,
+        "rewards": 150,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:22",
+        "variant_group_name": "whatsapp-sharecopy_it-IT"
+      },
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Possiamo creare un cambiamento.",
+          "message": "C'è ancora bisogno di %{signature_target} firme, possiamo dare il nostro aiuto firmando questa petizione. 💪"
+        },
+        "inserted_at": "2020-04-15T20:36:22",
+        "position": 3,
+        "pulls": 105,
+        "rewards": 93,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:22",
+        "variant_group_name": "whatsapp-sharecopy_it-IT"
+      },
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Questa campagna ha bisogno di te, adesso",
+          "message": "Arriviamo a %{signature_target} firme entro oggi, puoi firmare ora?"
+        },
+        "inserted_at": "2020-04-15T20:36:22",
+        "position": 4,
+        "pulls": 5086,
+        "rewards": 6197,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:22",
+        "variant_group_name": "whatsapp-sharecopy_it-IT"
       }
     ]
   },
