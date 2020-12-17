@@ -103,7 +103,7 @@
   "organization_free_email_optins": null,
   "total_signature_count": 39687,
   "weekly_signature_count": 281,
-  "total_page_views": 78459,
+  "total_page_views": 78545,
   "total_share_count": 14838,
   "daily_signature_count": 46,
   "monthly_signature_count": 7868,
@@ -432,13 +432,13 @@
     "selectedVariant": {
       "data": {
         "description": "%{petition_name}",
-        "headline": "Crea il cambiamento. Firma questa petizione.",
-        "message": "C'è ancora bisogno di %{signature_target} firme, puoi aggiungere anche la tua? ✍️"
+        "headline": "Firma la petizione",
+        "message": "Puoi aiutarmi firmando anche tu questa petizione?"
       },
       "inserted_at": "2020-04-15T20:36:32",
-      "position": 2,
-      "pulls": 2086,
-      "rewards": 1255,
+      "position": 0,
+      "pulls": 190,
+      "rewards": 112,
       "state": "active",
       "updated_at": "2020-04-15T20:36:32",
       "variant_group_name": "copylink-sharecopy_it-IT"
