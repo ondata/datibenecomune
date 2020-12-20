@@ -101,10 +101,10 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "total_signature_count": 39932,
+  "total_signature_count": 39935,
   "weekly_signature_count": 436,
-  "total_page_views": 79078,
-  "total_share_count": 15191,
+  "total_page_views": 79439,
+  "total_share_count": 15231,
   "daily_signature_count": 40,
   "monthly_signature_count": 4874,
   "daily_signup_count": 4,
@@ -362,7 +362,7 @@
       "inserted_at": "2020-04-15T20:36:22",
       "position": 4,
       "pulls": 5181,
-      "rewards": 6291,
+      "rewards": 6292,
       "state": "active",
       "updated_at": "2020-04-15T20:36:22",
       "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -433,7 +433,7 @@
         "inserted_at": "2020-04-15T20:36:22",
         "position": 4,
         "pulls": 5181,
-        "rewards": 6291,
+        "rewards": 6292,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
         "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -464,7 +464,7 @@
       },
       "inserted_at": "2020-12-18T23:29:25",
       "position": 6,
-      "pulls": 3,
+      "pulls": 5,
       "rewards": 0,
       "state": "active",
       "updated_at": "2020-12-18T23:29:25",
@@ -563,7 +563,7 @@
         },
         "inserted_at": "2020-12-18T23:29:25",
         "position": 6,
-        "pulls": 3,
+        "pulls": 5,
         "rewards": 0,
         "state": "active",
         "updated_at": "2020-12-18T23:29:25",
@@ -895,7 +895,7 @@
     }
   },
   "display_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
-  "displayed_signature_count": 39932,
+  "displayed_signature_count": 39935,
   "petition_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
   "petition_status": "active",
   "calculated_goal": 50000,
@@ -997,5 +997,5 @@
       }
     }
   },
-  "progress": 79.864
+  "progress": 79.87
 }
