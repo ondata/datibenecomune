@@ -101,15 +101,15 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "total_signature_count": 39959,
-  "weekly_signature_count": 439,
+  "total_signature_count": 39962,
+  "weekly_signature_count": 448,
   "total_page_views": 79444,
   "total_share_count": 15191,
-  "daily_signature_count": 23,
-  "monthly_signature_count": 4588,
-  "daily_signup_count": 5,
-  "weekly_signup_count": 37,
-  "monthly_signup_count": 458,
+  "daily_signature_count": 25,
+  "monthly_signature_count": 4432,
+  "daily_signup_count": 6,
+  "weekly_signup_count": 39,
+  "monthly_signup_count": 444,
   "total_signup_count": 2009,
   "supporter_message_count": null,
   "starter_vanity_url": null,
@@ -317,7 +317,7 @@
         "inserted_at": "2020-04-15T20:36:03",
         "position": 3,
         "pulls": 2859,
-        "rewards": 3898,
+        "rewards": 3901,
         "state": "active",
         "updated_at": "2020-04-15T20:36:03",
         "variant_group_name": "fht_it-IT"
@@ -344,7 +344,7 @@
       "inserted_at": "2020-04-15T20:36:03",
       "position": 3,
       "pulls": 2859,
-      "rewards": 3898,
+      "rewards": 3901,
       "state": "active",
       "updated_at": "2020-04-15T20:36:03",
       "variant_group_name": "fht_it-IT"
@@ -361,7 +361,7 @@
       },
       "inserted_at": "2020-12-18T23:29:25",
       "position": 6,
-      "pulls": 5,
+      "pulls": 6,
       "rewards": 0,
       "state": "active",
       "updated_at": "2020-12-18T23:29:25",
@@ -460,7 +460,7 @@
         },
         "inserted_at": "2020-12-18T23:29:25",
         "position": 6,
-        "pulls": 5,
+        "pulls": 6,
         "rewards": 0,
         "state": "active",
         "updated_at": "2020-12-18T23:29:25",
@@ -493,7 +493,7 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 0,
-        "pulls": 113,
+        "pulls": 114,
         "rewards": 105,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
@@ -895,7 +895,7 @@
     }
   },
   "display_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
-  "displayed_signature_count": 39959,
+  "displayed_signature_count": 39962,
   "petition_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
   "petition_status": "active",
   "calculated_goal": 50000,
@@ -997,5 +997,5 @@
       }
     }
   },
-  "progress": 79.918
+  "progress": 79.924
 }
