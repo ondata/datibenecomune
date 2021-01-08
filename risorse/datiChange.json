@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 9722
+      "total_count": 9725
     },
     {
       "id": 493503,
@@ -101,7 +101,7 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "total_signature_count": 43128,
+  "total_signature_count": 43136,
   "weekly_signature_count": 2689,
   "total_page_views": 80782,
   "total_share_count": 15191,
@@ -272,15 +272,15 @@
     "selectedVariant": {
       "data": {
         "description": "%{petition_name}",
-        "headline": "Hai già visto questa petizione?",
-        "message": "Puoi aiutarmi firmando anche tu questa petizione?"
+        "headline": "Questa campagna ha bisogno di te, adesso",
+        "message": "Arriviamo a %{signature_target} firme entro oggi, puoi firmare ora?"
       },
-      "inserted_at": "2020-12-18T23:09:21",
-      "position": 5,
-      "pulls": 11,
-      "rewards": 5,
+      "inserted_at": "2020-04-15T20:36:22",
+      "position": 4,
+      "pulls": 5238,
+      "rewards": 6358,
       "state": "active",
-      "updated_at": "2020-12-18T23:09:21",
+      "updated_at": "2020-04-15T20:36:22",
       "variant_group_name": "whatsapp-sharecopy_it-IT"
     },
     "variants": [
@@ -895,7 +895,7 @@
     }
   },
   "display_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
-  "displayed_signature_count": 43128,
+  "displayed_signature_count": 43136,
   "petition_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
   "petition_status": "active",
   "calculated_goal": 50000,
@@ -997,5 +997,5 @@
       }
     }
   },
-  "progress": 86.256
+  "progress": 86.272
 }
