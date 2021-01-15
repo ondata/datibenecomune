@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 9839
+      "total_count": 9844
     },
     {
       "id": 493503,
@@ -101,15 +101,15 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "total_signature_count": 44072,
-  "weekly_signature_count": 1014,
-  "total_page_views": 81446,
+  "total_signature_count": 44091,
+  "weekly_signature_count": 1002,
+  "total_page_views": 81300,
   "total_share_count": 15191,
-  "daily_signature_count": 73,
-  "monthly_signature_count": 4454,
+  "daily_signature_count": 55,
+  "monthly_signature_count": 4446,
   "daily_signup_count": 1,
   "weekly_signup_count": 24,
-  "monthly_signup_count": 95,
+  "monthly_signup_count": 94,
   "total_signup_count": 2075,
   "supporter_message_count": null,
   "starter_vanity_url": null,
@@ -317,7 +317,7 @@
         "inserted_at": "2020-04-15T20:36:03",
         "position": 3,
         "pulls": 2917,
-        "rewards": 3933,
+        "rewards": 3934,
         "state": "active",
         "updated_at": "2020-04-15T20:36:03",
         "variant_group_name": "fht_it-IT"
@@ -344,7 +344,7 @@
       "inserted_at": "2020-04-15T20:36:03",
       "position": 3,
       "pulls": 2917,
-      "rewards": 3933,
+      "rewards": 3934,
       "state": "active",
       "updated_at": "2020-04-15T20:36:03",
       "variant_group_name": "fht_it-IT"
@@ -361,7 +361,7 @@
       },
       "inserted_at": "2020-04-15T20:36:22",
       "position": 4,
-      "pulls": 5284,
+      "pulls": 5286,
       "rewards": 6396,
       "state": "active",
       "updated_at": "2020-04-15T20:36:22",
@@ -432,7 +432,7 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 4,
-        "pulls": 5284,
+        "pulls": 5286,
         "rewards": 6396,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
@@ -895,7 +895,7 @@
     }
   },
   "display_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
-  "displayed_signature_count": 44072,
+  "displayed_signature_count": 44091,
   "petition_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
   "petition_status": "active",
   "calculated_goal": 50000,
@@ -997,5 +997,5 @@
       }
     }
   },
-  "progress": 88.144
+  "progress": 88.182
 }
