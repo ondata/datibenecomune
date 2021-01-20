@@ -101,10 +101,10 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "total_signature_count": 44754,
+  "total_signature_count": 44755,
   "weekly_signature_count": 885,
-  "total_page_views": 81905,
-  "total_share_count": 15191,
+  "total_page_views": 81300,
+  "total_share_count": 15641,
   "daily_signature_count": 56,
   "monthly_signature_count": 4837,
   "daily_signup_count": 1,
@@ -895,7 +895,7 @@
     }
   },
   "display_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
-  "displayed_signature_count": 44754,
+  "displayed_signature_count": 44755,
   "petition_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
   "petition_status": "active",
   "calculated_goal": 50000,
@@ -997,5 +997,5 @@
       }
     }
   },
-  "progress": 89.508
+  "progress": 89.51
 }
