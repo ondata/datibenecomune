@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 9979
+      "total_count": 9981
     },
     {
       "id": 493503,
@@ -101,15 +101,15 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "total_signature_count": 44946,
-  "weekly_signature_count": 776,
+  "total_signature_count": 44950,
+  "weekly_signature_count": 753,
   "total_page_views": 81300,
   "total_share_count": 15191,
-  "daily_signature_count": 34,
-  "monthly_signature_count": 4870,
+  "daily_signature_count": 29,
+  "monthly_signature_count": 4856,
   "daily_signup_count": 0,
-  "weekly_signup_count": 16,
-  "monthly_signup_count": 78,
+  "weekly_signup_count": 15,
+  "monthly_signup_count": 77,
   "total_signup_count": 2093,
   "supporter_message_count": null,
   "starter_vanity_url": null,
@@ -317,7 +317,7 @@
         "inserted_at": "2020-04-15T20:36:03",
         "position": 3,
         "pulls": 2929,
-        "rewards": 3936,
+        "rewards": 3938,
         "state": "active",
         "updated_at": "2020-04-15T20:36:03",
         "variant_group_name": "fht_it-IT"
@@ -344,7 +344,7 @@
       "inserted_at": "2020-04-15T20:36:03",
       "position": 3,
       "pulls": 2929,
-      "rewards": 3936,
+      "rewards": 3938,
       "state": "active",
       "updated_at": "2020-04-15T20:36:03",
       "variant_group_name": "fht_it-IT"
@@ -459,15 +459,15 @@
     "selectedVariant": {
       "data": {
         "description": "%{petition_name}",
-        "headline": "Hai già visto questa petizione?",
+        "headline": "Firma la petizione",
         "message": "Puoi aiutarmi firmando anche tu questa petizione?"
       },
-      "inserted_at": "2020-12-18T23:29:25",
-      "position": 6,
-      "pulls": 12,
-      "rewards": 4,
+      "inserted_at": "2020-04-15T20:36:32",
+      "position": 0,
+      "pulls": 259,
+      "rewards": 121,
       "state": "active",
-      "updated_at": "2020-12-18T23:29:25",
+      "updated_at": "2020-04-15T20:36:32",
       "variant_group_name": "copylink-sharecopy_it-IT"
     },
     "variants": [
@@ -493,7 +493,7 @@
         },
         "inserted_at": "2020-04-15T20:36:32",
         "position": 1,
-        "pulls": 49,
+        "pulls": 50,
         "rewards": 4,
         "state": "active",
         "updated_at": "2020-04-15T20:36:32",
@@ -895,7 +895,7 @@
     }
   },
   "display_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
-  "displayed_signature_count": 44946,
+  "displayed_signature_count": 44950,
   "petition_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
   "petition_status": "active",
   "calculated_goal": 50000,
@@ -997,5 +997,5 @@
       }
     }
   },
-  "progress": 89.892
+  "progress": 89.9
 }
