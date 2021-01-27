@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 10056
+      "total_count": 10057
     },
     {
       "id": 493503,
@@ -442,14 +442,14 @@
     "selectedVariant": {
       "data": {
         "description": "Mancano ancora %{signature_target} firme!",
-        "headline": "Hai già visto questa petizione?"
+        "headline": "Firma ora 👉 %{petition_name}"
       },
-      "inserted_at": "2020-12-18T19:23:44",
-      "position": 4,
-      "pulls": 16,
-      "rewards": 1,
+      "inserted_at": "2020-04-15T20:36:03",
+      "position": 3,
+      "pulls": 2944,
+      "rewards": 3947,
       "state": "active",
-      "updated_at": "2020-12-18T19:23:44",
+      "updated_at": "2020-04-15T20:36:03",
       "variant_group_name": "fht_it-IT"
     },
     "is_active": true
