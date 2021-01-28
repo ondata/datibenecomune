@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 10071
+      "total_count": 10072
     },
     {
       "id": 493503,
@@ -101,13 +101,13 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "total_signature_count": 45373,
-  "weekly_signature_count": 556,
+  "total_signature_count": 45385,
+  "weekly_signature_count": 537,
   "total_page_views": 82767,
   "total_share_count": 15191,
-  "daily_signature_count": 72,
-  "monthly_signature_count": 5163,
-  "daily_signup_count": 1,
+  "daily_signature_count": 69,
+  "monthly_signature_count": 5161,
+  "daily_signup_count": 0,
   "weekly_signup_count": 23,
   "monthly_signup_count": 87,
   "total_signup_count": 2114,
@@ -277,8 +277,8 @@
       },
       "inserted_at": "2020-04-15T20:36:22",
       "position": 4,
-      "pulls": 5393,
-      "rewards": 6475,
+      "pulls": 5394,
+      "rewards": 6477,
       "state": "active",
       "updated_at": "2020-04-15T20:36:22",
       "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -348,8 +348,8 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 4,
-        "pulls": 5393,
-        "rewards": 6475,
+        "pulls": 5394,
+        "rewards": 6477,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
         "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -370,102 +370,18 @@
       }
     ]
   },
-  "headline_bandit": {
-    "experimentName": "fht-25684771-it-it",
-    "variants": [
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Hai un minuto per aiutare %{sharer_name}?"
-        },
-        "inserted_at": "2020-04-15T20:36:03",
-        "position": 0,
-        "pulls": 84,
-        "rewards": 36,
-        "state": "inactive",
-        "updated_at": "2020-12-18T19:23:02",
-        "variant_group_name": "fht_it-IT"
-      },
-      {
-        "data": {
-          "description": "Mancano ancora %{signature_target} firme! %{petition_name}",
-          "headline": "Hai un minuto per aiutare %{sharer_name}?"
-        },
-        "inserted_at": "2020-04-15T20:36:03",
-        "position": 1,
-        "pulls": 86,
-        "rewards": 44,
-        "state": "inactive",
-        "updated_at": "2020-12-18T19:23:03",
-        "variant_group_name": "fht_it-IT"
-      },
-      {
-        "data": {
-          "description": "Mancano ancora %{signature_target} firme!",
-          "headline": "Petizione di tendenza 🚀: %{petition_name}"
-        },
-        "inserted_at": "2020-04-15T20:36:03",
-        "position": 2,
-        "pulls": 86,
-        "rewards": 75,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:03",
-        "variant_group_name": "fht_it-IT"
-      },
-      {
-        "data": {
-          "description": "Mancano ancora %{signature_target} firme!",
-          "headline": "Firma ora 👉 %{petition_name}"
-        },
-        "inserted_at": "2020-04-15T20:36:03",
-        "position": 3,
-        "pulls": 2966,
-        "rewards": 3956,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:03",
-        "variant_group_name": "fht_it-IT"
-      },
-      {
-        "data": {
-          "description": "Mancano ancora %{signature_target} firme!",
-          "headline": "Hai già visto questa petizione?"
-        },
-        "inserted_at": "2020-12-18T19:23:44",
-        "position": 4,
-        "pulls": 17,
-        "rewards": 1,
-        "state": "active",
-        "updated_at": "2020-12-18T19:23:44",
-        "variant_group_name": "fht_it-IT"
-      }
-    ],
-    "selectedVariant": {
-      "data": {
-        "description": "Mancano ancora %{signature_target} firme!",
-        "headline": "Firma ora 👉 %{petition_name}"
-      },
-      "inserted_at": "2020-04-15T20:36:03",
-      "position": 3,
-      "pulls": 2966,
-      "rewards": 3956,
-      "state": "active",
-      "updated_at": "2020-04-15T20:36:03",
-      "variant_group_name": "fht_it-IT"
-    },
-    "is_active": true
-  },
   "copylink_share_copy_bandit_definition": {
     "experimentName": "cl_sharecopy_25684771_it-IT",
     "selectedVariant": {
       "data": {
         "description": "%{petition_name}",
-        "headline": "Aiuta %{sharer_name} a far crescere questa petizione! 🚀",
-        "message": "Puoi firmare anche tu? ✍️"
+        "headline": "Firma la petizione",
+        "message": "Puoi aiutarmi firmando anche tu questa petizione?"
       },
       "inserted_at": "2020-04-15T20:36:32",
-      "position": 1,
-      "pulls": 53,
-      "rewards": 4,
+      "position": 0,
+      "pulls": 306,
+      "rewards": 145,
       "state": "active",
       "updated_at": "2020-04-15T20:36:32",
       "variant_group_name": "copylink-sharecopy_it-IT"
@@ -479,8 +395,8 @@
         },
         "inserted_at": "2020-04-15T20:36:32",
         "position": 0,
-        "pulls": 304,
-        "rewards": 143,
+        "pulls": 306,
+        "rewards": 145,
         "state": "active",
         "updated_at": "2020-04-15T20:36:32",
         "variant_group_name": "copylink-sharecopy_it-IT"
@@ -570,6 +486,90 @@
         "variant_group_name": "copylink-sharecopy_it-IT"
       }
     ]
+  },
+  "headline_bandit": {
+    "experimentName": "fht-25684771-it-it",
+    "variants": [
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Hai un minuto per aiutare %{sharer_name}?"
+        },
+        "inserted_at": "2020-04-15T20:36:03",
+        "position": 0,
+        "pulls": 84,
+        "rewards": 36,
+        "state": "inactive",
+        "updated_at": "2020-12-18T19:23:02",
+        "variant_group_name": "fht_it-IT"
+      },
+      {
+        "data": {
+          "description": "Mancano ancora %{signature_target} firme! %{petition_name}",
+          "headline": "Hai un minuto per aiutare %{sharer_name}?"
+        },
+        "inserted_at": "2020-04-15T20:36:03",
+        "position": 1,
+        "pulls": 86,
+        "rewards": 44,
+        "state": "inactive",
+        "updated_at": "2020-12-18T19:23:03",
+        "variant_group_name": "fht_it-IT"
+      },
+      {
+        "data": {
+          "description": "Mancano ancora %{signature_target} firme!",
+          "headline": "Petizione di tendenza 🚀: %{petition_name}"
+        },
+        "inserted_at": "2020-04-15T20:36:03",
+        "position": 2,
+        "pulls": 86,
+        "rewards": 75,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:03",
+        "variant_group_name": "fht_it-IT"
+      },
+      {
+        "data": {
+          "description": "Mancano ancora %{signature_target} firme!",
+          "headline": "Firma ora 👉 %{petition_name}"
+        },
+        "inserted_at": "2020-04-15T20:36:03",
+        "position": 3,
+        "pulls": 2966,
+        "rewards": 3956,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:03",
+        "variant_group_name": "fht_it-IT"
+      },
+      {
+        "data": {
+          "description": "Mancano ancora %{signature_target} firme!",
+          "headline": "Hai già visto questa petizione?"
+        },
+        "inserted_at": "2020-12-18T19:23:44",
+        "position": 4,
+        "pulls": 17,
+        "rewards": 1,
+        "state": "active",
+        "updated_at": "2020-12-18T19:23:44",
+        "variant_group_name": "fht_it-IT"
+      }
+    ],
+    "selectedVariant": {
+      "data": {
+        "description": "Mancano ancora %{signature_target} firme!",
+        "headline": "Firma ora 👉 %{petition_name}"
+      },
+      "inserted_at": "2020-04-15T20:36:03",
+      "position": 3,
+      "pulls": 2966,
+      "rewards": 3956,
+      "state": "active",
+      "updated_at": "2020-04-15T20:36:03",
+      "variant_group_name": "fht_it-IT"
+    },
+    "is_active": true
   },
   "targets": [
     {
@@ -895,7 +895,7 @@
     }
   },
   "display_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
-  "displayed_signature_count": 45373,
+  "displayed_signature_count": 45385,
   "petition_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
   "petition_status": "active",
   "calculated_goal": 50000,
@@ -997,5 +997,5 @@
       }
     }
   },
-  "progress": 90.746
+  "progress": 90.77
 }
