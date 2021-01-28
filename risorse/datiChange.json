@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 10068
+      "total_count": 10071
     },
     {
       "id": 493503,
@@ -101,9 +101,9 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "total_signature_count": 45372,
+  "total_signature_count": 45373,
   "weekly_signature_count": 556,
-  "total_page_views": 81300,
+  "total_page_views": 82767,
   "total_share_count": 15191,
   "daily_signature_count": 72,
   "monthly_signature_count": 5163,
@@ -277,7 +277,7 @@
       },
       "inserted_at": "2020-04-15T20:36:22",
       "position": 4,
-      "pulls": 5392,
+      "pulls": 5393,
       "rewards": 6475,
       "state": "active",
       "updated_at": "2020-04-15T20:36:22",
@@ -348,7 +348,7 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 4,
-        "pulls": 5392,
+        "pulls": 5393,
         "rewards": 6475,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
@@ -363,7 +363,7 @@
         "inserted_at": "2020-12-18T23:09:21",
         "position": 5,
         "pulls": 20,
-        "rewards": 13,
+        "rewards": 15,
         "state": "active",
         "updated_at": "2020-12-18T23:09:21",
         "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -419,7 +419,7 @@
         },
         "inserted_at": "2020-04-15T20:36:03",
         "position": 3,
-        "pulls": 2965,
+        "pulls": 2966,
         "rewards": 3956,
         "state": "active",
         "updated_at": "2020-04-15T20:36:03",
@@ -446,7 +446,7 @@
       },
       "inserted_at": "2020-04-15T20:36:03",
       "position": 3,
-      "pulls": 2965,
+      "pulls": 2966,
       "rewards": 3956,
       "state": "active",
       "updated_at": "2020-04-15T20:36:03",
@@ -459,13 +459,13 @@
     "selectedVariant": {
       "data": {
         "description": "%{petition_name}",
-        "headline": "Firma la petizione",
-        "message": "Puoi aiutarmi firmando anche tu questa petizione?"
+        "headline": "Aiuta %{sharer_name} a far crescere questa petizione! 🚀",
+        "message": "Puoi firmare anche tu? ✍️"
       },
       "inserted_at": "2020-04-15T20:36:32",
-      "position": 0,
-      "pulls": 303,
-      "rewards": 143,
+      "position": 1,
+      "pulls": 53,
+      "rewards": 4,
       "state": "active",
       "updated_at": "2020-04-15T20:36:32",
       "variant_group_name": "copylink-sharecopy_it-IT"
@@ -479,7 +479,7 @@
         },
         "inserted_at": "2020-04-15T20:36:32",
         "position": 0,
-        "pulls": 303,
+        "pulls": 304,
         "rewards": 143,
         "state": "active",
         "updated_at": "2020-04-15T20:36:32",
@@ -895,7 +895,7 @@
     }
   },
   "display_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
-  "displayed_signature_count": 45372,
+  "displayed_signature_count": 45373,
   "petition_title": "#datiBeneComune In formato aperto, ben descritti e machine readable @Palazzo_Chigi @GiuseppeConteIT",
   "petition_status": "active",
   "calculated_goal": 50000,
@@ -997,5 +997,5 @@
       }
     }
   },
-  "progress": 90.744
+  "progress": 90.746
 }
