@@ -339,14 +339,14 @@
     "selectedVariant": {
       "data": {
         "description": "Mancano ancora %{signature_target} firme!",
-        "headline": "Hai già visto questa petizione?"
+        "headline": "Firma ora 👉 %{petition_name}"
       },
-      "inserted_at": "2020-12-18T19:23:44",
-      "position": 4,
-      "pulls": 17,
-      "rewards": 1,
+      "inserted_at": "2020-04-15T20:36:03",
+      "position": 3,
+      "pulls": 2967,
+      "rewards": 3959,
       "state": "active",
-      "updated_at": "2020-12-18T19:23:44",
+      "updated_at": "2020-04-15T20:36:03",
       "variant_group_name": "fht_it-IT"
     },
     "is_active": true
@@ -356,13 +356,13 @@
     "selectedVariant": {
       "data": {
         "description": "%{petition_name}",
-        "headline": "Questa campagna ha bisogno di te, adesso",
-        "message": "Arriviamo a %{signature_target} firme entro oggi, puoi firmare ora?"
+        "headline": "Firma la petizione",
+        "message": "Puoi aiutarmi firmando anche tu questa petizione?"
       },
       "inserted_at": "2020-04-15T20:36:22",
-      "position": 4,
-      "pulls": 5398,
-      "rewards": 6482,
+      "position": 0,
+      "pulls": 117,
+      "rewards": 106,
       "state": "active",
       "updated_at": "2020-04-15T20:36:22",
       "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -432,7 +432,7 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 4,
-        "pulls": 5398,
+        "pulls": 5399,
         "rewards": 6482,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
