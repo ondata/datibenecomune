@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 10155
+      "total_count": 10157
     },
     {
       "id": 493503,
@@ -101,10 +101,10 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 46072,
-  "total_signature_count": 46072,
+  "displayed_signature_count": 46077,
+  "total_signature_count": 46077,
   "weekly_signature_count": 769,
-  "total_page_views": 81300,
+  "total_page_views": 83326,
   "total_share_count": 15191,
   "daily_signature_count": 73,
   "monthly_signature_count": 5361,
@@ -317,7 +317,7 @@
         },
         "inserted_at": "2020-04-15T20:36:03",
         "position": 3,
-        "pulls": 2984,
+        "pulls": 2985,
         "rewards": 3964,
         "state": "active",
         "updated_at": "2020-04-15T20:36:03",
@@ -344,7 +344,7 @@
       },
       "inserted_at": "2020-04-15T20:36:03",
       "position": 3,
-      "pulls": 2984,
+      "pulls": 2985,
       "rewards": 3964,
       "state": "active",
       "updated_at": "2020-04-15T20:36:03",
@@ -362,7 +362,7 @@
       },
       "inserted_at": "2020-04-15T20:36:22",
       "position": 4,
-      "pulls": 5433,
+      "pulls": 5434,
       "rewards": 6504,
       "state": "active",
       "updated_at": "2020-04-15T20:36:22",
@@ -433,7 +433,7 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 4,
-        "pulls": 5433,
+        "pulls": 5434,
         "rewards": 6504,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
@@ -460,15 +460,15 @@
     "selectedVariant": {
       "data": {
         "description": "%{petition_name}",
-        "headline": "Firma la petizione",
+        "headline": "Hai già visto questa petizione?",
         "message": "Puoi aiutarmi firmando anche tu questa petizione?"
       },
-      "inserted_at": "2020-04-15T20:36:32",
-      "position": 0,
-      "pulls": 324,
-      "rewards": 154,
+      "inserted_at": "2020-12-18T23:29:25",
+      "position": 6,
+      "pulls": 14,
+      "rewards": 4,
       "state": "active",
-      "updated_at": "2020-04-15T20:36:32",
+      "updated_at": "2020-12-18T23:29:25",
       "variant_group_name": "copylink-sharecopy_it-IT"
     },
     "variants": [
@@ -997,5 +997,5 @@
       }
     }
   },
-  "progress": 92.144
+  "progress": 92.154
 }
