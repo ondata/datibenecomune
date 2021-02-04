@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 10174
+      "total_count": 10175
     },
     {
       "id": 493503,
@@ -95,14 +95,14 @@
       "photo_id": null,
       "created_by_owner": false,
       "created_by_staff_member": true,
-      "total_count": 696
+      "total_count": 697
     }
   ],
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 46135,
-  "total_signature_count": 46135,
+  "displayed_signature_count": 46146,
+  "total_signature_count": 46146,
   "weekly_signature_count": 739,
   "total_page_views": 81300,
   "total_share_count": 15963,
@@ -560,12 +560,12 @@
     "selectedVariant": {
       "data": {
         "description": "Mancano ancora %{signature_target} firme!",
-        "headline": "Firma ora 👉 %{petition_name}"
+        "headline": "Petizione di tendenza 🚀: %{petition_name}"
       },
       "inserted_at": "2020-04-15T20:36:03",
-      "position": 3,
-      "pulls": 2988,
-      "rewards": 3965,
+      "position": 2,
+      "pulls": 86,
+      "rewards": 75,
       "state": "active",
       "updated_at": "2020-04-15T20:36:03",
       "variant_group_name": "fht_it-IT"
@@ -997,5 +997,5 @@
       }
     }
   },
-  "progress": 92.27
+  "progress": 92.292
 }
