@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 10181
+      "total_count": 10183
     },
     {
       "id": 493503,
@@ -101,16 +101,16 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 46177,
-  "total_signature_count": 46177,
-  "weekly_signature_count": 643,
+  "displayed_signature_count": 46187,
+  "total_signature_count": 46187,
+  "weekly_signature_count": 618,
   "total_page_views": 81300,
-  "total_share_count": 15963,
-  "daily_signature_count": 42,
-  "monthly_signature_count": 3722,
+  "total_share_count": 15191,
+  "daily_signature_count": 25,
+  "monthly_signature_count": 3554,
   "daily_signup_count": 0,
-  "weekly_signup_count": 13,
-  "monthly_signup_count": 82,
+  "weekly_signup_count": 12,
+  "monthly_signup_count": 81,
   "total_signup_count": 2130,
   "supporter_message_count": null,
   "starter_vanity_url": null,
@@ -448,7 +448,7 @@
         "inserted_at": "2020-12-18T19:23:44",
         "position": 4,
         "pulls": 18,
-        "rewards": 1,
+        "rewards": 3,
         "state": "active",
         "updated_at": "2020-12-18T19:23:44",
         "variant_group_name": "fht_it-IT"
@@ -997,5 +997,5 @@
       }
     }
   },
-  "progress": 92.354
+  "progress": 92.374
 }
