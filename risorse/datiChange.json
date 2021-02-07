@@ -101,13 +101,13 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 46254,
-  "total_signature_count": 46254,
-  "weekly_signature_count": 603,
+  "displayed_signature_count": 46255,
+  "total_signature_count": 46255,
+  "weekly_signature_count": 615,
   "total_page_views": 83472,
-  "total_share_count": 15191,
-  "daily_signature_count": 36,
-  "monthly_signature_count": 3209,
+  "total_share_count": 15983,
+  "daily_signature_count": 50,
+  "monthly_signature_count": 3207,
   "daily_signup_count": 1,
   "weekly_signup_count": 12,
   "monthly_signup_count": 80,
@@ -560,12 +560,12 @@
     "selectedVariant": {
       "data": {
         "description": "Mancano ancora %{signature_target} firme!",
-        "headline": "Petizione di tendenza 🚀: %{petition_name}"
+        "headline": "Firma ora 👉 %{petition_name}"
       },
       "inserted_at": "2020-04-15T20:36:03",
-      "position": 2,
-      "pulls": 86,
-      "rewards": 75,
+      "position": 3,
+      "pulls": 2989,
+      "rewards": 3968,
       "state": "active",
       "updated_at": "2020-04-15T20:36:03",
       "variant_group_name": "fht_it-IT"
@@ -997,5 +997,5 @@
       }
     }
   },
-  "progress": 92.508
+  "progress": 92.51
 }
