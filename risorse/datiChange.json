@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 10241
+      "total_count": 10243
     },
     {
       "id": 493503,
@@ -101,8 +101,8 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 46454,
-  "total_signature_count": 46454,
+  "displayed_signature_count": 46456,
+  "total_signature_count": 46456,
   "weekly_signature_count": 345,
   "total_page_views": 81300,
   "total_share_count": 15191,
@@ -318,7 +318,7 @@
         "inserted_at": "2020-04-15T20:36:03",
         "position": 3,
         "pulls": 2995,
-        "rewards": 3977,
+        "rewards": 3979,
         "state": "active",
         "updated_at": "2020-04-15T20:36:03",
         "variant_group_name": "fht_it-IT"
@@ -345,7 +345,7 @@
       "inserted_at": "2020-04-15T20:36:03",
       "position": 3,
       "pulls": 2995,
-      "rewards": 3977,
+      "rewards": 3979,
       "state": "active",
       "updated_at": "2020-04-15T20:36:03",
       "variant_group_name": "fht_it-IT"
@@ -997,5 +997,5 @@
       }
     }
   },
-  "progress": 92.908
+  "progress": 92.912
 }
