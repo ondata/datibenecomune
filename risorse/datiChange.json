@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 10258
+      "total_count": 10260
     },
     {
       "id": 493503,
@@ -101,10 +101,10 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 46479,
-  "total_signature_count": 46479,
+  "displayed_signature_count": 46481,
+  "total_signature_count": 46481,
   "weekly_signature_count": 309,
-  "total_page_views": 81300,
+  "total_page_views": 83668,
   "total_share_count": 15191,
   "daily_signature_count": 12,
   "monthly_signature_count": 2594,
@@ -152,59 +152,6 @@
       }
     },
     "type": "photo"
-  },
-  "user": {
-    "id": 1161785303,
-    "slug": "1161785303",
-    "first_name": "Andrea Nelson",
-    "last_name": "Mauro",
-    "short_display_name": "Andrea Nelson",
-    "display_name": "Andrea Nelson Mauro",
-    "city": "Milan",
-    "state_code": "",
-    "country_code": "IT",
-    "website": "https://www.twitter.com/nelsonmau",
-    "locale": "it-IT",
-    "description": "",
-    "photo": {
-      "id": 224827295,
-      "url": "photos/5/kx/wg/WNKxwGhTiaCbqCH-fullsize.jpg",
-      "sizes": {
-        "small": {
-          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-48x48-noPad.jpg?1604769385",
-          "processing": false,
-          "size": {
-            "width": 48,
-            "height": 48
-          }
-        },
-        "medium": {
-          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-128x128-noPad.jpg?1604769385",
-          "processing": false,
-          "size": {
-            "width": 128,
-            "height": 128
-          }
-        },
-        "large": {
-          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-400x400-noPad.jpg?1604769385",
-          "processing": false,
-          "size": {
-            "width": 400,
-            "height": 400
-          }
-        },
-        "xlarge": {
-          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-800x800-noPad.jpg?1604769385",
-          "processing": false,
-          "size": {
-            "width": 800,
-            "height": 800
-          }
-        }
-      }
-    },
-    "roles": []
   },
   "organization": {
     "id": 3192669,
@@ -267,6 +214,59 @@
         }
       }
     }
+  },
+  "user": {
+    "id": 1161785303,
+    "slug": "1161785303",
+    "first_name": "Andrea Nelson",
+    "last_name": "Mauro",
+    "short_display_name": "Andrea Nelson",
+    "display_name": "Andrea Nelson Mauro",
+    "city": "Milan",
+    "state_code": "",
+    "country_code": "IT",
+    "website": "https://www.twitter.com/nelsonmau",
+    "locale": "it-IT",
+    "description": "",
+    "photo": {
+      "id": 224827295,
+      "url": "photos/5/kx/wg/WNKxwGhTiaCbqCH-fullsize.jpg",
+      "sizes": {
+        "small": {
+          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-48x48-noPad.jpg?1604769385",
+          "processing": false,
+          "size": {
+            "width": 48,
+            "height": 48
+          }
+        },
+        "medium": {
+          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-128x128-noPad.jpg?1604769385",
+          "processing": false,
+          "size": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "large": {
+          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-400x400-noPad.jpg?1604769385",
+          "processing": false,
+          "size": {
+            "width": 400,
+            "height": 400
+          }
+        },
+        "xlarge": {
+          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-800x800-noPad.jpg?1604769385",
+          "processing": false,
+          "size": {
+            "width": 800,
+            "height": 800
+          }
+        }
+      }
+    },
+    "roles": []
   },
   "headline_bandit": {
     "experimentName": "fht-25684771-it-it",
@@ -391,8 +391,8 @@
         },
         "inserted_at": "2020-04-15T20:36:32",
         "position": 1,
-        "pulls": 55,
-        "rewards": 5,
+        "pulls": 56,
+        "rewards": 6,
         "state": "active",
         "updated_at": "2020-04-15T20:36:32",
         "variant_group_name": "copylink-sharecopy_it-IT"
@@ -479,7 +479,7 @@
       },
       "inserted_at": "2020-04-15T20:36:22",
       "position": 4,
-      "pulls": 5448,
+      "pulls": 5449,
       "rewards": 6512,
       "state": "active",
       "updated_at": "2020-04-15T20:36:22",
@@ -550,7 +550,7 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 4,
-        "pulls": 5448,
+        "pulls": 5449,
         "rewards": 6512,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
@@ -997,5 +997,5 @@
       }
     }
   },
-  "progress": 92.958
+  "progress": 92.962
 }
