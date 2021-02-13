@@ -273,15 +273,15 @@
     "selectedVariant": {
       "data": {
         "description": "%{petition_name}",
-        "headline": "Hai già visto questa petizione?",
-        "message": "Puoi aiutarmi firmando anche tu questa petizione?"
+        "headline": "Questa campagna ha bisogno di te, adesso",
+        "message": "Arriviamo a %{signature_target} firme entro oggi, puoi firmare ora?"
       },
-      "inserted_at": "2020-12-18T23:09:21",
-      "position": 5,
-      "pulls": 20,
-      "rewards": 15,
+      "inserted_at": "2020-04-15T20:36:22",
+      "position": 4,
+      "pulls": 5449,
+      "rewards": 6512,
       "state": "active",
-      "updated_at": "2020-12-18T23:09:21",
+      "updated_at": "2020-04-15T20:36:22",
       "variant_group_name": "whatsapp-sharecopy_it-IT"
     },
     "variants": [
