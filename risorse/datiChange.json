@@ -105,7 +105,7 @@
   "total_signature_count": 46609,
   "weekly_signature_count": 207,
   "total_page_views": 81300,
-  "total_share_count": 16020,
+  "total_share_count": 15191,
   "daily_signature_count": 23,
   "monthly_signature_count": 2163,
   "daily_signup_count": 0,
@@ -357,13 +357,13 @@
     "selectedVariant": {
       "data": {
         "description": "%{petition_name}",
-        "headline": "Firma la petizione",
-        "message": "Puoi aiutarmi firmando anche tu questa petizione?"
+        "headline": "Questa campagna ha bisogno di te, adesso",
+        "message": "Arriviamo a %{signature_target} firme entro oggi, puoi firmare ora?"
       },
       "inserted_at": "2020-04-15T20:36:22",
-      "position": 0,
-      "pulls": 119,
-      "rewards": 108,
+      "position": 4,
+      "pulls": 5449,
+      "rewards": 6512,
       "state": "active",
       "updated_at": "2020-04-15T20:36:22",
       "variant_group_name": "whatsapp-sharecopy_it-IT"
