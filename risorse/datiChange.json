@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 10351
+      "total_count": 10353
     },
     {
       "id": 493503,
@@ -101,16 +101,16 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 46821,
-  "total_signature_count": 46821,
-  "weekly_signature_count": 304,
-  "total_page_views": 81300,
+  "displayed_signature_count": 46831,
+  "total_signature_count": 46831,
+  "weekly_signature_count": 313,
+  "total_page_views": 83915,
   "total_share_count": 15191,
-  "daily_signature_count": 80,
-  "monthly_signature_count": 1968,
-  "daily_signup_count": 1,
+  "daily_signature_count": 84,
+  "monthly_signature_count": 1940,
+  "daily_signup_count": 0,
   "weekly_signup_count": 7,
-  "monthly_signup_count": 54,
+  "monthly_signup_count": 53,
   "total_signup_count": 2145,
   "supporter_message_count": null,
   "starter_vanity_url": null,
@@ -460,15 +460,15 @@
     "selectedVariant": {
       "data": {
         "description": "%{petition_name}",
-        "headline": "Firma la petizione",
+        "headline": "Hai già visto questa petizione?",
         "message": "Puoi aiutarmi firmando anche tu questa petizione?"
       },
-      "inserted_at": "2020-04-15T20:36:32",
-      "position": 0,
-      "pulls": 349,
-      "rewards": 155,
+      "inserted_at": "2020-12-18T23:29:25",
+      "position": 6,
+      "pulls": 15,
+      "rewards": 4,
       "state": "active",
-      "updated_at": "2020-04-15T20:36:32",
+      "updated_at": "2020-12-18T23:29:25",
       "variant_group_name": "copylink-sharecopy_it-IT"
     },
     "variants": [
@@ -1056,5 +1056,5 @@
       }
     }
   },
-  "progress": 93.642
+  "progress": 93.662
 }
