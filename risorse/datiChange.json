@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 10424
+      "total_count": 10425
     },
     {
       "id": 493503,
@@ -101,8 +101,8 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 47269,
-  "total_signature_count": 47269,
+  "displayed_signature_count": 47278,
+  "total_signature_count": 47278,
   "weekly_signature_count": 556,
   "total_page_views": 84924,
   "total_share_count": 16258,
@@ -317,8 +317,8 @@
         },
         "inserted_at": "2020-04-15T20:36:03",
         "position": 3,
-        "pulls": 3039,
-        "rewards": 3999,
+        "pulls": 3040,
+        "rewards": 4001,
         "state": "active",
         "updated_at": "2020-04-15T20:36:03",
         "variant_group_name": "fht_it-IT"
@@ -340,14 +340,14 @@
     "selectedVariant": {
       "data": {
         "description": "Mancano ancora %{signature_target} firme!",
-        "headline": "Firma ora 👉 %{petition_name}"
+        "headline": "Hai già visto questa petizione?"
       },
-      "inserted_at": "2020-04-15T20:36:03",
-      "position": 3,
-      "pulls": 3039,
-      "rewards": 3999,
+      "inserted_at": "2020-12-18T19:23:44",
+      "position": 4,
+      "pulls": 19,
+      "rewards": 4,
       "state": "active",
-      "updated_at": "2020-04-15T20:36:03",
+      "updated_at": "2020-12-18T19:23:44",
       "variant_group_name": "fht_it-IT"
     },
     "is_active": true
@@ -1056,5 +1056,5 @@
       }
     }
   },
-  "progress": 94.538
+  "progress": 94.556
 }
