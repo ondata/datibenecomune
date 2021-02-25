@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 10419
+      "total_count": 10422
     },
     {
       "id": 493503,
@@ -101,17 +101,17 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 47240,
-  "total_signature_count": 47240,
-  "weekly_signature_count": 547,
+  "displayed_signature_count": 47261,
+  "total_signature_count": 47261,
+  "weekly_signature_count": 543,
   "total_page_views": 84924,
   "total_share_count": 16258,
-  "daily_signature_count": 63,
-  "monthly_signature_count": 1999,
+  "daily_signature_count": 55,
+  "monthly_signature_count": 1987,
   "daily_signup_count": 3,
   "weekly_signup_count": 39,
   "monthly_signup_count": 70,
-  "total_signup_count": 2183,
+  "total_signup_count": 2184,
   "supporter_message_count": null,
   "starter_vanity_url": null,
   "photo": {
@@ -362,7 +362,7 @@
       },
       "inserted_at": "2020-04-15T20:36:32",
       "position": 0,
-      "pulls": 377,
+      "pulls": 378,
       "rewards": 158,
       "state": "active",
       "updated_at": "2020-04-15T20:36:32",
@@ -377,7 +377,7 @@
         },
         "inserted_at": "2020-04-15T20:36:32",
         "position": 0,
-        "pulls": 377,
+        "pulls": 378,
         "rewards": 158,
         "state": "active",
         "updated_at": "2020-04-15T20:36:32",
@@ -474,15 +474,15 @@
     "selectedVariant": {
       "data": {
         "description": "%{petition_name}",
-        "headline": "Hai già visto questa petizione?",
-        "message": "Puoi aiutarmi firmando anche tu questa petizione?"
+        "headline": "Questa campagna ha bisogno di te, adesso",
+        "message": "Arriviamo a %{signature_target} firme entro oggi, puoi firmare ora?"
       },
-      "inserted_at": "2020-12-18T23:09:21",
-      "position": 5,
-      "pulls": 29,
-      "rewards": 26,
+      "inserted_at": "2020-04-15T20:36:22",
+      "position": 4,
+      "pulls": 5550,
+      "rewards": 6605,
       "state": "active",
-      "updated_at": "2020-12-18T23:09:21",
+      "updated_at": "2020-04-15T20:36:22",
       "variant_group_name": "whatsapp-sharecopy_it-IT"
     },
     "variants": [
@@ -550,8 +550,8 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 4,
-        "pulls": 5548,
-        "rewards": 6604,
+        "pulls": 5550,
+        "rewards": 6605,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
         "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -1056,5 +1056,5 @@
       }
     }
   },
-  "progress": 94.48
+  "progress": 94.522
 }
