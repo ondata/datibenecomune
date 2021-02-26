@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 10425
+      "total_count": 10427
     },
     {
       "id": 493503,
@@ -101,16 +101,16 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 47278,
-  "total_signature_count": 47278,
-  "weekly_signature_count": 556,
+  "displayed_signature_count": 47290,
+  "total_signature_count": 47290,
+  "weekly_signature_count": 561,
   "total_page_views": 84924,
-  "total_share_count": 16258,
-  "daily_signature_count": 47,
-  "monthly_signature_count": 1989,
-  "daily_signup_count": 4,
-  "weekly_signup_count": 41,
-  "monthly_signup_count": 72,
+  "total_share_count": 15191,
+  "daily_signature_count": 43,
+  "monthly_signature_count": 1993,
+  "daily_signup_count": 3,
+  "weekly_signup_count": 40,
+  "monthly_signup_count": 71,
   "total_signup_count": 2184,
   "supporter_message_count": null,
   "starter_vanity_url": null,
@@ -340,14 +340,14 @@
     "selectedVariant": {
       "data": {
         "description": "Mancano ancora %{signature_target} firme!",
-        "headline": "Hai già visto questa petizione?"
+        "headline": "Firma ora 👉 %{petition_name}"
       },
-      "inserted_at": "2020-12-18T19:23:44",
-      "position": 4,
-      "pulls": 19,
-      "rewards": 4,
+      "inserted_at": "2020-04-15T20:36:03",
+      "position": 3,
+      "pulls": 3040,
+      "rewards": 4001,
       "state": "active",
-      "updated_at": "2020-12-18T19:23:44",
+      "updated_at": "2020-04-15T20:36:03",
       "variant_group_name": "fht_it-IT"
     },
     "is_active": true
@@ -1056,5 +1056,5 @@
       }
     }
   },
-  "progress": 94.556
+  "progress": 94.58
 }
