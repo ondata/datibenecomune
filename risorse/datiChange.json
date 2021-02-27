@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 10445
+      "total_count": 10446
     },
     {
       "id": 493503,
@@ -101,16 +101,16 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 47328,
-  "total_signature_count": 47328,
-  "weekly_signature_count": 508,
+  "displayed_signature_count": 47333,
+  "total_signature_count": 47333,
+  "weekly_signature_count": 499,
   "total_page_views": 84924,
   "total_share_count": 15191,
-  "daily_signature_count": 20,
-  "monthly_signature_count": 1940,
+  "daily_signature_count": 19,
+  "monthly_signature_count": 1909,
   "daily_signup_count": 1,
   "weekly_signup_count": 41,
-  "monthly_signup_count": 72,
+  "monthly_signup_count": 69,
   "total_signup_count": 2186,
   "supporter_message_count": null,
   "starter_vanity_url": null,
@@ -362,7 +362,7 @@
       },
       "inserted_at": "2020-04-15T20:36:22",
       "position": 4,
-      "pulls": 5559,
+      "pulls": 5560,
       "rewards": 6623,
       "state": "active",
       "updated_at": "2020-04-15T20:36:22",
@@ -433,7 +433,7 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 4,
-        "pulls": 5559,
+        "pulls": 5560,
         "rewards": 6623,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
@@ -460,15 +460,15 @@
     "selectedVariant": {
       "data": {
         "description": "%{petition_name}",
-        "headline": "Firma la petizione",
+        "headline": "Hai già visto questa petizione?",
         "message": "Puoi aiutarmi firmando anche tu questa petizione?"
       },
-      "inserted_at": "2020-04-15T20:36:32",
-      "position": 0,
-      "pulls": 380,
-      "rewards": 158,
+      "inserted_at": "2020-12-18T23:29:25",
+      "position": 6,
+      "pulls": 15,
+      "rewards": 4,
       "state": "active",
-      "updated_at": "2020-04-15T20:36:32",
+      "updated_at": "2020-12-18T23:29:25",
       "variant_group_name": "copylink-sharecopy_it-IT"
     },
     "variants": [
@@ -1056,5 +1056,5 @@
       }
     }
   },
-  "progress": 94.656
+  "progress": 94.666
 }
