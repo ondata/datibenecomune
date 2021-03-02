@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 10487
+      "total_count": 10489
     },
     {
       "id": 493503,
@@ -101,17 +101,17 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 47434,
-  "total_signature_count": 47434,
+  "displayed_signature_count": 47445,
+  "total_signature_count": 47445,
   "weekly_signature_count": 391,
-  "total_page_views": 84924,
+  "total_page_views": 85381,
   "total_share_count": 16304,
   "daily_signature_count": 54,
   "monthly_signature_count": 1799,
   "daily_signup_count": 2,
   "weekly_signup_count": 23,
   "monthly_signup_count": 69,
-  "total_signup_count": 2188,
+  "total_signup_count": 2189,
   "supporter_message_count": null,
   "starter_vanity_url": null,
   "photo": {
@@ -362,8 +362,8 @@
       },
       "inserted_at": "2020-04-15T20:36:22",
       "position": 4,
-      "pulls": 5571,
-      "rewards": 6660,
+      "pulls": 5573,
+      "rewards": 6661,
       "state": "active",
       "updated_at": "2020-04-15T20:36:22",
       "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -433,8 +433,8 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 4,
-        "pulls": 5571,
-        "rewards": 6660,
+        "pulls": 5573,
+        "rewards": 6661,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
         "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -466,7 +466,7 @@
       "inserted_at": "2020-04-15T20:36:32",
       "position": 0,
       "pulls": 383,
-      "rewards": 158,
+      "rewards": 159,
       "state": "active",
       "updated_at": "2020-04-15T20:36:32",
       "variant_group_name": "copylink-sharecopy_it-IT"
@@ -481,7 +481,7 @@
         "inserted_at": "2020-04-15T20:36:32",
         "position": 0,
         "pulls": 383,
-        "rewards": 158,
+        "rewards": 159,
         "state": "active",
         "updated_at": "2020-04-15T20:36:32",
         "variant_group_name": "copylink-sharecopy_it-IT"
@@ -1056,5 +1056,5 @@
       }
     }
   },
-  "progress": 94.868
+  "progress": 94.89
 }
