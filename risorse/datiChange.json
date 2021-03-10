@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 10597
+      "total_count": 10603
     },
     {
       "id": 493503,
@@ -55,7 +55,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 200
+      "total_count": 201
     },
     {
       "id": 519179,
@@ -95,19 +95,19 @@
       "photo_id": null,
       "created_by_owner": false,
       "created_by_staff_member": true,
-      "total_count": 726
+      "total_count": 727
     }
   ],
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 47835,
-  "total_signature_count": 47835,
-  "weekly_signature_count": 320,
+  "displayed_signature_count": 47852,
+  "total_signature_count": 47852,
+  "weekly_signature_count": 311,
   "total_page_views": 85456,
-  "total_share_count": 15191,
-  "daily_signature_count": 36,
-  "monthly_signature_count": 1475,
+  "total_share_count": 16398,
+  "daily_signature_count": 39,
+  "monthly_signature_count": 1468,
   "daily_signup_count": 0,
   "weekly_signup_count": 16,
   "monthly_signup_count": 71,
@@ -317,8 +317,8 @@
         },
         "inserted_at": "2020-04-15T20:36:03",
         "position": 3,
-        "pulls": 3058,
-        "rewards": 4010,
+        "pulls": 3061,
+        "rewards": 4013,
         "state": "active",
         "updated_at": "2020-04-15T20:36:03",
         "variant_group_name": "fht_it-IT"
@@ -344,8 +344,8 @@
       },
       "inserted_at": "2020-04-15T20:36:03",
       "position": 3,
-      "pulls": 3058,
-      "rewards": 4010,
+      "pulls": 3061,
+      "rewards": 4013,
       "state": "active",
       "updated_at": "2020-04-15T20:36:03",
       "variant_group_name": "fht_it-IT"
@@ -362,8 +362,8 @@
       },
       "inserted_at": "2020-04-15T20:36:32",
       "position": 0,
-      "pulls": 406,
-      "rewards": 164,
+      "pulls": 411,
+      "rewards": 167,
       "state": "active",
       "updated_at": "2020-04-15T20:36:32",
       "variant_group_name": "copylink-sharecopy_it-IT"
@@ -377,8 +377,8 @@
         },
         "inserted_at": "2020-04-15T20:36:32",
         "position": 0,
-        "pulls": 406,
-        "rewards": 164,
+        "pulls": 411,
+        "rewards": 167,
         "state": "active",
         "updated_at": "2020-04-15T20:36:32",
         "variant_group_name": "copylink-sharecopy_it-IT"
@@ -479,8 +479,8 @@
       },
       "inserted_at": "2020-04-15T20:36:22",
       "position": 4,
-      "pulls": 5604,
-      "rewards": 6751,
+      "pulls": 5605,
+      "rewards": 6759,
       "state": "active",
       "updated_at": "2020-04-15T20:36:22",
       "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -494,8 +494,8 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 0,
-        "pulls": 121,
-        "rewards": 109,
+        "pulls": 122,
+        "rewards": 111,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
         "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -550,8 +550,8 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 4,
-        "pulls": 5604,
-        "rewards": 6751,
+        "pulls": 5605,
+        "rewards": 6759,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
         "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -1056,5 +1056,5 @@
       }
     }
   },
-  "progress": 95.67
+  "progress": 95.704
 }
