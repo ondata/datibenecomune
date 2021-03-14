@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 10651
+      "total_count": 10654
     },
     {
       "id": 493503,
@@ -101,17 +101,17 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 48162,
-  "total_signature_count": 48162,
-  "weekly_signature_count": 425,
+  "displayed_signature_count": 48174,
+  "total_signature_count": 48174,
+  "weekly_signature_count": 436,
   "total_page_views": 85456,
-  "total_share_count": 15191,
-  "daily_signature_count": 89,
-  "monthly_signature_count": 1668,
+  "total_share_count": 16431,
+  "daily_signature_count": 64,
+  "monthly_signature_count": 1684,
   "daily_signup_count": 0,
   "weekly_signup_count": 3,
   "monthly_signup_count": 70,
-  "total_signup_count": 2206,
+  "total_signup_count": 2207,
   "supporter_message_count": null,
   "starter_vanity_url": null,
   "photo": {
@@ -273,13 +273,13 @@
     "selectedVariant": {
       "data": {
         "description": "%{petition_name}",
-        "headline": "Questa campagna ha bisogno di te, adesso",
-        "message": "Arriviamo a %{signature_target} firme entro oggi, puoi firmare ora?"
+        "headline": "Firma la petizione",
+        "message": "Puoi aiutarmi firmando anche tu questa petizione?"
       },
       "inserted_at": "2020-04-15T20:36:22",
-      "position": 4,
-      "pulls": 5611,
-      "rewards": 6774,
+      "position": 0,
+      "pulls": 122,
+      "rewards": 113,
       "state": "active",
       "updated_at": "2020-04-15T20:36:22",
       "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -349,8 +349,8 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 4,
-        "pulls": 5611,
-        "rewards": 6774,
+        "pulls": 5614,
+        "rewards": 6777,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
         "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -443,12 +443,12 @@
     "selectedVariant": {
       "data": {
         "description": "Mancano ancora %{signature_target} firme!",
-        "headline": "Petizione di tendenza 🚀: %{petition_name}"
+        "headline": "Firma ora 👉 %{petition_name}"
       },
       "inserted_at": "2020-04-15T20:36:03",
-      "position": 2,
-      "pulls": 88,
-      "rewards": 76,
+      "position": 3,
+      "pulls": 3062,
+      "rewards": 4018,
       "state": "active",
       "updated_at": "2020-04-15T20:36:03",
       "variant_group_name": "fht_it-IT"
@@ -1056,5 +1056,5 @@
       }
     }
   },
-  "progress": 96.324
+  "progress": 96.348
 }
