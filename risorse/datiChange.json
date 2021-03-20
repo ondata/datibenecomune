@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 10746
+      "total_count": 10748
     },
     {
       "id": 493503,
@@ -101,16 +101,16 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 48493,
-  "total_signature_count": 48493,
-  "weekly_signature_count": 432,
-  "total_page_views": 85456,
-  "total_share_count": 15191,
-  "daily_signature_count": 23,
-  "monthly_signature_count": 1795,
-  "daily_signup_count": 2,
+  "displayed_signature_count": 48503,
+  "total_signature_count": 48503,
+  "weekly_signature_count": 395,
+  "total_page_views": 86602,
+  "total_share_count": 16515,
+  "daily_signature_count": 20,
+  "monthly_signature_count": 1793,
+  "daily_signup_count": 0,
   "weekly_signup_count": 13,
-  "monthly_signup_count": 77,
+  "monthly_signup_count": 76,
   "total_signup_count": 2219,
   "supporter_message_count": null,
   "starter_vanity_url": null,
@@ -357,13 +357,13 @@
     "selectedVariant": {
       "data": {
         "description": "%{petition_name}",
-        "headline": "Questa campagna ha bisogno di te, adesso",
-        "message": "Arriviamo a %{signature_target} firme entro oggi, puoi firmare ora?"
+        "headline": "Firma la petizione",
+        "message": "Puoi aiutarmi firmando anche tu questa petizione?"
       },
       "inserted_at": "2020-04-15T20:36:22",
-      "position": 4,
-      "pulls": 5630,
-      "rewards": 6787,
+      "position": 0,
+      "pulls": 122,
+      "rewards": 113,
       "state": "active",
       "updated_at": "2020-04-15T20:36:22",
       "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -1056,5 +1056,5 @@
       }
     }
   },
-  "progress": 96.986
+  "progress": 97.006
 }
