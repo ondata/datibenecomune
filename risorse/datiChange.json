@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 10820
+      "total_count": 10822
     },
     {
       "id": 493503,
@@ -101,16 +101,16 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 48744,
-  "total_signature_count": 48744,
-  "weekly_signature_count": 344,
+  "displayed_signature_count": 48748,
+  "total_signature_count": 48748,
+  "weekly_signature_count": 346,
   "total_page_views": 85456,
-  "total_share_count": 15191,
-  "daily_signature_count": 26,
-  "monthly_signature_count": 1833,
-  "daily_signup_count": 0,
+  "total_share_count": 16536,
+  "daily_signature_count": 27,
+  "monthly_signature_count": 1755,
+  "daily_signup_count": 1,
   "weekly_signup_count": 8,
-  "monthly_signup_count": 74,
+  "monthly_signup_count": 65,
   "total_signup_count": 2223,
   "supporter_message_count": null,
   "starter_vanity_url": null,
@@ -362,7 +362,7 @@
       },
       "inserted_at": "2020-04-15T20:36:22",
       "position": 4,
-      "pulls": 5632,
+      "pulls": 5633,
       "rewards": 6787,
       "state": "active",
       "updated_at": "2020-04-15T20:36:22",
@@ -433,7 +433,7 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 4,
-        "pulls": 5632,
+        "pulls": 5633,
         "rewards": 6787,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
@@ -1056,5 +1056,5 @@
       }
     }
   },
-  "progress": 97.488
+  "progress": 97.496
 }
