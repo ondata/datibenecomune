@@ -103,11 +103,11 @@
   "organization_free_email_optins": null,
   "displayed_signature_count": 48910,
   "total_signature_count": 48910,
-  "weekly_signature_count": 388,
-  "total_page_views": 85456,
+  "weekly_signature_count": 399,
+  "total_page_views": 86804,
   "total_share_count": 15191,
-  "daily_signature_count": 32,
-  "monthly_signature_count": 1620,
+  "daily_signature_count": 43,
+  "monthly_signature_count": 1623,
   "daily_signup_count": 0,
   "weekly_signup_count": 4,
   "monthly_signup_count": 39,
@@ -460,15 +460,15 @@
     "selectedVariant": {
       "data": {
         "description": "%{petition_name}",
-        "headline": "Hai già visto questa petizione?",
+        "headline": "Firma la petizione",
         "message": "Puoi aiutarmi firmando anche tu questa petizione?"
       },
-      "inserted_at": "2020-12-18T23:29:25",
-      "position": 6,
-      "pulls": 16,
-      "rewards": 4,
+      "inserted_at": "2020-04-15T20:36:32",
+      "position": 0,
+      "pulls": 445,
+      "rewards": 181,
       "state": "active",
-      "updated_at": "2020-12-18T23:29:25",
+      "updated_at": "2020-04-15T20:36:32",
       "variant_group_name": "copylink-sharecopy_it-IT"
     },
     "variants": [
