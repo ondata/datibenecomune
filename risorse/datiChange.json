@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 10978
+      "total_count": 10984
     },
     {
       "id": 493503,
@@ -55,7 +55,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 206
+      "total_count": 207
     },
     {
       "id": 519179,
@@ -101,17 +101,17 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 49384,
-  "total_signature_count": 49384,
-  "weekly_signature_count": 394,
-  "total_page_views": 85456,
+  "displayed_signature_count": 49396,
+  "total_signature_count": 49396,
+  "weekly_signature_count": 374,
+  "total_page_views": 87202,
   "total_share_count": 15191,
-  "daily_signature_count": 26,
-  "monthly_signature_count": 1654,
-  "daily_signup_count": 1,
-  "weekly_signup_count": 10,
-  "monthly_signup_count": 31,
-  "total_signup_count": 2236,
+  "daily_signature_count": 27,
+  "monthly_signature_count": 1662,
+  "daily_signup_count": 3,
+  "weekly_signup_count": 12,
+  "monthly_signup_count": 33,
+  "total_signup_count": 2237,
   "supporter_message_count": null,
   "starter_vanity_url": null,
   "photo": {
@@ -330,7 +330,7 @@
         },
         "inserted_at": "2020-12-18T19:23:44",
         "position": 4,
-        "pulls": 30,
+        "pulls": 31,
         "rewards": 22,
         "state": "active",
         "updated_at": "2020-12-18T19:23:44",
@@ -344,7 +344,7 @@
       },
       "inserted_at": "2020-12-18T19:23:44",
       "position": 4,
-      "pulls": 30,
+      "pulls": 31,
       "rewards": 22,
       "state": "active",
       "updated_at": "2020-12-18T19:23:44",
@@ -1056,5 +1056,5 @@
       }
     }
   },
-  "progress": 98.768
+  "progress": 98.792
 }
