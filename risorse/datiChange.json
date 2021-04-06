@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 10984
+      "total_count": 10987
     },
     {
       "id": 493503,
@@ -101,10 +101,10 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 49396,
-  "total_signature_count": 49396,
+  "displayed_signature_count": 49414,
+  "total_signature_count": 49414,
   "weekly_signature_count": 374,
-  "total_page_views": 87202,
+  "total_page_views": 85456,
   "total_share_count": 15191,
   "daily_signature_count": 27,
   "monthly_signature_count": 1662,
@@ -362,8 +362,8 @@
       },
       "inserted_at": "2020-12-18T23:09:21",
       "position": 5,
-      "pulls": 46,
-      "rewards": 37,
+      "pulls": 47,
+      "rewards": 39,
       "state": "active",
       "updated_at": "2020-12-18T23:09:21",
       "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -447,8 +447,8 @@
         },
         "inserted_at": "2020-12-18T23:09:21",
         "position": 5,
-        "pulls": 46,
-        "rewards": 37,
+        "pulls": 47,
+        "rewards": 39,
         "state": "active",
         "updated_at": "2020-12-18T23:09:21",
         "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -1056,5 +1056,5 @@
       }
     }
   },
-  "progress": 98.792
+  "progress": 98.828
 }
