@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 11023
+      "total_count": 11026
     },
     {
       "id": 493503,
@@ -101,17 +101,17 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 49549,
-  "total_signature_count": 49549,
+  "displayed_signature_count": 49585,
+  "total_signature_count": 49585,
   "weekly_signature_count": 307,
-  "total_page_views": 87352,
-  "total_share_count": 16605,
+  "total_page_views": 85456,
+  "total_share_count": 15191,
   "daily_signature_count": 54,
   "monthly_signature_count": 1723,
   "daily_signup_count": 0,
   "weekly_signup_count": 12,
   "monthly_signup_count": 32,
-  "total_signup_count": 2238,
+  "total_signup_count": 2240,
   "supporter_message_count": null,
   "starter_vanity_url": null,
   "photo": {
@@ -317,8 +317,8 @@
         },
         "inserted_at": "2020-04-15T20:36:03",
         "position": 3,
-        "pulls": 3086,
-        "rewards": 4025,
+        "pulls": 3091,
+        "rewards": 4032,
         "state": "active",
         "updated_at": "2020-04-15T20:36:03",
         "variant_group_name": "fht_it-IT"
@@ -344,8 +344,8 @@
       },
       "inserted_at": "2020-04-15T20:36:03",
       "position": 3,
-      "pulls": 3086,
-      "rewards": 4025,
+      "pulls": 3091,
+      "rewards": 4032,
       "state": "active",
       "updated_at": "2020-04-15T20:36:03",
       "variant_group_name": "fht_it-IT"
@@ -362,7 +362,7 @@
       },
       "inserted_at": "2020-12-18T23:29:25",
       "position": 6,
-      "pulls": 36,
+      "pulls": 40,
       "rewards": 12,
       "state": "active",
       "updated_at": "2020-12-18T23:29:25",
@@ -461,7 +461,7 @@
         },
         "inserted_at": "2020-12-18T23:29:25",
         "position": 6,
-        "pulls": 36,
+        "pulls": 40,
         "rewards": 12,
         "state": "active",
         "updated_at": "2020-12-18T23:29:25",
@@ -474,15 +474,15 @@
     "selectedVariant": {
       "data": {
         "description": "%{petition_name}",
-        "headline": "Firma la petizione",
+        "headline": "Hai già visto questa petizione?",
         "message": "Puoi aiutarmi firmando anche tu questa petizione?"
       },
-      "inserted_at": "2020-04-15T20:36:22",
-      "position": 0,
-      "pulls": 124,
-      "rewards": 115,
+      "inserted_at": "2020-12-18T23:09:21",
+      "position": 5,
+      "pulls": 68,
+      "rewards": 53,
       "state": "active",
-      "updated_at": "2020-04-15T20:36:22",
+      "updated_at": "2020-12-18T23:09:21",
       "variant_group_name": "whatsapp-sharecopy_it-IT"
     },
     "variants": [
@@ -494,8 +494,8 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 0,
-        "pulls": 124,
-        "rewards": 115,
+        "pulls": 128,
+        "rewards": 119,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
         "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -564,8 +564,8 @@
         },
         "inserted_at": "2020-12-18T23:09:21",
         "position": 5,
-        "pulls": 64,
-        "rewards": 47,
+        "pulls": 68,
+        "rewards": 53,
         "state": "active",
         "updated_at": "2020-12-18T23:09:21",
         "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -1056,5 +1056,5 @@
       }
     }
   },
-  "progress": 99.098
+  "progress": 99.17
 }
