@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 11046
+      "total_count": 11048
     },
     {
       "id": 493503,
@@ -101,16 +101,16 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 49696,
-  "total_signature_count": 49696,
-  "weekly_signature_count": 377,
-  "total_page_views": 85456,
+  "displayed_signature_count": 49707,
+  "total_signature_count": 49707,
+  "weekly_signature_count": 400,
+  "total_page_views": 87865,
   "total_share_count": 15191,
-  "daily_signature_count": 49,
-  "monthly_signature_count": 1772,
+  "daily_signature_count": 64,
+  "monthly_signature_count": 1743,
   "daily_signup_count": 1,
   "weekly_signup_count": 11,
-  "monthly_signup_count": 37,
+  "monthly_signup_count": 36,
   "total_signup_count": 2242,
   "supporter_message_count": null,
   "starter_vanity_url": null,
@@ -318,7 +318,7 @@
         "inserted_at": "2020-04-15T20:36:03",
         "position": 3,
         "pulls": 3100,
-        "rewards": 4056,
+        "rewards": 4057,
         "state": "active",
         "updated_at": "2020-04-15T20:36:03",
         "variant_group_name": "fht_it-IT"
@@ -345,7 +345,7 @@
       "inserted_at": "2020-04-15T20:36:03",
       "position": 3,
       "pulls": 3100,
-      "rewards": 4056,
+      "rewards": 4057,
       "state": "active",
       "updated_at": "2020-04-15T20:36:03",
       "variant_group_name": "fht_it-IT"
@@ -362,8 +362,8 @@
       },
       "inserted_at": "2020-12-18T23:09:21",
       "position": 5,
-      "pulls": 75,
-      "rewards": 60,
+      "pulls": 79,
+      "rewards": 66,
       "state": "active",
       "updated_at": "2020-12-18T23:09:21",
       "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -378,7 +378,7 @@
         "inserted_at": "2020-04-15T20:36:22",
         "position": 0,
         "pulls": 131,
-        "rewards": 120,
+        "rewards": 122,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
         "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -447,8 +447,8 @@
         },
         "inserted_at": "2020-12-18T23:09:21",
         "position": 5,
-        "pulls": 75,
-        "rewards": 60,
+        "pulls": 79,
+        "rewards": 66,
         "state": "active",
         "updated_at": "2020-12-18T23:09:21",
         "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -465,8 +465,8 @@
       },
       "inserted_at": "2020-04-15T20:36:32",
       "position": 0,
-      "pulls": 448,
-      "rewards": 182,
+      "pulls": 451,
+      "rewards": 185,
       "state": "active",
       "updated_at": "2020-04-15T20:36:32",
       "variant_group_name": "copylink-sharecopy_it-IT"
@@ -480,8 +480,8 @@
         },
         "inserted_at": "2020-04-15T20:36:32",
         "position": 0,
-        "pulls": 448,
-        "rewards": 182,
+        "pulls": 451,
+        "rewards": 185,
         "state": "active",
         "updated_at": "2020-04-15T20:36:32",
         "variant_group_name": "copylink-sharecopy_it-IT"
@@ -1056,5 +1056,5 @@
       }
     }
   },
-  "progress": 99.392
+  "progress": 99.414
 }
