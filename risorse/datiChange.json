@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 11383
+      "total_count": 11384
     },
     {
       "id": 493503,
@@ -104,8 +104,8 @@
   "displayed_signature_count": 51333,
   "total_signature_count": 51333,
   "weekly_signature_count": 163,
-  "total_page_views": 88551,
-  "total_share_count": 16802,
+  "total_page_views": 88246,
+  "total_share_count": 16769,
   "daily_signature_count": 10,
   "monthly_signature_count": 1705,
   "daily_signup_count": 0,
