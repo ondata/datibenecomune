@@ -103,11 +103,11 @@
   "organization_free_email_optins": null,
   "displayed_signature_count": 51422,
   "total_signature_count": 51422,
-  "weekly_signature_count": 83,
-  "total_page_views": 88246,
+  "weekly_signature_count": 86,
+  "total_page_views": 88606,
   "total_share_count": 16769,
-  "daily_signature_count": 5,
-  "monthly_signature_count": 1123,
+  "daily_signature_count": 7,
+  "monthly_signature_count": 1117,
   "daily_signup_count": 0,
   "weekly_signup_count": 2,
   "monthly_signup_count": 7,
@@ -152,14 +152,6 @@
       }
     },
     "type": "photo"
-  },
-  "activity": {
-    "recruit.email.count": 1,
-    "recruit.email.last_updated": 1620927337,
-    "share.facebook.count": 1,
-    "share.facebook.last_updated": 1621000304.588,
-    "share.whatsapp.count": 2,
-    "share.whatsapp.last_updated": 1621000371.072
   },
   "organization": {
     "id": 3192669,
@@ -222,6 +214,14 @@
         }
       }
     }
+  },
+  "activity": {
+    "recruit.email.count": 1,
+    "recruit.email.last_updated": 1620927337,
+    "share.facebook.count": 1,
+    "share.facebook.last_updated": 1621000304.588,
+    "share.whatsapp.count": 2,
+    "share.whatsapp.last_updated": 1621000371.072
   },
   "user": {
     "id": 1161785303,
