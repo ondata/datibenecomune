@@ -106,24 +106,14 @@
   "weekly_signature_count": 93,
   "total_page_views": 88680,
   "total_share_count": 16824,
-  "daily_signature_count": 10,
-  "monthly_signature_count": 742,
+  "daily_signature_count": 8,
+  "monthly_signature_count": 734,
   "daily_signup_count": 0,
   "weekly_signup_count": 3,
   "monthly_signup_count": 8,
   "total_signup_count": 2254,
   "supporter_message_count": null,
   "starter_vanity_url": null,
-  "activity": {
-    "recruit.email.count": 1,
-    "recruit.email.last_updated": 1620927337,
-    "share.copylink.count": 2,
-    "share.copylink.last_updated": 1621421974.343,
-    "share.facebook.count": 2,
-    "share.facebook.last_updated": 1621350900.166,
-    "share.whatsapp.count": 2,
-    "share.whatsapp.last_updated": 1621000371.072
-  },
   "photo": {
     "id": 224817954,
     "url": "photos/5/yr/fm/eryrfmwKHIUhUlN-fullsize.jpg",
@@ -162,6 +152,16 @@
       }
     },
     "type": "photo"
+  },
+  "activity": {
+    "recruit.email.count": 1,
+    "recruit.email.last_updated": 1620927337,
+    "share.copylink.count": 2,
+    "share.copylink.last_updated": 1621421974.343,
+    "share.facebook.count": 2,
+    "share.facebook.last_updated": 1621350900.166,
+    "share.whatsapp.count": 2,
+    "share.whatsapp.last_updated": 1621000371.072
   },
   "organization": {
     "id": 3192669,
