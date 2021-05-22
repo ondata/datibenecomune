@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 11494
+      "total_count": 11496
     },
     {
       "id": 493503,
@@ -55,7 +55,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 217
+      "total_count": 218
     },
     {
       "id": 519179,
@@ -95,17 +95,17 @@
       "photo_id": null,
       "created_by_owner": false,
       "created_by_staff_member": true,
-      "total_count": 770
+      "total_count": 771
     }
   ],
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 51481,
-  "total_signature_count": 51481,
+  "displayed_signature_count": 51482,
+  "total_signature_count": 51482,
   "weekly_signature_count": 81,
-  "total_page_views": 88730,
-  "total_share_count": 16825,
+  "total_page_views": 88680,
+  "total_share_count": 16824,
   "daily_signature_count": 8,
   "monthly_signature_count": 670,
   "daily_signup_count": 0,
@@ -215,16 +215,6 @@
       }
     }
   },
-  "activity": {
-    "recruit.email.count": 1,
-    "recruit.email.last_updated": 1620927337,
-    "share.copylink.count": 2,
-    "share.copylink.last_updated": 1621421974.343,
-    "share.facebook.count": 2,
-    "share.facebook.last_updated": 1621350900.166,
-    "share.whatsapp.count": 2,
-    "share.whatsapp.last_updated": 1621000371.072
-  },
   "user": {
     "id": 1161785303,
     "slug": "1161785303",
@@ -277,6 +267,16 @@
       }
     },
     "roles": []
+  },
+  "activity": {
+    "recruit.email.count": 1,
+    "recruit.email.last_updated": 1620927337,
+    "share.copylink.count": 2,
+    "share.copylink.last_updated": 1621421974.343,
+    "share.facebook.count": 2,
+    "share.facebook.last_updated": 1621350900.166,
+    "share.whatsapp.count": 2,
+    "share.whatsapp.last_updated": 1621000371.072
   },
   "copylink_share_copy_bandit_definition": {
     "experimentName": "cl_sharecopy_25684771_it-IT",
@@ -1066,5 +1066,5 @@
       }
     }
   },
-  "progress": 68.64133333333334
+  "progress": 68.64266666666667
 }
