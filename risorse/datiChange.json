@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 11649
+      "total_count": 11650
     },
     {
       "id": 493503,
@@ -101,13 +101,13 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 51820,
-  "total_signature_count": 51820,
-  "weekly_signature_count": 55,
-  "total_page_views": 88680,
+  "displayed_signature_count": 51822,
+  "total_signature_count": 51822,
+  "weekly_signature_count": 58,
+  "total_page_views": 88985,
   "total_share_count": 16824,
-  "daily_signature_count": 21,
-  "monthly_signature_count": 332,
+  "daily_signature_count": 22,
+  "monthly_signature_count": 334,
   "daily_signup_count": 0,
   "weekly_signup_count": 0,
   "monthly_signup_count": 1,
@@ -152,6 +152,18 @@
       }
     },
     "type": "photo"
+  },
+  "activity": {
+    "recruit.email.count": 1,
+    "recruit.email.last_updated": 1620927337,
+    "recruit.facebook.count": 1,
+    "recruit.facebook.last_updated": 1621862674,
+    "share.copylink.count": 4,
+    "share.copylink.last_updated": 1623828572.744,
+    "share.facebook.count": 3,
+    "share.facebook.last_updated": 1621841157.258,
+    "share.whatsapp.count": 2,
+    "share.whatsapp.last_updated": 1621000371.072
   },
   "organization": {
     "id": 3192669,
@@ -214,18 +226,6 @@
         }
       }
     }
-  },
-  "activity": {
-    "recruit.email.count": 1,
-    "recruit.email.last_updated": 1620927337,
-    "recruit.facebook.count": 1,
-    "recruit.facebook.last_updated": 1621862674,
-    "share.copylink.count": 4,
-    "share.copylink.last_updated": 1623828572.744,
-    "share.facebook.count": 3,
-    "share.facebook.last_updated": 1621841157.258,
-    "share.whatsapp.count": 2,
-    "share.whatsapp.last_updated": 1621000371.072
   },
   "user": {
     "id": 1161785303,
@@ -364,6 +364,109 @@
     },
     "is_active": true
   },
+  "whatsapp_share_copy_bandit_definition": {
+    "experimentName": "washarecopy_25684771_it-IT",
+    "selectedVariant": {
+      "data": {
+        "description": "%{petition_name}",
+        "headline": "Hai già visto questa petizione?",
+        "message": "Puoi aiutarmi firmando anche tu questa petizione?"
+      },
+      "inserted_at": "2020-12-18T23:09:21",
+      "position": 5,
+      "pulls": 109,
+      "rewards": 98,
+      "state": "active",
+      "updated_at": "2020-12-18T23:09:21",
+      "variant_group_name": "whatsapp-sharecopy_it-IT"
+    },
+    "variants": [
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Firma la petizione",
+          "message": "Puoi aiutarmi firmando anche tu questa petizione?"
+        },
+        "inserted_at": "2020-04-15T20:36:22",
+        "position": 0,
+        "pulls": 131,
+        "rewards": 122,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:22",
+        "variant_group_name": "whatsapp-sharecopy_it-IT"
+      },
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Aiuta %{sharer_name} a far crescere questa petizione! 🚀",
+          "message": "Puoi firmare anche tu? ✍️"
+        },
+        "inserted_at": "2020-04-15T20:36:22",
+        "position": 1,
+        "pulls": 187,
+        "rewards": 227,
+        "state": "inactive",
+        "updated_at": "2020-12-18T23:08:56",
+        "variant_group_name": "whatsapp-sharecopy_it-IT"
+      },
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Crea il cambiamento. Firma questa petizione.",
+          "message": "C'è ancora bisogno di %{signature_target} firme, puoi aggiungere anche la tua? ✍️"
+        },
+        "inserted_at": "2020-04-15T20:36:22",
+        "position": 2,
+        "pulls": 128,
+        "rewards": 150,
+        "state": "inactive",
+        "updated_at": "2020-12-18T23:08:57",
+        "variant_group_name": "whatsapp-sharecopy_it-IT"
+      },
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Possiamo creare un cambiamento.",
+          "message": "C'è ancora bisogno di %{signature_target} firme, possiamo dare il nostro aiuto firmando questa petizione. 💪"
+        },
+        "inserted_at": "2020-04-15T20:36:22",
+        "position": 3,
+        "pulls": 108,
+        "rewards": 94,
+        "state": "inactive",
+        "updated_at": "2020-12-18T23:08:58",
+        "variant_group_name": "whatsapp-sharecopy_it-IT"
+      },
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Questa campagna ha bisogno di te, adesso",
+          "message": "Arriviamo a %{signature_target} firme entro oggi, puoi firmare ora?"
+        },
+        "inserted_at": "2020-04-15T20:36:22",
+        "position": 4,
+        "pulls": 5636,
+        "rewards": 6788,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:22",
+        "variant_group_name": "whatsapp-sharecopy_it-IT"
+      },
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Hai già visto questa petizione?",
+          "message": "Puoi aiutarmi firmando anche tu questa petizione?"
+        },
+        "inserted_at": "2020-12-18T23:09:21",
+        "position": 5,
+        "pulls": 109,
+        "rewards": 98,
+        "state": "active",
+        "updated_at": "2020-12-18T23:09:21",
+        "variant_group_name": "whatsapp-sharecopy_it-IT"
+      }
+    ]
+  },
   "copylink_share_copy_bandit_definition": {
     "experimentName": "cl_sharecopy_25684771_it-IT",
     "selectedVariant": {
@@ -481,110 +584,29 @@
       }
     ]
   },
-  "whatsapp_share_copy_bandit_definition": {
-    "experimentName": "washarecopy_25684771_it-IT",
-    "selectedVariant": {
-      "data": {
-        "description": "%{petition_name}",
-        "headline": "Hai già visto questa petizione?",
-        "message": "Puoi aiutarmi firmando anche tu questa petizione?"
-      },
-      "inserted_at": "2020-12-18T23:09:21",
-      "position": 5,
-      "pulls": 109,
-      "rewards": 98,
-      "state": "active",
-      "updated_at": "2020-12-18T23:09:21",
-      "variant_group_name": "whatsapp-sharecopy_it-IT"
-    },
-    "variants": [
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Firma la petizione",
-          "message": "Puoi aiutarmi firmando anche tu questa petizione?"
-        },
-        "inserted_at": "2020-04-15T20:36:22",
-        "position": 0,
-        "pulls": 131,
-        "rewards": 122,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:22",
-        "variant_group_name": "whatsapp-sharecopy_it-IT"
-      },
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Aiuta %{sharer_name} a far crescere questa petizione! 🚀",
-          "message": "Puoi firmare anche tu? ✍️"
-        },
-        "inserted_at": "2020-04-15T20:36:22",
-        "position": 1,
-        "pulls": 187,
-        "rewards": 227,
-        "state": "inactive",
-        "updated_at": "2020-12-18T23:08:56",
-        "variant_group_name": "whatsapp-sharecopy_it-IT"
-      },
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Crea il cambiamento. Firma questa petizione.",
-          "message": "C'è ancora bisogno di %{signature_target} firme, puoi aggiungere anche la tua? ✍️"
-        },
-        "inserted_at": "2020-04-15T20:36:22",
-        "position": 2,
-        "pulls": 128,
-        "rewards": 150,
-        "state": "inactive",
-        "updated_at": "2020-12-18T23:08:57",
-        "variant_group_name": "whatsapp-sharecopy_it-IT"
-      },
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Possiamo creare un cambiamento.",
-          "message": "C'è ancora bisogno di %{signature_target} firme, possiamo dare il nostro aiuto firmando questa petizione. 💪"
-        },
-        "inserted_at": "2020-04-15T20:36:22",
-        "position": 3,
-        "pulls": 108,
-        "rewards": 94,
-        "state": "inactive",
-        "updated_at": "2020-12-18T23:08:58",
-        "variant_group_name": "whatsapp-sharecopy_it-IT"
-      },
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Questa campagna ha bisogno di te, adesso",
-          "message": "Arriviamo a %{signature_target} firme entro oggi, puoi firmare ora?"
-        },
-        "inserted_at": "2020-04-15T20:36:22",
-        "position": 4,
-        "pulls": 5636,
-        "rewards": 6788,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:22",
-        "variant_group_name": "whatsapp-sharecopy_it-IT"
-      },
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Hai già visto questa petizione?",
-          "message": "Puoi aiutarmi firmando anche tu questa petizione?"
-        },
-        "inserted_at": "2020-12-18T23:09:21",
-        "position": 5,
-        "pulls": 109,
-        "rewards": 98,
-        "state": "active",
-        "updated_at": "2020-12-18T23:09:21",
-        "variant_group_name": "whatsapp-sharecopy_it-IT"
-      }
-    ]
-  },
   "targets": [
+    {
+      "id": 12270016,
+      "display_name": "Renato Brunetta",
+      "email": null,
+      "type": "Custom",
+      "slug": "on-renato-brunetta",
+      "description": null,
+      "photo_id": null,
+      "publicly_visible": false,
+      "verified_at": null,
+      "summary": null,
+      "locale": null,
+      "confirmed_at": "2021-06-22T13:05:55Z",
+      "is_person": true,
+      "member_of": {},
+      "additional_data": {
+        "first_name": "On.",
+        "last_name": "Renato Brunetta",
+        "title": "Ministro per la Pubblica Amministrazione"
+      },
+      "has_email": true
+    },
     {
       "id": 12159450,
       "display_name": "Mario Draghi",
@@ -714,7 +736,7 @@
       "verified_at": null,
       "summary": null,
       "locale": null,
-      "confirmed_at": "2019-09-09T14:40:50Z",
+      "confirmed_at": null,
       "is_person": true,
       "member_of": {},
       "additional_data": {
@@ -973,63 +995,26 @@
     "type": "photo"
   },
   "primary_target": {
-    "id": 12159450,
-    "display_name": "Mario Draghi",
+    "id": 12270016,
+    "display_name": "Renato Brunetta",
     "email": null,
     "type": "Custom",
-    "slug": "mario-draghi-be5ec4bc-c5a6-4d8a-b93c-38b863329df6",
-    "description": "",
+    "slug": "on-renato-brunetta",
+    "description": null,
+    "photo_id": null,
     "publicly_visible": false,
     "verified_at": null,
     "summary": null,
     "locale": null,
-    "confirmed_at": "2021-02-15T09:58:13Z",
+    "confirmed_at": "2021-06-22T13:05:55Z",
     "is_person": true,
     "member_of": {},
     "additional_data": {
-      "first_name": "Mario",
-      "last_name": "Draghi",
-      "title": "Presidente del Consiglio dei Ministri"
+      "first_name": "On.",
+      "last_name": "Renato Brunetta",
+      "title": "Ministro per la Pubblica Amministrazione"
     },
-    "has_email": true,
-    "photo": {
-      "id": 225214978,
-      "url": "photos/3/ao/jn/nqAOjNEWjZfQRyc-fullsize.jpg",
-      "sizes": {
-        "small": {
-          "url": "//assets.change.org/photos/3/ao/jn/nqAOjNEWjZfQRyc-48x48-noPad.jpg?1613383274",
-          "processing": false,
-          "size": {
-            "width": 48,
-            "height": 48
-          }
-        },
-        "medium": {
-          "url": "//assets.change.org/photos/3/ao/jn/nqAOjNEWjZfQRyc-128x128-noPad.jpg?1613383274",
-          "processing": false,
-          "size": {
-            "width": 128,
-            "height": 128
-          }
-        },
-        "large": {
-          "url": "//assets.change.org/photos/3/ao/jn/nqAOjNEWjZfQRyc-400x400-noPad.jpg?1613383274",
-          "processing": false,
-          "size": {
-            "width": 400,
-            "height": 400
-          }
-        },
-        "xlarge": {
-          "url": "//assets.change.org/photos/3/ao/jn/nqAOjNEWjZfQRyc-800x800-noPad.jpg?1613383274",
-          "processing": false,
-          "size": {
-            "width": 800,
-            "height": 800
-          }
-        }
-      }
-    }
+    "has_email": true
   },
-  "progress": 69.09333333333333
+  "progress": 69.096
 }
