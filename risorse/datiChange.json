@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 11702
+      "total_count": 11704
     },
     {
       "id": 493503,
@@ -103,11 +103,11 @@
   "organization_free_email_optins": null,
   "displayed_signature_count": 51887,
   "total_signature_count": 51887,
-  "weekly_signature_count": 39,
-  "total_page_views": 88680,
-  "total_share_count": 16824,
+  "weekly_signature_count": 36,
+  "total_page_views": 89026,
+  "total_share_count": 16841,
   "daily_signature_count": 5,
-  "monthly_signature_count": 353,
+  "monthly_signature_count": 352,
   "daily_signup_count": 0,
   "weekly_signup_count": 0,
   "monthly_signup_count": 0,
@@ -152,18 +152,6 @@
       }
     },
     "type": "photo"
-  },
-  "activity": {
-    "recruit.email.count": 1,
-    "recruit.email.last_updated": 1620927337,
-    "recruit.facebook.count": 1,
-    "recruit.facebook.last_updated": 1621862674,
-    "share.copylink.count": 4,
-    "share.copylink.last_updated": 1623828572.744,
-    "share.facebook.count": 4,
-    "share.facebook.last_updated": 1624995565.085,
-    "share.whatsapp.count": 2,
-    "share.whatsapp.last_updated": 1621000371.072
   },
   "organization": {
     "id": 3192669,
@@ -226,6 +214,18 @@
         }
       }
     }
+  },
+  "activity": {
+    "recruit.email.count": 1,
+    "recruit.email.last_updated": 1620927337,
+    "recruit.facebook.count": 1,
+    "recruit.facebook.last_updated": 1621862674,
+    "share.copylink.count": 4,
+    "share.copylink.last_updated": 1623828572.744,
+    "share.facebook.count": 4,
+    "share.facebook.last_updated": 1624995565.085,
+    "share.whatsapp.count": 2,
+    "share.whatsapp.last_updated": 1621000371.072
   },
   "user": {
     "id": 1161785303,
