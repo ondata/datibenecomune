@@ -101,17 +101,17 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 51980,
-  "total_signature_count": 51980,
-  "weekly_signature_count": 84,
+  "displayed_signature_count": 51981,
+  "total_signature_count": 51981,
+  "weekly_signature_count": 71,
   "total_page_views": 88680,
   "total_share_count": 16824,
   "daily_signature_count": 6,
-  "monthly_signature_count": 303,
+  "monthly_signature_count": 305,
   "daily_signup_count": 0,
   "weekly_signup_count": 0,
   "monthly_signup_count": 0,
-  "total_signup_count": 2255,
+  "total_signup_count": 2256,
   "supporter_message_count": null,
   "starter_vanity_url": null,
   "photo": {
@@ -152,20 +152,6 @@
       }
     },
     "type": "photo"
-  },
-  "activity": {
-    "recruit.email.count": 1,
-    "recruit.email.last_updated": 1620927337,
-    "recruit.facebook.count": 1,
-    "recruit.facebook.last_updated": 1621862674,
-    "recruit.whatsapp.count": 2,
-    "recruit.whatsapp.last_updated": 1625765463,
-    "share.copylink.count": 4,
-    "share.copylink.last_updated": 1623828572.744,
-    "share.facebook.count": 5,
-    "share.facebook.last_updated": 1625764800.681,
-    "share.whatsapp.count": 4,
-    "share.whatsapp.last_updated": 1625764819.623
   },
   "organization": {
     "id": 3192669,
@@ -228,6 +214,20 @@
         }
       }
     }
+  },
+  "activity": {
+    "recruit.email.count": 1,
+    "recruit.email.last_updated": 1620927337,
+    "recruit.facebook.count": 1,
+    "recruit.facebook.last_updated": 1621862674,
+    "recruit.whatsapp.count": 2,
+    "recruit.whatsapp.last_updated": 1625765463,
+    "share.copylink.count": 4,
+    "share.copylink.last_updated": 1623828572.744,
+    "share.facebook.count": 5,
+    "share.facebook.last_updated": 1625764800.681,
+    "share.whatsapp.count": 4,
+    "share.whatsapp.last_updated": 1625764819.623
   },
   "user": {
     "id": 1161785303,
@@ -1018,5 +1018,5 @@
     },
     "has_email": true
   },
-  "progress": 69.30666666666667
+  "progress": 69.308
 }
