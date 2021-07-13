@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 11772
+      "total_count": 11773
     },
     {
       "id": 493503,
@@ -101,13 +101,13 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 52028,
-  "total_signature_count": 52028,
-  "weekly_signature_count": 84,
-  "total_page_views": 88680,
-  "total_share_count": 16855,
-  "daily_signature_count": 30,
-  "monthly_signature_count": 285,
+  "displayed_signature_count": 52029,
+  "total_signature_count": 52029,
+  "weekly_signature_count": 90,
+  "total_page_views": 89177,
+  "total_share_count": 16824,
+  "daily_signature_count": 37,
+  "monthly_signature_count": 289,
   "daily_signup_count": 0,
   "weekly_signup_count": 1,
   "monthly_signup_count": 1,
@@ -152,22 +152,6 @@
       }
     },
     "type": "photo"
-  },
-  "activity": {
-    "recruit.email.count": 1,
-    "recruit.email.last_updated": 1620927337,
-    "recruit.facebook.count": 1,
-    "recruit.facebook.last_updated": 1621862674,
-    "recruit.whatsapp.count": 2,
-    "recruit.whatsapp.last_updated": 1625765463,
-    "share.copylink.count": 4,
-    "share.copylink.last_updated": 1623828572.744,
-    "share.facebook.count": 7,
-    "share.facebook.last_updated": 1626106837.006,
-    "share.twitter.count": 1,
-    "share.twitter.last_updated": 1626105680.447,
-    "share.whatsapp.count": 5,
-    "share.whatsapp.last_updated": 1626112213.564
   },
   "organization": {
     "id": 3192669,
@@ -230,6 +214,22 @@
         }
       }
     }
+  },
+  "activity": {
+    "recruit.email.count": 1,
+    "recruit.email.last_updated": 1620927337,
+    "recruit.facebook.count": 1,
+    "recruit.facebook.last_updated": 1621862674,
+    "recruit.whatsapp.count": 2,
+    "recruit.whatsapp.last_updated": 1625765463,
+    "share.copylink.count": 4,
+    "share.copylink.last_updated": 1623828572.744,
+    "share.facebook.count": 7,
+    "share.facebook.last_updated": 1626106837.006,
+    "share.twitter.count": 1,
+    "share.twitter.last_updated": 1626105680.447,
+    "share.whatsapp.count": 5,
+    "share.whatsapp.last_updated": 1626112213.564
   },
   "user": {
     "id": 1161785303,
@@ -1020,5 +1020,5 @@
     },
     "has_email": true
   },
-  "progress": 69.37066666666666
+  "progress": 69.372
 }
