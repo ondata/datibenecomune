@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 11856
+      "total_count": 11858
     },
     {
       "id": 493503,
@@ -101,10 +101,10 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 52094,
-  "total_signature_count": 52094,
+  "displayed_signature_count": 52098,
+  "total_signature_count": 52098,
   "weekly_signature_count": 34,
-  "total_page_views": 89365,
+  "total_page_views": 88680,
   "total_share_count": 16824,
   "daily_signature_count": 4,
   "monthly_signature_count": 268,
@@ -158,8 +158,8 @@
     "recruit.email.last_updated": 1620927337,
     "recruit.facebook.count": 1,
     "recruit.facebook.last_updated": 1621862674,
-    "recruit.whatsapp.count": 2,
-    "recruit.whatsapp.last_updated": 1625765463,
+    "recruit.whatsapp.count": 3,
+    "recruit.whatsapp.last_updated": 1627024224,
     "share.copylink.count": 6,
     "share.copylink.last_updated": 1626936349.812,
     "share.email.count": 1,
@@ -168,8 +168,8 @@
     "share.facebook.last_updated": 1626106837.006,
     "share.twitter.count": 1,
     "share.twitter.last_updated": 1626105680.447,
-    "share.whatsapp.count": 5,
-    "share.whatsapp.last_updated": 1626112213.564
+    "share.whatsapp.count": 6,
+    "share.whatsapp.last_updated": 1627022633.658
   },
   "organization": {
     "id": 3192669,
@@ -380,8 +380,8 @@
       },
       "inserted_at": "2020-12-18T23:09:21",
       "position": 5,
-      "pulls": 116,
-      "rewards": 109,
+      "pulls": 117,
+      "rewards": 110,
       "state": "active",
       "updated_at": "2020-12-18T23:09:21",
       "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -465,8 +465,8 @@
         },
         "inserted_at": "2020-12-18T23:09:21",
         "position": 5,
-        "pulls": 116,
-        "rewards": 109,
+        "pulls": 117,
+        "rewards": 110,
         "state": "active",
         "updated_at": "2020-12-18T23:09:21",
         "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -1022,5 +1022,5 @@
     },
     "has_email": true
   },
-  "progress": 69.45866666666667
+  "progress": 69.464
 }
