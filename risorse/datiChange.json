@@ -103,11 +103,11 @@
   "organization_free_email_optins": null,
   "displayed_signature_count": 52132,
   "total_signature_count": 52132,
-  "weekly_signature_count": 48,
+  "weekly_signature_count": 49,
   "total_page_views": 88680,
   "total_share_count": 16824,
-  "daily_signature_count": 2,
-  "monthly_signature_count": 258,
+  "daily_signature_count": 5,
+  "monthly_signature_count": 261,
   "daily_signup_count": 0,
   "weekly_signup_count": 0,
   "monthly_signup_count": 2,
@@ -152,6 +152,24 @@
       }
     },
     "type": "photo"
+  },
+  "activity": {
+    "recruit.email.count": 1,
+    "recruit.email.last_updated": 1620927337,
+    "recruit.facebook.count": 1,
+    "recruit.facebook.last_updated": 1621862674,
+    "recruit.whatsapp.count": 3,
+    "recruit.whatsapp.last_updated": 1627024224,
+    "share.copylink.count": 9,
+    "share.copylink.last_updated": 1627141419.255,
+    "share.email.count": 1,
+    "share.email.last_updated": 1626165430.354,
+    "share.facebook.count": 7,
+    "share.facebook.last_updated": 1626106837.006,
+    "share.twitter.count": 1,
+    "share.twitter.last_updated": 1626105680.447,
+    "share.whatsapp.count": 9,
+    "share.whatsapp.last_updated": 1627116484.598
   },
   "organization": {
     "id": 3192669,
@@ -214,24 +232,6 @@
         }
       }
     }
-  },
-  "activity": {
-    "recruit.email.count": 1,
-    "recruit.email.last_updated": 1620927337,
-    "recruit.facebook.count": 1,
-    "recruit.facebook.last_updated": 1621862674,
-    "recruit.whatsapp.count": 3,
-    "recruit.whatsapp.last_updated": 1627024224,
-    "share.copylink.count": 9,
-    "share.copylink.last_updated": 1627141419.255,
-    "share.email.count": 1,
-    "share.email.last_updated": 1626165430.354,
-    "share.facebook.count": 7,
-    "share.facebook.last_updated": 1626106837.006,
-    "share.twitter.count": 1,
-    "share.twitter.last_updated": 1626105680.447,
-    "share.whatsapp.count": 9,
-    "share.whatsapp.last_updated": 1627116484.598
   },
   "user": {
     "id": 1161785303,
