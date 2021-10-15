@@ -101,11 +101,11 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 53333,
-  "total_signature_count": 53333,
+  "displayed_signature_count": 53339,
+  "total_signature_count": 53339,
   "weekly_signature_count": 111,
   "total_page_views": 88680,
-  "total_share_count": 16824,
+  "total_share_count": 16906,
   "daily_signature_count": 21,
   "monthly_signature_count": 704,
   "daily_signup_count": 0,
@@ -225,8 +225,8 @@
     "share.facebook_messenger.last_updated": 1630338164.375,
     "share.twitter.count": 1,
     "share.twitter.last_updated": 1626105680.447,
-    "share.whatsapp.count": 18,
-    "share.whatsapp.last_updated": 1632768633.745
+    "share.whatsapp.count": 19,
+    "share.whatsapp.last_updated": 1634327907.876
   },
   "organization": {
     "id": 3192669,
@@ -295,15 +295,15 @@
     "selectedVariant": {
       "data": {
         "description": "%{petition_name}",
-        "headline": "Hai già visto questa petizione?",
+        "headline": "Firma la petizione",
         "message": "Puoi aiutarmi firmando anche tu questa petizione?"
       },
-      "inserted_at": "2020-12-18T23:09:21",
-      "position": 5,
-      "pulls": 128,
-      "rewards": 115,
+      "inserted_at": "2020-04-15T20:36:22",
+      "position": 0,
+      "pulls": 137,
+      "rewards": 124,
       "state": "active",
-      "updated_at": "2020-12-18T23:09:21",
+      "updated_at": "2020-04-15T20:36:22",
       "variant_group_name": "whatsapp-sharecopy_it-IT"
     },
     "variants": [
@@ -385,7 +385,7 @@
         },
         "inserted_at": "2020-12-18T23:09:21",
         "position": 5,
-        "pulls": 128,
+        "pulls": 129,
         "rewards": 115,
         "state": "active",
         "updated_at": "2020-12-18T23:09:21",
@@ -1026,5 +1026,5 @@
     },
     "has_email": true
   },
-  "progress": 71.11066666666666
+  "progress": 71.11866666666667
 }
