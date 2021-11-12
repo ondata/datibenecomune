@@ -111,8 +111,8 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 53741,
-  "total_signature_count": 53741,
+  "displayed_signature_count": 53742,
+  "total_signature_count": 53742,
   "weekly_signature_count": 104,
   "total_page_views": 90388,
   "total_share_count": 16971,
@@ -499,7 +499,7 @@
       },
       "inserted_at": "2020-04-15T20:36:32",
       "position": 0,
-      "pulls": 524,
+      "pulls": 525,
       "rewards": 239,
       "state": "active",
       "updated_at": "2020-04-15T20:36:32",
@@ -514,7 +514,7 @@
         },
         "inserted_at": "2020-04-15T20:36:32",
         "position": 0,
-        "pulls": 524,
+        "pulls": 525,
         "rewards": 239,
         "state": "active",
         "updated_at": "2020-04-15T20:36:32",
@@ -1038,5 +1038,5 @@
     },
     "has_email": true
   },
-  "progress": 71.65466666666667
+  "progress": 71.656
 }
