@@ -111,10 +111,10 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 53882,
-  "total_signature_count": 53882,
+  "displayed_signature_count": 53884,
+  "total_signature_count": 53884,
   "weekly_signature_count": 121,
-  "total_page_views": 90454,
+  "total_page_views": 90455,
   "total_share_count": 16973,
   "daily_signature_count": 17,
   "monthly_signature_count": 417,
@@ -237,8 +237,8 @@
     "share.facebook_messenger.last_updated": 1630338164.375,
     "share.twitter.count": 7,
     "share.twitter.last_updated": 1635374736.935,
-    "share.whatsapp.count": 41,
-    "share.whatsapp.last_updated": 1635680586.009
+    "share.whatsapp.count": 42,
+    "share.whatsapp.last_updated": 1637391097.349
   },
   "organization": {
     "id": 3192669,
@@ -396,7 +396,7 @@
       },
       "inserted_at": "2020-12-18T23:09:21",
       "position": 5,
-      "pulls": 147,
+      "pulls": 148,
       "rewards": 136,
       "state": "active",
       "updated_at": "2020-12-18T23:09:21",
@@ -481,7 +481,7 @@
         },
         "inserted_at": "2020-12-18T23:09:21",
         "position": 5,
-        "pulls": 147,
+        "pulls": 148,
         "rewards": 136,
         "state": "active",
         "updated_at": "2020-12-18T23:09:21",
@@ -1038,5 +1038,5 @@
     },
     "has_email": true
   },
-  "progress": 71.84266666666667
+  "progress": 71.84533333333333
 }
