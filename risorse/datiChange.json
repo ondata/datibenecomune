@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 12538
+      "total_count": 12539
     },
     {
       "id": 519179,
@@ -111,8 +111,8 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 53925,
-  "total_signature_count": 53925,
+  "displayed_signature_count": 53926,
+  "total_signature_count": 53926,
   "weekly_signature_count": 73,
   "total_page_views": 90472,
   "total_share_count": 16974,
@@ -1038,5 +1038,5 @@
     },
     "has_email": true
   },
-  "progress": 71.9
+  "progress": 71.90133333333333
 }
