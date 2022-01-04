@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 12709
+      "total_count": 12713
     },
     {
       "id": 519179,
@@ -85,7 +85,7 @@
       "photo_id": null,
       "created_by_owner": false,
       "created_by_staff_member": true,
-      "total_count": 806
+      "total_count": 807
     },
     {
       "id": 155165,
@@ -111,13 +111,13 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 54456,
-  "total_signature_count": 54456,
-  "weekly_signature_count": 52,
+  "displayed_signature_count": 54466,
+  "total_signature_count": 54466,
+  "weekly_signature_count": 50,
   "total_page_views": 90704,
   "total_share_count": 16986,
   "daily_signature_count": 5,
-  "monthly_signature_count": 475,
+  "monthly_signature_count": 474,
   "daily_signup_count": 0,
   "weekly_signup_count": 0,
   "monthly_signup_count": 2,
@@ -162,6 +162,32 @@
       }
     },
     "type": "photo"
+  },
+  "activity": {
+    "recruit..count": 1,
+    "recruit..last_updated": 1635342848,
+    "recruit.copylink.count": 1,
+    "recruit.copylink.last_updated": 1630518163,
+    "recruit.email.count": 3,
+    "recruit.email.last_updated": 1640489357,
+    "recruit.facebook.count": 1,
+    "recruit.facebook.last_updated": 1621862674,
+    "recruit.whatsapp.count": 8,
+    "recruit.whatsapp.last_updated": 1638363431,
+    "share.copylink.count": 28,
+    "share.copylink.last_updated": 1640644397.555,
+    "share.email.count": 7,
+    "share.email.last_updated": 1640420290.647,
+    "share.facebook.count": 25,
+    "share.facebook.last_updated": 1635428695.325,
+    "share.facebook_messenger.count": 1,
+    "share.facebook_messenger.last_updated": 1630338164.375,
+    "share.sms.count": 1,
+    "share.sms.last_updated": 1640420282.546,
+    "share.twitter.count": 7,
+    "share.twitter.last_updated": 1635374736.935,
+    "share.whatsapp.count": 44,
+    "share.whatsapp.last_updated": 1638311364.74
   },
   "user": {
     "id": 1161785303,
@@ -215,32 +241,6 @@
       }
     },
     "roles": []
-  },
-  "activity": {
-    "recruit..count": 1,
-    "recruit..last_updated": 1635342848,
-    "recruit.copylink.count": 1,
-    "recruit.copylink.last_updated": 1630518163,
-    "recruit.email.count": 3,
-    "recruit.email.last_updated": 1640489357,
-    "recruit.facebook.count": 1,
-    "recruit.facebook.last_updated": 1621862674,
-    "recruit.whatsapp.count": 8,
-    "recruit.whatsapp.last_updated": 1638363431,
-    "share.copylink.count": 28,
-    "share.copylink.last_updated": 1640644397.555,
-    "share.email.count": 7,
-    "share.email.last_updated": 1640420290.647,
-    "share.facebook.count": 25,
-    "share.facebook.last_updated": 1635428695.325,
-    "share.facebook_messenger.count": 1,
-    "share.facebook_messenger.last_updated": 1630338164.375,
-    "share.sms.count": 1,
-    "share.sms.last_updated": 1640420282.546,
-    "share.twitter.count": 7,
-    "share.twitter.last_updated": 1635374736.935,
-    "share.whatsapp.count": 44,
-    "share.whatsapp.last_updated": 1638311364.74
   },
   "organization": {
     "id": 3192669,
@@ -304,108 +304,89 @@
       }
     }
   },
-  "whatsapp_share_copy_bandit_definition": {
-    "experimentName": "washarecopy_25684771_it-IT",
-    "selectedVariant": {
-      "data": {
-        "description": "%{petition_name}",
-        "headline": "Hai già visto questa petizione?",
-        "message": "Puoi aiutarmi firmando anche tu questa petizione?"
-      },
-      "inserted_at": "2020-12-18T23:09:21",
-      "position": 5,
-      "pulls": 150,
-      "rewards": 137,
-      "state": "active",
-      "updated_at": "2020-12-18T23:09:21",
-      "variant_group_name": "whatsapp-sharecopy_it-IT"
-    },
+  "headline_bandit": {
+    "experimentName": "fht-25684771-it-it",
     "variants": [
       {
         "data": {
           "description": "%{petition_name}",
-          "headline": "Firma la petizione",
-          "message": "Puoi aiutarmi firmando anche tu questa petizione?"
+          "headline": "Hai un minuto per aiutare %{sharer_name}?"
         },
-        "inserted_at": "2020-04-15T20:36:22",
+        "inserted_at": "2020-04-15T20:36:03",
         "position": 0,
-        "pulls": 142,
-        "rewards": 124,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:22",
-        "variant_group_name": "whatsapp-sharecopy_it-IT"
+        "pulls": 84,
+        "rewards": 36,
+        "state": "inactive",
+        "updated_at": "2020-12-18T19:23:02",
+        "variant_group_name": "fht_it-IT"
       },
       {
         "data": {
-          "description": "%{petition_name}",
-          "headline": "Aiuta %{sharer_name} a far crescere questa petizione! 🚀",
-          "message": "Puoi firmare anche tu? ✍️"
+          "description": "Mancano ancora %{signature_target} firme! %{petition_name}",
+          "headline": "Hai un minuto per aiutare %{sharer_name}?"
         },
-        "inserted_at": "2020-04-15T20:36:22",
+        "inserted_at": "2020-04-15T20:36:03",
         "position": 1,
-        "pulls": 187,
-        "rewards": 227,
+        "pulls": 86,
+        "rewards": 44,
         "state": "inactive",
-        "updated_at": "2020-12-18T23:08:56",
-        "variant_group_name": "whatsapp-sharecopy_it-IT"
+        "updated_at": "2020-12-18T19:23:03",
+        "variant_group_name": "fht_it-IT"
       },
       {
         "data": {
-          "description": "%{petition_name}",
-          "headline": "Crea il cambiamento. Firma questa petizione.",
-          "message": "C'è ancora bisogno di %{signature_target} firme, puoi aggiungere anche la tua? ✍️"
+          "description": "Mancano ancora %{signature_target} firme!",
+          "headline": "Petizione di tendenza 🚀: %{petition_name}"
         },
-        "inserted_at": "2020-04-15T20:36:22",
+        "inserted_at": "2020-04-15T20:36:03",
         "position": 2,
-        "pulls": 128,
-        "rewards": 150,
-        "state": "inactive",
-        "updated_at": "2020-12-18T23:08:57",
-        "variant_group_name": "whatsapp-sharecopy_it-IT"
+        "pulls": 91,
+        "rewards": 76,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:03",
+        "variant_group_name": "fht_it-IT"
       },
       {
         "data": {
-          "description": "%{petition_name}",
-          "headline": "Possiamo creare un cambiamento.",
-          "message": "C'è ancora bisogno di %{signature_target} firme, possiamo dare il nostro aiuto firmando questa petizione. 💪"
+          "description": "Mancano ancora %{signature_target} firme!",
+          "headline": "Firma ora 👉 %{petition_name}"
         },
-        "inserted_at": "2020-04-15T20:36:22",
+        "inserted_at": "2020-04-15T20:36:03",
         "position": 3,
-        "pulls": 108,
-        "rewards": 94,
-        "state": "inactive",
-        "updated_at": "2020-12-18T23:08:58",
-        "variant_group_name": "whatsapp-sharecopy_it-IT"
+        "pulls": 3155,
+        "rewards": 4088,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:03",
+        "variant_group_name": "fht_it-IT"
       },
       {
         "data": {
-          "description": "%{petition_name}",
-          "headline": "Questa campagna ha bisogno di te, adesso",
-          "message": "Arriviamo a %{signature_target} firme entro oggi, puoi firmare ora?"
+          "description": "Mancano ancora %{signature_target} firme!",
+          "headline": "Hai già visto questa petizione?"
         },
-        "inserted_at": "2020-04-15T20:36:22",
+        "inserted_at": "2020-12-18T19:23:44",
         "position": 4,
-        "pulls": 5636,
-        "rewards": 6792,
+        "pulls": 40,
+        "rewards": 22,
         "state": "active",
-        "updated_at": "2020-04-15T20:36:22",
-        "variant_group_name": "whatsapp-sharecopy_it-IT"
-      },
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Hai già visto questa petizione?",
-          "message": "Puoi aiutarmi firmando anche tu questa petizione?"
-        },
-        "inserted_at": "2020-12-18T23:09:21",
-        "position": 5,
-        "pulls": 150,
-        "rewards": 137,
-        "state": "active",
-        "updated_at": "2020-12-18T23:09:21",
-        "variant_group_name": "whatsapp-sharecopy_it-IT"
+        "updated_at": "2020-12-18T19:23:44",
+        "variant_group_name": "fht_it-IT"
       }
-    ]
+    ],
+    "selectedVariant": {
+      "data": {
+        "description": "Mancano ancora %{signature_target} firme!",
+        "headline": "Firma ora 👉 %{petition_name}"
+      },
+      "inserted_at": "2020-04-15T20:36:03",
+      "position": 3,
+      "pulls": 3155,
+      "rewards": 4088,
+      "state": "active",
+      "updated_at": "2020-04-15T20:36:03",
+      "variant_group_name": "fht_it-IT"
+    },
+    "is_active": true
   },
   "copylink_share_copy_bandit_definition": {
     "experimentName": "cl_sharecopy_25684771_it-IT",
@@ -524,89 +505,108 @@
       }
     ]
   },
-  "headline_bandit": {
-    "experimentName": "fht-25684771-it-it",
+  "whatsapp_share_copy_bandit_definition": {
+    "experimentName": "washarecopy_25684771_it-IT",
+    "selectedVariant": {
+      "data": {
+        "description": "%{petition_name}",
+        "headline": "Hai già visto questa petizione?",
+        "message": "Puoi aiutarmi firmando anche tu questa petizione?"
+      },
+      "inserted_at": "2020-12-18T23:09:21",
+      "position": 5,
+      "pulls": 150,
+      "rewards": 137,
+      "state": "active",
+      "updated_at": "2020-12-18T23:09:21",
+      "variant_group_name": "whatsapp-sharecopy_it-IT"
+    },
     "variants": [
       {
         "data": {
           "description": "%{petition_name}",
-          "headline": "Hai un minuto per aiutare %{sharer_name}?"
+          "headline": "Firma la petizione",
+          "message": "Puoi aiutarmi firmando anche tu questa petizione?"
         },
-        "inserted_at": "2020-04-15T20:36:03",
+        "inserted_at": "2020-04-15T20:36:22",
         "position": 0,
-        "pulls": 84,
-        "rewards": 36,
-        "state": "inactive",
-        "updated_at": "2020-12-18T19:23:02",
-        "variant_group_name": "fht_it-IT"
+        "pulls": 142,
+        "rewards": 124,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:22",
+        "variant_group_name": "whatsapp-sharecopy_it-IT"
       },
       {
         "data": {
-          "description": "Mancano ancora %{signature_target} firme! %{petition_name}",
-          "headline": "Hai un minuto per aiutare %{sharer_name}?"
+          "description": "%{petition_name}",
+          "headline": "Aiuta %{sharer_name} a far crescere questa petizione! 🚀",
+          "message": "Puoi firmare anche tu? ✍️"
         },
-        "inserted_at": "2020-04-15T20:36:03",
+        "inserted_at": "2020-04-15T20:36:22",
         "position": 1,
-        "pulls": 86,
-        "rewards": 44,
+        "pulls": 187,
+        "rewards": 227,
         "state": "inactive",
-        "updated_at": "2020-12-18T19:23:03",
-        "variant_group_name": "fht_it-IT"
+        "updated_at": "2020-12-18T23:08:56",
+        "variant_group_name": "whatsapp-sharecopy_it-IT"
       },
       {
         "data": {
-          "description": "Mancano ancora %{signature_target} firme!",
-          "headline": "Petizione di tendenza 🚀: %{petition_name}"
+          "description": "%{petition_name}",
+          "headline": "Crea il cambiamento. Firma questa petizione.",
+          "message": "C'è ancora bisogno di %{signature_target} firme, puoi aggiungere anche la tua? ✍️"
         },
-        "inserted_at": "2020-04-15T20:36:03",
+        "inserted_at": "2020-04-15T20:36:22",
         "position": 2,
-        "pulls": 91,
-        "rewards": 76,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:03",
-        "variant_group_name": "fht_it-IT"
+        "pulls": 128,
+        "rewards": 150,
+        "state": "inactive",
+        "updated_at": "2020-12-18T23:08:57",
+        "variant_group_name": "whatsapp-sharecopy_it-IT"
       },
       {
         "data": {
-          "description": "Mancano ancora %{signature_target} firme!",
-          "headline": "Firma ora 👉 %{petition_name}"
+          "description": "%{petition_name}",
+          "headline": "Possiamo creare un cambiamento.",
+          "message": "C'è ancora bisogno di %{signature_target} firme, possiamo dare il nostro aiuto firmando questa petizione. 💪"
         },
-        "inserted_at": "2020-04-15T20:36:03",
+        "inserted_at": "2020-04-15T20:36:22",
         "position": 3,
-        "pulls": 3155,
-        "rewards": 4088,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:03",
-        "variant_group_name": "fht_it-IT"
+        "pulls": 108,
+        "rewards": 94,
+        "state": "inactive",
+        "updated_at": "2020-12-18T23:08:58",
+        "variant_group_name": "whatsapp-sharecopy_it-IT"
       },
       {
         "data": {
-          "description": "Mancano ancora %{signature_target} firme!",
-          "headline": "Hai già visto questa petizione?"
+          "description": "%{petition_name}",
+          "headline": "Questa campagna ha bisogno di te, adesso",
+          "message": "Arriviamo a %{signature_target} firme entro oggi, puoi firmare ora?"
         },
-        "inserted_at": "2020-12-18T19:23:44",
+        "inserted_at": "2020-04-15T20:36:22",
         "position": 4,
-        "pulls": 40,
-        "rewards": 22,
+        "pulls": 5636,
+        "rewards": 6792,
         "state": "active",
-        "updated_at": "2020-12-18T19:23:44",
-        "variant_group_name": "fht_it-IT"
-      }
-    ],
-    "selectedVariant": {
-      "data": {
-        "description": "Mancano ancora %{signature_target} firme!",
-        "headline": "Firma ora 👉 %{petition_name}"
+        "updated_at": "2020-04-15T20:36:22",
+        "variant_group_name": "whatsapp-sharecopy_it-IT"
       },
-      "inserted_at": "2020-04-15T20:36:03",
-      "position": 3,
-      "pulls": 3155,
-      "rewards": 4088,
-      "state": "active",
-      "updated_at": "2020-04-15T20:36:03",
-      "variant_group_name": "fht_it-IT"
-    },
-    "is_active": true
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Hai già visto questa petizione?",
+          "message": "Puoi aiutarmi firmando anche tu questa petizione?"
+        },
+        "inserted_at": "2020-12-18T23:09:21",
+        "position": 5,
+        "pulls": 150,
+        "rewards": 137,
+        "state": "active",
+        "updated_at": "2020-12-18T23:09:21",
+        "variant_group_name": "whatsapp-sharecopy_it-IT"
+      }
+    ]
   },
   "targets": [
     {
@@ -1040,5 +1040,5 @@
     },
     "has_email": true
   },
-  "progress": 72.608
+  "progress": 72.62133333333334
 }
