@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 12938
+      "total_count": 12942
     },
     {
       "id": 519179,
@@ -111,10 +111,10 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 56429,
-  "total_signature_count": 56429,
+  "displayed_signature_count": 56441,
+  "total_signature_count": 56441,
   "weekly_signature_count": 1267,
-  "total_page_views": 90853,
+  "total_page_views": 90854,
   "total_share_count": 17005,
   "daily_signature_count": 51,
   "monthly_signature_count": 2300,
@@ -225,8 +225,8 @@
     "recruit.email.last_updated": 1640489357,
     "recruit.facebook.count": 1,
     "recruit.facebook.last_updated": 1621862674,
-    "recruit.whatsapp.count": 9,
-    "recruit.whatsapp.last_updated": 1642097263,
+    "recruit.whatsapp.count": 10,
+    "recruit.whatsapp.last_updated": 1642180436,
     "share.copylink.count": 28,
     "share.copylink.last_updated": 1640644397.555,
     "share.email.count": 7,
@@ -414,7 +414,7 @@
         "inserted_at": "2020-04-15T20:36:22",
         "position": 0,
         "pulls": 147,
-        "rewards": 126,
+        "rewards": 127,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
         "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -1040,5 +1040,5 @@
     },
     "has_email": true
   },
-  "progress": 75.23866666666666
+  "progress": 75.25466666666667
 }
