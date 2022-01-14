@@ -45,7 +45,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 12932
+      "total_count": 12933
     },
     {
       "id": 519179,
@@ -111,15 +111,15 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 56370,
-  "total_signature_count": 56370,
-  "weekly_signature_count": 1529,
-  "total_page_views": 90810,
+  "displayed_signature_count": 56382,
+  "total_signature_count": 56382,
+  "weekly_signature_count": 1447,
+  "total_page_views": 90839,
   "total_share_count": 16992,
-  "daily_signature_count": 72,
-  "monthly_signature_count": 2234,
+  "daily_signature_count": 68,
+  "monthly_signature_count": 2266,
   "daily_signup_count": 0,
-  "weekly_signup_count": 1,
+  "weekly_signup_count": 0,
   "monthly_signup_count": 3,
   "total_signup_count": 2270,
   "supporter_message_count": null,
@@ -239,8 +239,8 @@
     "share.sms.last_updated": 1640420282.546,
     "share.twitter.count": 7,
     "share.twitter.last_updated": 1635374736.935,
-    "share.whatsapp.count": 50,
-    "share.whatsapp.last_updated": 1642096298.996
+    "share.whatsapp.count": 53,
+    "share.whatsapp.last_updated": 1642116496.074
   },
   "organization": {
     "id": 3192669,
@@ -399,7 +399,7 @@
       "inserted_at": "2020-04-15T20:36:32",
       "position": 0,
       "pulls": 534,
-      "rewards": 242,
+      "rewards": 243,
       "state": "active",
       "updated_at": "2020-04-15T20:36:32",
       "variant_group_name": "copylink-sharecopy_it-IT"
@@ -414,7 +414,7 @@
         "inserted_at": "2020-04-15T20:36:32",
         "position": 0,
         "pulls": 534,
-        "rewards": 242,
+        "rewards": 243,
         "state": "active",
         "updated_at": "2020-04-15T20:36:32",
         "variant_group_name": "copylink-sharecopy_it-IT"
@@ -515,7 +515,7 @@
       },
       "inserted_at": "2020-12-18T23:09:21",
       "position": 5,
-      "pulls": 157,
+      "pulls": 158,
       "rewards": 139,
       "state": "active",
       "updated_at": "2020-12-18T23:09:21",
@@ -530,7 +530,7 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 0,
-        "pulls": 145,
+        "pulls": 147,
         "rewards": 126,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
@@ -600,7 +600,7 @@
         },
         "inserted_at": "2020-12-18T23:09:21",
         "position": 5,
-        "pulls": 157,
+        "pulls": 158,
         "rewards": 139,
         "state": "active",
         "updated_at": "2020-12-18T23:09:21",
@@ -1040,5 +1040,5 @@
     },
     "has_email": true
   },
-  "progress": 75.16
+  "progress": 75.176
 }
