@@ -46,7 +46,7 @@
       "photo_id": null,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 13122
+      "total_count": 13124
     },
     {
       "id": 519179,
@@ -112,8 +112,8 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 57227,
-  "total_signature_count": 57227,
+  "displayed_signature_count": 57229,
+  "total_signature_count": 57229,
   "weekly_signature_count": 134,
   "total_page_views": 91013,
   "total_share_count": 17026,
@@ -125,160 +125,6 @@
   "total_signup_count": 2272,
   "supporter_message_count": null,
   "starter_vanity_url": null,
-  "photo": {
-    "id": 224817954,
-    "url": "photos/5/yr/fm/eryrfmwKHIUhUlN-fullsize.jpg",
-    "sizes": {
-      "square": {
-        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-400x400-noPad.jpg?1605763696",
-        "processing": false,
-        "size": {
-          "width": 400,
-          "height": 400
-        }
-      },
-      "small": {
-        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-400x225-noPad.jpg?1605763696",
-        "processing": false,
-        "size": {
-          "width": 400,
-          "height": 225
-        }
-      },
-      "medium": {
-        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-800x450-noPad.jpg?1605763697",
-        "processing": false,
-        "size": {
-          "width": 800,
-          "height": 450
-        }
-      },
-      "large": {
-        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-1600x900-noPad.jpg?1605763696",
-        "processing": false,
-        "size": {
-          "width": 1600,
-          "height": 900
-        }
-      }
-    },
-    "type": "photo"
-  },
-  "user": {
-    "id": 1161785303,
-    "slug": "1161785303",
-    "first_name": "Andrea Nelson",
-    "last_name": "Mauro",
-    "short_display_name": "Andrea Nelson",
-    "display_name": "Andrea Nelson Mauro",
-    "city": "Milan",
-    "state_code": "",
-    "country_code": "IT",
-    "website": "https://www.twitter.com/nelsonmau",
-    "locale": "it-IT",
-    "description": "",
-    "photo": {
-      "id": 224827295,
-      "url": "photos/5/kx/wg/WNKxwGhTiaCbqCH-fullsize.jpg",
-      "sizes": {
-        "small": {
-          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-48x48-noPad.jpg?1604769385",
-          "processing": false,
-          "size": {
-            "width": 48,
-            "height": 48
-          }
-        },
-        "medium": {
-          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-128x128-noPad.jpg?1604769385",
-          "processing": false,
-          "size": {
-            "width": 128,
-            "height": 128
-          }
-        },
-        "large": {
-          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-400x400-noPad.jpg?1604769385",
-          "processing": false,
-          "size": {
-            "width": 400,
-            "height": 400
-          }
-        },
-        "xlarge": {
-          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-800x800-noPad.jpg?1604769385",
-          "processing": false,
-          "size": {
-            "width": 800,
-            "height": 800
-          }
-        }
-      }
-    },
-    "roles": []
-  },
-  "organization": {
-    "id": 3192669,
-    "slug": "ondata",
-    "name": "Ondata",
-    "website": "https://ondata.it/",
-    "country_code": "IT",
-    "mission": "Siamo un’associazione che promuove l’apertura dei dati pubblici per renderli accessibili a tutti.",
-    "address": "",
-    "address_line_2": null,
-    "city": "",
-    "state": "",
-    "state_code": "",
-    "zipcode": "",
-    "postal_code": "",
-    "formatted_location_string": "Italia",
-    "fb_page": "",
-    "twitter_page": "ondatait",
-    "phone_number": null,
-    "admin_contact_name": null,
-    "admin_contact_email": null,
-    "tax_name": null,
-    "tax_id_number": null,
-    "tax_address": null,
-    "tax_city": null,
-    "tax_state_code": null,
-    "tax_country_code": null,
-    "non_profit": null,
-    "verified_by": null,
-    "verified_at": null,
-    "verification_requested_at": null,
-    "video": null,
-    "photo": {
-      "id": 224817960,
-      "url": "photos/6/qo/re/DDQoreneslQRRpQ-fullsize.jpg",
-      "sizes": {
-        "small": {
-          "url": "//assets.change.org/photos/6/qo/re/DDQoreneslQRRpQ-48x48-noPad.jpg?1604593004",
-          "processing": false,
-          "size": {
-            "width": 48,
-            "height": 48
-          }
-        },
-        "medium": {
-          "url": "//assets.change.org/photos/6/qo/re/DDQoreneslQRRpQ-128x128-noPad.jpg?1604593004",
-          "processing": false,
-          "size": {
-            "width": 128,
-            "height": 128
-          }
-        },
-        "large": {
-          "url": "//assets.change.org/photos/6/qo/re/DDQoreneslQRRpQ-400x400-noPad.jpg?1604593005",
-          "processing": false,
-          "size": {
-            "width": 400,
-            "height": 400
-          }
-        }
-      }
-    }
-  },
   "headline_bandit": {
     "experimentName": "fht-25684771-it-it",
     "variants": [
@@ -466,32 +312,6 @@
       }
     ]
   },
-  "activity": {
-    "recruit..count": 1,
-    "recruit..last_updated": 1635342848,
-    "recruit.copylink.count": 3,
-    "recruit.copylink.last_updated": 1641488600,
-    "recruit.email.count": 3,
-    "recruit.email.last_updated": 1640489357,
-    "recruit.facebook.count": 2,
-    "recruit.facebook.last_updated": 1642526366,
-    "recruit.whatsapp.count": 10,
-    "recruit.whatsapp.last_updated": 1642180436,
-    "share.copylink.count": 29,
-    "share.copylink.last_updated": 1643866577.702,
-    "share.email.count": 8,
-    "share.email.last_updated": 1643881187.618,
-    "share.facebook.count": 32,
-    "share.facebook.last_updated": 1643880868.063,
-    "share.facebook_messenger.count": 1,
-    "share.facebook_messenger.last_updated": 1630338164.375,
-    "share.sms.count": 1,
-    "share.sms.last_updated": 1640420282.546,
-    "share.twitter.count": 7,
-    "share.twitter.last_updated": 1635374736.935,
-    "share.whatsapp.count": 59,
-    "share.whatsapp.last_updated": 1643891582.893
-  },
   "copylink_share_copy_bandit_definition": {
     "experimentName": "cl_sharecopy_25684771_it-IT",
     "selectedVariant": {
@@ -609,6 +429,186 @@
       }
     ]
   },
+  "activity": {
+    "recruit..count": 1,
+    "recruit..last_updated": 1635342848,
+    "recruit.copylink.count": 3,
+    "recruit.copylink.last_updated": 1641488600,
+    "recruit.email.count": 3,
+    "recruit.email.last_updated": 1640489357,
+    "recruit.facebook.count": 2,
+    "recruit.facebook.last_updated": 1642526366,
+    "recruit.whatsapp.count": 10,
+    "recruit.whatsapp.last_updated": 1642180436,
+    "share.copylink.count": 29,
+    "share.copylink.last_updated": 1643866577.702,
+    "share.email.count": 8,
+    "share.email.last_updated": 1643881187.618,
+    "share.facebook.count": 32,
+    "share.facebook.last_updated": 1643880868.063,
+    "share.facebook_messenger.count": 1,
+    "share.facebook_messenger.last_updated": 1630338164.375,
+    "share.sms.count": 1,
+    "share.sms.last_updated": 1640420282.546,
+    "share.twitter.count": 7,
+    "share.twitter.last_updated": 1635374736.935,
+    "share.whatsapp.count": 59,
+    "share.whatsapp.last_updated": 1643891582.893
+  },
+  "photo": {
+    "id": 224817954,
+    "url": "photos/5/yr/fm/eryrfmwKHIUhUlN-fullsize.jpg",
+    "sizes": {
+      "square": {
+        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-400x400-noPad.jpg?1605763696",
+        "processing": false,
+        "size": {
+          "width": 400,
+          "height": 400
+        }
+      },
+      "small": {
+        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-400x225-noPad.jpg?1605763696",
+        "processing": false,
+        "size": {
+          "width": 400,
+          "height": 225
+        }
+      },
+      "medium": {
+        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-800x450-noPad.jpg?1605763697",
+        "processing": false,
+        "size": {
+          "width": 800,
+          "height": 450
+        }
+      },
+      "large": {
+        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-1600x900-noPad.jpg?1605763696",
+        "processing": false,
+        "size": {
+          "width": 1600,
+          "height": 900
+        }
+      }
+    },
+    "type": "photo"
+  },
+  "organization": {
+    "id": 3192669,
+    "slug": "ondata",
+    "name": "Ondata",
+    "website": "https://ondata.it/",
+    "country_code": "IT",
+    "mission": "Siamo un’associazione che promuove l’apertura dei dati pubblici per renderli accessibili a tutti.",
+    "address": "",
+    "address_line_2": null,
+    "city": "",
+    "state": "",
+    "state_code": "",
+    "zipcode": "",
+    "postal_code": "",
+    "formatted_location_string": "Italia",
+    "fb_page": "",
+    "twitter_page": "ondatait",
+    "phone_number": null,
+    "admin_contact_name": null,
+    "admin_contact_email": null,
+    "tax_name": null,
+    "tax_id_number": null,
+    "tax_address": null,
+    "tax_city": null,
+    "tax_state_code": null,
+    "tax_country_code": null,
+    "non_profit": null,
+    "verified_by": null,
+    "verified_at": null,
+    "verification_requested_at": null,
+    "video": null,
+    "photo": {
+      "id": 224817960,
+      "url": "photos/6/qo/re/DDQoreneslQRRpQ-fullsize.jpg",
+      "sizes": {
+        "small": {
+          "url": "//assets.change.org/photos/6/qo/re/DDQoreneslQRRpQ-48x48-noPad.jpg?1604593004",
+          "processing": false,
+          "size": {
+            "width": 48,
+            "height": 48
+          }
+        },
+        "medium": {
+          "url": "//assets.change.org/photos/6/qo/re/DDQoreneslQRRpQ-128x128-noPad.jpg?1604593004",
+          "processing": false,
+          "size": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "large": {
+          "url": "//assets.change.org/photos/6/qo/re/DDQoreneslQRRpQ-400x400-noPad.jpg?1604593005",
+          "processing": false,
+          "size": {
+            "width": 400,
+            "height": 400
+          }
+        }
+      }
+    }
+  },
+  "user": {
+    "id": 1161785303,
+    "slug": "1161785303",
+    "first_name": "Andrea Nelson",
+    "last_name": "Mauro",
+    "short_display_name": "Andrea Nelson",
+    "display_name": "Andrea Nelson Mauro",
+    "city": "Milan",
+    "state_code": "",
+    "country_code": "IT",
+    "website": "https://www.twitter.com/nelsonmau",
+    "locale": "it-IT",
+    "description": "",
+    "photo": {
+      "id": 224827295,
+      "url": "photos/5/kx/wg/WNKxwGhTiaCbqCH-fullsize.jpg",
+      "sizes": {
+        "small": {
+          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-48x48-noPad.jpg?1604769385",
+          "processing": false,
+          "size": {
+            "width": 48,
+            "height": 48
+          }
+        },
+        "medium": {
+          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-128x128-noPad.jpg?1604769385",
+          "processing": false,
+          "size": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "large": {
+          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-400x400-noPad.jpg?1604769385",
+          "processing": false,
+          "size": {
+            "width": 400,
+            "height": 400
+          }
+        },
+        "xlarge": {
+          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-800x800-noPad.jpg?1604769385",
+          "processing": false,
+          "size": {
+            "width": 800,
+            "height": 800
+          }
+        }
+      }
+    },
+    "roles": []
+  },
   "targets": [
     {
       "id": 12270016,
@@ -628,7 +628,8 @@
       "additional_data": {
         "first_name": "On.",
         "last_name": "Renato Brunetta",
-        "title": "Ministro per la Pubblica Amministrazione"
+        "title": "Ministro per la Pubblica Amministrazione",
+        "id": 12168150
       },
       "has_email": true
     },
@@ -649,7 +650,8 @@
       "additional_data": {
         "first_name": "Mario",
         "last_name": "Draghi",
-        "title": "Presidente del Consiglio dei Ministri"
+        "title": "Presidente del Consiglio dei Ministri",
+        "id": 12057902
       },
       "has_email": true,
       "photo": {
@@ -708,7 +710,8 @@
       "additional_data": {
         "first_name": "Roberto",
         "last_name": "Speranza",
-        "title": "Ministro della Salute"
+        "title": "Ministro della Salute",
+        "id": 10943494
       },
       "has_email": false,
       "photo": {
@@ -767,7 +770,8 @@
       "additional_data": {
         "first_name": "Renato",
         "last_name": "Brunetta",
-        "title": "Ministro della Pubblica Amministrazione"
+        "title": "Ministro della Pubblica Amministrazione",
+        "id": 768027
       },
       "has_email": true,
       "photo": {
@@ -827,7 +831,8 @@
       "additional_data": {
         "first_name": "Paola",
         "last_name": "Pisano",
-        "title": "Ministro per l'Innovazione tecnologica e la Digitalizzazione"
+        "title": "Ministro per l'Innovazione tecnologica e la Digitalizzazione",
+        "id": 10958097
       },
       "has_email": false
     },
@@ -849,7 +854,8 @@
       "additional_data": {
         "first_name": "Silvio",
         "last_name": "Brusaferro",
-        "title": null
+        "title": null,
+        "id": 11234543
       },
       "has_email": false
     },
@@ -871,7 +877,8 @@
       "additional_data": {
         "first_name": "Domenico",
         "last_name": "Arcuri",
-        "title": null
+        "title": null,
+        "id": 11246588
       },
       "has_email": false
     },
@@ -893,7 +900,8 @@
       "additional_data": {
         "first_name": "Angelo",
         "last_name": "Borrelli",
-        "title": null
+        "title": null,
+        "id": 11210773
       },
       "has_email": false
     },
@@ -915,7 +923,8 @@
       "additional_data": {
         "first_name": "Franco",
         "last_name": "Locatelli",
-        "title": null
+        "title": null,
+        "id": 11882765
       },
       "has_email": false
     },
@@ -937,7 +946,8 @@
       "additional_data": {
         "first_name": "Vittorio",
         "last_name": "Colao",
-        "title": null
+        "title": null,
+        "id": 4094242
       },
       "has_email": false
     }
@@ -1037,9 +1047,10 @@
     "additional_data": {
       "first_name": "On.",
       "last_name": "Renato Brunetta",
-      "title": "Ministro per la Pubblica Amministrazione"
+      "title": "Ministro per la Pubblica Amministrazione",
+      "id": 12168150
     },
     "has_email": true
   },
-  "progress": 76.30266666666667
+  "progress": 76.30533333333334
 }
