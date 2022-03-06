@@ -114,11 +114,11 @@
   "organization_free_email_optins": null,
   "displayed_signature_count": 57288,
   "total_signature_count": 57288,
-  "weekly_signature_count": 21,
-  "total_page_views": 91052,
-  "total_share_count": 17026,
-  "daily_signature_count": 1,
-  "monthly_signature_count": 284,
+  "weekly_signature_count": 24,
+  "total_page_views": 91061,
+  "total_share_count": 17028,
+  "daily_signature_count": 7,
+  "monthly_signature_count": 279,
   "daily_signup_count": 0,
   "weekly_signup_count": 0,
   "monthly_signup_count": 0,
@@ -208,32 +208,6 @@
       "variant_group_name": "fht_it-IT"
     },
     "is_active": true
-  },
-  "activity": {
-    "recruit..count": 1,
-    "recruit..last_updated": 1635342848,
-    "recruit.copylink.count": 3,
-    "recruit.copylink.last_updated": 1641488600,
-    "recruit.email.count": 3,
-    "recruit.email.last_updated": 1640489357,
-    "recruit.facebook.count": 2,
-    "recruit.facebook.last_updated": 1642526366,
-    "recruit.whatsapp.count": 11,
-    "recruit.whatsapp.last_updated": 1646496556,
-    "share.copylink.count": 29,
-    "share.copylink.last_updated": 1643866577.702,
-    "share.email.count": 8,
-    "share.email.last_updated": 1643881187.618,
-    "share.facebook.count": 32,
-    "share.facebook.last_updated": 1643880868.063,
-    "share.facebook_messenger.count": 1,
-    "share.facebook_messenger.last_updated": 1630338164.375,
-    "share.sms.count": 1,
-    "share.sms.last_updated": 1640420282.546,
-    "share.twitter.count": 7,
-    "share.twitter.last_updated": 1635374736.935,
-    "share.whatsapp.count": 61,
-    "share.whatsapp.last_updated": 1646504899.182
   },
   "whatsapp_share_copy_bandit_definition": {
     "experimentName": "washarecopy_25684771_it-IT",
@@ -455,6 +429,32 @@
       }
     ]
   },
+  "activity": {
+    "recruit..count": 1,
+    "recruit..last_updated": 1635342848,
+    "recruit.copylink.count": 3,
+    "recruit.copylink.last_updated": 1641488600,
+    "recruit.email.count": 3,
+    "recruit.email.last_updated": 1640489357,
+    "recruit.facebook.count": 2,
+    "recruit.facebook.last_updated": 1642526366,
+    "recruit.whatsapp.count": 11,
+    "recruit.whatsapp.last_updated": 1646496556,
+    "share.copylink.count": 29,
+    "share.copylink.last_updated": 1643866577.702,
+    "share.email.count": 8,
+    "share.email.last_updated": 1643881187.618,
+    "share.facebook.count": 32,
+    "share.facebook.last_updated": 1643880868.063,
+    "share.facebook_messenger.count": 1,
+    "share.facebook_messenger.last_updated": 1630338164.375,
+    "share.sms.count": 1,
+    "share.sms.last_updated": 1640420282.546,
+    "share.twitter.count": 7,
+    "share.twitter.last_updated": 1635374736.935,
+    "share.whatsapp.count": 61,
+    "share.whatsapp.last_updated": 1646504899.182
+  },
   "photo": {
     "id": 224817954,
     "url": "photos/5/yr/fm/eryrfmwKHIUhUlN-fullsize.jpg",
@@ -493,59 +493,6 @@
       }
     },
     "type": "photo"
-  },
-  "user": {
-    "id": 1161785303,
-    "slug": "1161785303",
-    "first_name": "Andrea Nelson",
-    "last_name": "Mauro",
-    "short_display_name": "Andrea Nelson",
-    "display_name": "Andrea Nelson Mauro",
-    "city": "Milan",
-    "state_code": "",
-    "country_code": "IT",
-    "website": "https://www.twitter.com/nelsonmau",
-    "locale": "it-IT",
-    "description": "",
-    "photo": {
-      "id": 224827295,
-      "url": "photos/5/kx/wg/WNKxwGhTiaCbqCH-fullsize.jpg",
-      "sizes": {
-        "small": {
-          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-48x48-noPad.jpg?1604769385",
-          "processing": false,
-          "size": {
-            "width": 48,
-            "height": 48
-          }
-        },
-        "medium": {
-          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-128x128-noPad.jpg?1604769385",
-          "processing": false,
-          "size": {
-            "width": 128,
-            "height": 128
-          }
-        },
-        "large": {
-          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-400x400-noPad.jpg?1604769385",
-          "processing": false,
-          "size": {
-            "width": 400,
-            "height": 400
-          }
-        },
-        "xlarge": {
-          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-800x800-noPad.jpg?1604769385",
-          "processing": false,
-          "size": {
-            "width": 800,
-            "height": 800
-          }
-        }
-      }
-    },
-    "roles": []
   },
   "organization": {
     "id": 3192669,
@@ -608,6 +555,59 @@
         }
       }
     }
+  },
+  "user": {
+    "id": 1161785303,
+    "slug": "1161785303",
+    "first_name": "Andrea Nelson",
+    "last_name": "Mauro",
+    "short_display_name": "Andrea Nelson",
+    "display_name": "Andrea Nelson Mauro",
+    "city": "Milan",
+    "state_code": "",
+    "country_code": "IT",
+    "website": "https://www.twitter.com/nelsonmau",
+    "locale": "it-IT",
+    "description": "",
+    "photo": {
+      "id": 224827295,
+      "url": "photos/5/kx/wg/WNKxwGhTiaCbqCH-fullsize.jpg",
+      "sizes": {
+        "small": {
+          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-48x48-noPad.jpg?1604769385",
+          "processing": false,
+          "size": {
+            "width": 48,
+            "height": 48
+          }
+        },
+        "medium": {
+          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-128x128-noPad.jpg?1604769385",
+          "processing": false,
+          "size": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "large": {
+          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-400x400-noPad.jpg?1604769385",
+          "processing": false,
+          "size": {
+            "width": 400,
+            "height": 400
+          }
+        },
+        "xlarge": {
+          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-800x800-noPad.jpg?1604769385",
+          "processing": false,
+          "size": {
+            "width": 800,
+            "height": 800
+          }
+        }
+      }
+    },
+    "roles": []
   },
   "targets": [
     {
