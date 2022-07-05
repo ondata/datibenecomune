@@ -111,13 +111,13 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 57948,
-  "total_signature_count": 57948,
-  "weekly_signature_count": 71,
+  "displayed_signature_count": 57950,
+  "total_signature_count": 57950,
+  "weekly_signature_count": 69,
   "total_page_views": 91391,
   "total_share_count": 17052,
-  "daily_signature_count": 8,
-  "monthly_signature_count": 127,
+  "daily_signature_count": 4,
+  "monthly_signature_count": 126,
   "daily_signup_count": 0,
   "weekly_signup_count": 0,
   "monthly_signup_count": 2,
@@ -127,6 +127,45 @@
   "featured_title": null,
   "media_text": null,
   "media_url": null,
+  "photo": {
+    "id": 224817954,
+    "url": "photos/5/yr/fm/eryrfmwKHIUhUlN-fullsize.jpg",
+    "sizes": {
+      "square": {
+        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-400x400-noPad.jpg?1605763696",
+        "processing": false,
+        "size": {
+          "width": 400,
+          "height": 400
+        }
+      },
+      "small": {
+        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-400x225-noPad.jpg?1605763696",
+        "processing": false,
+        "size": {
+          "width": 400,
+          "height": 225
+        }
+      },
+      "medium": {
+        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-800x450-noPad.jpg?1605763697",
+        "processing": false,
+        "size": {
+          "width": 800,
+          "height": 450
+        }
+      },
+      "large": {
+        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-1600x900-noPad.jpg?1605763696",
+        "processing": false,
+        "size": {
+          "width": 1600,
+          "height": 900
+        }
+      }
+    },
+    "type": "photo"
+  },
   "whatsapp_share_copy_bandit_definition": {
     "experimentName": "washarecopy_25684771_it-IT",
     "selectedVariant": {
@@ -457,98 +496,6 @@
     "share.whatsapp.count": 63,
     "share.whatsapp.last_updated": 1655293936.581
   },
-  "photo": {
-    "id": 224817954,
-    "url": "photos/5/yr/fm/eryrfmwKHIUhUlN-fullsize.jpg",
-    "sizes": {
-      "square": {
-        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-400x400-noPad.jpg?1605763696",
-        "processing": false,
-        "size": {
-          "width": 400,
-          "height": 400
-        }
-      },
-      "small": {
-        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-400x225-noPad.jpg?1605763696",
-        "processing": false,
-        "size": {
-          "width": 400,
-          "height": 225
-        }
-      },
-      "medium": {
-        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-800x450-noPad.jpg?1605763697",
-        "processing": false,
-        "size": {
-          "width": 800,
-          "height": 450
-        }
-      },
-      "large": {
-        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-1600x900-noPad.jpg?1605763696",
-        "processing": false,
-        "size": {
-          "width": 1600,
-          "height": 900
-        }
-      }
-    },
-    "type": "photo"
-  },
-  "user": {
-    "id": 1161785303,
-    "slug": "1161785303",
-    "first_name": "Andrea Nelson",
-    "last_name": "Mauro",
-    "short_display_name": "Andrea Nelson",
-    "display_name": "Andrea Nelson Mauro",
-    "city": "Milan",
-    "state_code": "",
-    "country_code": "IT",
-    "website": "https://www.twitter.com/nelsonmau",
-    "locale": "it-IT",
-    "description": "",
-    "photo": {
-      "id": 224827295,
-      "url": "photos/5/kx/wg/WNKxwGhTiaCbqCH-fullsize.jpg",
-      "sizes": {
-        "small": {
-          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-48x48-noPad.jpg?1604769385",
-          "processing": false,
-          "size": {
-            "width": 48,
-            "height": 48
-          }
-        },
-        "medium": {
-          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-128x128-noPad.jpg?1604769385",
-          "processing": false,
-          "size": {
-            "width": 128,
-            "height": 128
-          }
-        },
-        "large": {
-          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-400x400-noPad.jpg?1604769385",
-          "processing": false,
-          "size": {
-            "width": 400,
-            "height": 400
-          }
-        },
-        "xlarge": {
-          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-800x800-noPad.jpg?1604769385",
-          "processing": false,
-          "size": {
-            "width": 800,
-            "height": 800
-          }
-        }
-      }
-    },
-    "roles": []
-  },
   "organization": {
     "id": 3192669,
     "slug": "ondata",
@@ -610,6 +557,59 @@
         }
       }
     }
+  },
+  "user": {
+    "id": 1161785303,
+    "slug": "1161785303",
+    "first_name": "Andrea Nelson",
+    "last_name": "Mauro",
+    "short_display_name": "Andrea Nelson",
+    "display_name": "Andrea Nelson Mauro",
+    "city": "Milan",
+    "state_code": "",
+    "country_code": "IT",
+    "website": "https://www.twitter.com/nelsonmau",
+    "locale": "it-IT",
+    "description": "",
+    "photo": {
+      "id": 224827295,
+      "url": "photos/5/kx/wg/WNKxwGhTiaCbqCH-fullsize.jpg",
+      "sizes": {
+        "small": {
+          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-48x48-noPad.jpg?1604769385",
+          "processing": false,
+          "size": {
+            "width": 48,
+            "height": 48
+          }
+        },
+        "medium": {
+          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-128x128-noPad.jpg?1604769385",
+          "processing": false,
+          "size": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "large": {
+          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-400x400-noPad.jpg?1604769385",
+          "processing": false,
+          "size": {
+            "width": 400,
+            "height": 400
+          }
+        },
+        "xlarge": {
+          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-800x800-noPad.jpg?1604769385",
+          "processing": false,
+          "size": {
+            "width": 800,
+            "height": 800
+          }
+        }
+      }
+    },
+    "roles": []
   },
   "targets": [
     {
@@ -1054,5 +1054,5 @@
     },
     "has_email": true
   },
-  "progress": 77.264
+  "progress": 77.26666666666667
 }
