@@ -111,13 +111,13 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 58623,
-  "total_signature_count": 58623,
-  "weekly_signature_count": 119,
+  "displayed_signature_count": 58624,
+  "total_signature_count": 58624,
+  "weekly_signature_count": 117,
   "total_page_views": 91742,
   "total_share_count": 17111,
-  "daily_signature_count": 8,
-  "monthly_signature_count": 333,
+  "daily_signature_count": 5,
+  "monthly_signature_count": 332,
   "daily_signup_count": 0,
   "weekly_signup_count": 0,
   "monthly_signup_count": 3,
@@ -128,31 +128,44 @@
   "media_text": null,
   "media_url": null,
   "geo_reach": null,
-  "activity": {
-    "recruit..count": 1,
-    "recruit..last_updated": 1635342848,
-    "recruit.copylink.count": 9,
-    "recruit.copylink.last_updated": 1653462932,
-    "recruit.email.count": 4,
-    "recruit.email.last_updated": 1653410807,
-    "recruit.facebook.count": 5,
-    "recruit.facebook.last_updated": 1667748960,
-    "recruit.whatsapp.count": 13,
-    "recruit.whatsapp.last_updated": 1667584666,
-    "share.copylink.count": 42,
-    "share.copylink.last_updated": 1667790434.221,
-    "share.email.count": 9,
-    "share.email.last_updated": 1656151341.963,
-    "share.facebook.count": 46,
-    "share.facebook.last_updated": 1667638375.071,
-    "share.facebook_messenger.count": 1,
-    "share.facebook_messenger.last_updated": 1630338164.375,
-    "share.sms.count": 1,
-    "share.sms.last_updated": 1640420282.546,
-    "share.twitter.count": 11,
-    "share.twitter.last_updated": 1668150927.901,
-    "share.whatsapp.count": 69,
-    "share.whatsapp.last_updated": 1668064085.798
+  "photo": {
+    "id": 224817954,
+    "url": "photos/5/yr/fm/eryrfmwKHIUhUlN-fullsize.jpg",
+    "sizes": {
+      "square": {
+        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-400x400-noPad.jpg?1605763696",
+        "processing": false,
+        "size": {
+          "width": 400,
+          "height": 400
+        }
+      },
+      "small": {
+        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-400x225-noPad.jpg?1605763696",
+        "processing": false,
+        "size": {
+          "width": 400,
+          "height": 225
+        }
+      },
+      "medium": {
+        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-800x450-noPad.jpg?1605763697",
+        "processing": false,
+        "size": {
+          "width": 800,
+          "height": 450
+        }
+      },
+      "large": {
+        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-1600x900-noPad.jpg?1605763696",
+        "processing": false,
+        "size": {
+          "width": 1600,
+          "height": 900
+        }
+      }
+    },
+    "type": "photo"
   },
   "headline_bandit": {
     "experimentName": "fht-25684771-it-it",
@@ -458,44 +471,31 @@
       }
     ]
   },
-  "photo": {
-    "id": 224817954,
-    "url": "photos/5/yr/fm/eryrfmwKHIUhUlN-fullsize.jpg",
-    "sizes": {
-      "square": {
-        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-400x400-noPad.jpg?1605763696",
-        "processing": false,
-        "size": {
-          "width": 400,
-          "height": 400
-        }
-      },
-      "small": {
-        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-400x225-noPad.jpg?1605763696",
-        "processing": false,
-        "size": {
-          "width": 400,
-          "height": 225
-        }
-      },
-      "medium": {
-        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-800x450-noPad.jpg?1605763697",
-        "processing": false,
-        "size": {
-          "width": 800,
-          "height": 450
-        }
-      },
-      "large": {
-        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-1600x900-noPad.jpg?1605763696",
-        "processing": false,
-        "size": {
-          "width": 1600,
-          "height": 900
-        }
-      }
-    },
-    "type": "photo"
+  "activity": {
+    "recruit..count": 1,
+    "recruit..last_updated": 1635342848,
+    "recruit.copylink.count": 9,
+    "recruit.copylink.last_updated": 1653462932,
+    "recruit.email.count": 4,
+    "recruit.email.last_updated": 1653410807,
+    "recruit.facebook.count": 5,
+    "recruit.facebook.last_updated": 1667748960,
+    "recruit.whatsapp.count": 13,
+    "recruit.whatsapp.last_updated": 1667584666,
+    "share.copylink.count": 42,
+    "share.copylink.last_updated": 1667790434.221,
+    "share.email.count": 9,
+    "share.email.last_updated": 1656151341.963,
+    "share.facebook.count": 46,
+    "share.facebook.last_updated": 1667638375.071,
+    "share.facebook_messenger.count": 1,
+    "share.facebook_messenger.last_updated": 1630338164.375,
+    "share.sms.count": 1,
+    "share.sms.last_updated": 1640420282.546,
+    "share.twitter.count": 11,
+    "share.twitter.last_updated": 1668150927.901,
+    "share.whatsapp.count": 69,
+    "share.whatsapp.last_updated": 1668064085.798
   },
   "user": {
     "id": 1161785303,
@@ -1056,5 +1056,5 @@
     },
     "has_email": true
   },
-  "progress": 78.164
+  "progress": 78.16533333333334
 }
