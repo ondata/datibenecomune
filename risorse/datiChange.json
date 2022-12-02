@@ -111,17 +111,17 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 58727,
-  "total_signature_count": 58727,
-  "weekly_signature_count": 67,
+  "displayed_signature_count": 58730,
+  "total_signature_count": 58730,
+  "weekly_signature_count": 66,
   "total_page_views": 91872,
-  "total_share_count": 17121,
-  "daily_signature_count": 22,
+  "total_share_count": 17129,
+  "daily_signature_count": 11,
   "monthly_signature_count": 257,
   "daily_signup_count": 1,
   "weekly_signup_count": 3,
   "monthly_signup_count": 5,
-  "total_signup_count": 2282,
+  "total_signup_count": 2283,
   "supporter_message_count": null,
   "starter_vanity_url": null,
   "featured_title": null,
@@ -182,8 +182,8 @@
     "share.copylink.last_updated": 1669882315.329,
     "share.email.count": 10,
     "share.email.last_updated": 1669851163.038,
-    "share.facebook.count": 46,
-    "share.facebook.last_updated": 1667638375.071,
+    "share.facebook.count": 47,
+    "share.facebook.last_updated": 1669969868.173,
     "share.facebook_messenger.count": 1,
     "share.facebook_messenger.last_updated": 1630338164.375,
     "share.sms.count": 1,
@@ -345,7 +345,7 @@
         },
         "inserted_at": "2020-04-15T20:36:03",
         "position": 2,
-        "pulls": 91,
+        "pulls": 92,
         "rewards": 76,
         "state": "active",
         "updated_at": "2020-04-15T20:36:03",
@@ -381,12 +381,12 @@
     "selectedVariant": {
       "data": {
         "description": "Mancano ancora %{signature_target} firme!",
-        "headline": "Petizione di tendenza 🚀: %{petition_name}"
+        "headline": "Firma ora 👉 %{petition_name}"
       },
       "inserted_at": "2020-04-15T20:36:03",
-      "position": 2,
-      "pulls": 91,
-      "rewards": 76,
+      "position": 3,
+      "pulls": 3191,
+      "rewards": 4105,
       "state": "active",
       "updated_at": "2020-04-15T20:36:03",
       "variant_group_name": "fht_it-IT"
@@ -403,8 +403,8 @@
       },
       "inserted_at": "2020-04-15T20:36:22",
       "position": 4,
-      "pulls": 5655,
-      "rewards": 6811,
+      "pulls": 5656,
+      "rewards": 6812,
       "state": "active",
       "updated_at": "2020-04-15T20:36:22",
       "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -474,8 +474,8 @@
         },
         "inserted_at": "2020-04-15T20:36:22",
         "position": 4,
-        "pulls": 5655,
-        "rewards": 6811,
+        "pulls": 5656,
+        "rewards": 6812,
         "state": "active",
         "updated_at": "2020-04-15T20:36:22",
         "variant_group_name": "whatsapp-sharecopy_it-IT"
@@ -1056,5 +1056,5 @@
     },
     "has_email": true
   },
-  "progress": 78.30266666666667
+  "progress": 78.30666666666667
 }
