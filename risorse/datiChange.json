@@ -114,10 +114,10 @@
   "displayed_signature_count": 58781,
   "total_signature_count": 58781,
   "weekly_signature_count": 12,
-  "total_page_views": 91937,
+  "total_page_views": 91938,
   "total_share_count": 17139,
-  "daily_signature_count": 3,
-  "monthly_signature_count": 135,
+  "daily_signature_count": 1,
+  "monthly_signature_count": 134,
   "daily_signup_count": 0,
   "weekly_signup_count": 0,
   "monthly_signup_count": 4,
@@ -309,6 +309,90 @@
       }
     }
   },
+  "headline_bandit": {
+    "experimentName": "fht-25684771-it-it",
+    "variants": [
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Hai un minuto per aiutare %{sharer_name}?"
+        },
+        "inserted_at": "2020-04-15T20:36:03",
+        "position": 0,
+        "pulls": 84,
+        "rewards": 36,
+        "state": "inactive",
+        "updated_at": "2020-12-18T19:23:02",
+        "variant_group_name": "fht_it-IT"
+      },
+      {
+        "data": {
+          "description": "Mancano ancora %{signature_target} firme! %{petition_name}",
+          "headline": "Hai un minuto per aiutare %{sharer_name}?"
+        },
+        "inserted_at": "2020-04-15T20:36:03",
+        "position": 1,
+        "pulls": 86,
+        "rewards": 44,
+        "state": "inactive",
+        "updated_at": "2020-12-18T19:23:03",
+        "variant_group_name": "fht_it-IT"
+      },
+      {
+        "data": {
+          "description": "Mancano ancora %{signature_target} firme!",
+          "headline": "Petizione di tendenza 🚀: %{petition_name}"
+        },
+        "inserted_at": "2020-04-15T20:36:03",
+        "position": 2,
+        "pulls": 92,
+        "rewards": 76,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:03",
+        "variant_group_name": "fht_it-IT"
+      },
+      {
+        "data": {
+          "description": "Mancano ancora %{signature_target} firme!",
+          "headline": "Firma ora 👉 %{petition_name}"
+        },
+        "inserted_at": "2020-04-15T20:36:03",
+        "position": 3,
+        "pulls": 3193,
+        "rewards": 4105,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:03",
+        "variant_group_name": "fht_it-IT"
+      },
+      {
+        "data": {
+          "description": "Mancano ancora %{signature_target} firme!",
+          "headline": "Hai già visto questa petizione?"
+        },
+        "inserted_at": "2020-12-18T19:23:44",
+        "position": 4,
+        "pulls": 40,
+        "rewards": 22,
+        "state": "active",
+        "updated_at": "2020-12-18T19:23:44",
+        "variant_group_name": "fht_it-IT"
+      }
+    ],
+    "selectedVariant": {
+      "data": {
+        "description": "Mancano ancora %{signature_target} firme!",
+        "headline": "Firma ora 👉 %{petition_name}"
+      },
+      "inserted_at": "2020-04-15T20:36:03",
+      "position": 3,
+      "pulls": 3193,
+      "rewards": 4105,
+      "state": "active",
+      "updated_at": "2020-04-15T20:36:03",
+      "variant_group_name": "fht_it-IT"
+    },
+    "is_active": true
+  },
   "copylink_share_copy_bandit_definition": {
     "experimentName": "cl_sharecopy_25684771_it-IT",
     "selectedVariant": {
@@ -425,90 +509,6 @@
         "variant_group_name": "copylink-sharecopy_it-IT"
       }
     ]
-  },
-  "headline_bandit": {
-    "experimentName": "fht-25684771-it-it",
-    "variants": [
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Hai un minuto per aiutare %{sharer_name}?"
-        },
-        "inserted_at": "2020-04-15T20:36:03",
-        "position": 0,
-        "pulls": 84,
-        "rewards": 36,
-        "state": "inactive",
-        "updated_at": "2020-12-18T19:23:02",
-        "variant_group_name": "fht_it-IT"
-      },
-      {
-        "data": {
-          "description": "Mancano ancora %{signature_target} firme! %{petition_name}",
-          "headline": "Hai un minuto per aiutare %{sharer_name}?"
-        },
-        "inserted_at": "2020-04-15T20:36:03",
-        "position": 1,
-        "pulls": 86,
-        "rewards": 44,
-        "state": "inactive",
-        "updated_at": "2020-12-18T19:23:03",
-        "variant_group_name": "fht_it-IT"
-      },
-      {
-        "data": {
-          "description": "Mancano ancora %{signature_target} firme!",
-          "headline": "Petizione di tendenza 🚀: %{petition_name}"
-        },
-        "inserted_at": "2020-04-15T20:36:03",
-        "position": 2,
-        "pulls": 92,
-        "rewards": 76,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:03",
-        "variant_group_name": "fht_it-IT"
-      },
-      {
-        "data": {
-          "description": "Mancano ancora %{signature_target} firme!",
-          "headline": "Firma ora 👉 %{petition_name}"
-        },
-        "inserted_at": "2020-04-15T20:36:03",
-        "position": 3,
-        "pulls": 3193,
-        "rewards": 4105,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:03",
-        "variant_group_name": "fht_it-IT"
-      },
-      {
-        "data": {
-          "description": "Mancano ancora %{signature_target} firme!",
-          "headline": "Hai già visto questa petizione?"
-        },
-        "inserted_at": "2020-12-18T19:23:44",
-        "position": 4,
-        "pulls": 40,
-        "rewards": 22,
-        "state": "active",
-        "updated_at": "2020-12-18T19:23:44",
-        "variant_group_name": "fht_it-IT"
-      }
-    ],
-    "selectedVariant": {
-      "data": {
-        "description": "Mancano ancora %{signature_target} firme!",
-        "headline": "Firma ora 👉 %{petition_name}"
-      },
-      "inserted_at": "2020-04-15T20:36:03",
-      "position": 3,
-      "pulls": 3193,
-      "rewards": 4105,
-      "state": "active",
-      "updated_at": "2020-04-15T20:36:03",
-      "variant_group_name": "fht_it-IT"
-    },
-    "is_active": true
   },
   "whatsapp_share_copy_bandit_definition": {
     "experimentName": "washarecopy_25684771_it-IT",
