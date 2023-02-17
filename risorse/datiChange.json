@@ -105,7 +105,7 @@
       "photo_id": null,
       "created_by_owner": false,
       "created_by_staff_member": true,
-      "total_count": 147
+      "total_count": 148
     }
   ],
   "discoverable": true,
@@ -113,11 +113,11 @@
   "organization_free_email_optins": null,
   "displayed_signature_count": 59623,
   "total_signature_count": 59623,
-  "weekly_signature_count": 76,
+  "weekly_signature_count": 66,
   "total_page_views": 91954,
   "total_share_count": 17140,
-  "daily_signature_count": 3,
-  "monthly_signature_count": 683,
+  "daily_signature_count": 2,
+  "monthly_signature_count": 684,
   "daily_signup_count": 0,
   "weekly_signup_count": 0,
   "monthly_signup_count": 0,
