@@ -113,11 +113,11 @@
   "organization_free_email_optins": null,
   "displayed_signature_count": 59717,
   "total_signature_count": 59717,
-  "weekly_signature_count": 77,
+  "weekly_signature_count": 79,
   "total_page_views": 92022,
   "total_share_count": 17140,
-  "daily_signature_count": 4,
-  "monthly_signature_count": 318,
+  "daily_signature_count": 6,
+  "monthly_signature_count": 319,
   "daily_signup_count": 0,
   "weekly_signup_count": 0,
   "monthly_signup_count": 0,
@@ -128,6 +128,187 @@
   "media_text": null,
   "media_url": null,
   "geo_reach": null,
+  "photo": {
+    "id": 224817954,
+    "url": "photos/5/yr/fm/eryrfmwKHIUhUlN-fullsize.jpg",
+    "sizes": {
+      "square": {
+        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-400x400-noPad.jpg?1605763696",
+        "processing": false,
+        "size": {
+          "width": 400,
+          "height": 400
+        }
+      },
+      "small": {
+        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-400x225-noPad.jpg?1605763696",
+        "processing": false,
+        "size": {
+          "width": 400,
+          "height": 225
+        }
+      },
+      "medium": {
+        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-800x450-noPad.jpg?1605763697",
+        "processing": false,
+        "size": {
+          "width": 800,
+          "height": 450
+        }
+      },
+      "large": {
+        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-1600x900-noPad.jpg?1605763696",
+        "processing": false,
+        "size": {
+          "width": 1600,
+          "height": 900
+        }
+      }
+    },
+    "type": "photo"
+  },
+  "activity": {
+    "recruit..count": 1,
+    "recruit..last_updated": 1635342848,
+    "recruit.copylink.count": 9,
+    "recruit.copylink.last_updated": 1653462932,
+    "recruit.email.count": 5,
+    "recruit.email.last_updated": 1676313066,
+    "recruit.facebook.count": 5,
+    "recruit.facebook.last_updated": 1667748960,
+    "recruit.whatsapp.count": 14,
+    "recruit.whatsapp.last_updated": 1669925966,
+    "share.copylink.count": 44,
+    "share.copylink.last_updated": 1669882315.329,
+    "share.email.count": 10,
+    "share.email.last_updated": 1669851163.038,
+    "share.facebook.count": 50,
+    "share.facebook.last_updated": 1675019039.543,
+    "share.facebook_messenger.count": 1,
+    "share.facebook_messenger.last_updated": 1630338164.375,
+    "share.sms.count": 1,
+    "share.sms.last_updated": 1640420282.546,
+    "share.twitter.count": 17,
+    "share.twitter.last_updated": 1675890989.16,
+    "share.whatsapp.count": 76,
+    "share.whatsapp.last_updated": 1676313087.186
+  },
+  "user": {
+    "id": 1161785303,
+    "slug": "1161785303",
+    "first_name": "Andrea Nelson",
+    "last_name": "Mauro",
+    "short_display_name": "Andrea Nelson",
+    "display_name": "Andrea Nelson Mauro",
+    "city": "Milan",
+    "state_code": "",
+    "country_code": "IT",
+    "website": "https://www.twitter.com/nelsonmau",
+    "locale": "it-IT",
+    "description": "",
+    "photo": {
+      "id": 224827295,
+      "url": "photos/5/kx/wg/WNKxwGhTiaCbqCH-fullsize.jpg",
+      "sizes": {
+        "small": {
+          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-48x48-noPad.jpg?1604769385",
+          "processing": false,
+          "size": {
+            "width": 48,
+            "height": 48
+          }
+        },
+        "medium": {
+          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-128x128-noPad.jpg?1604769385",
+          "processing": false,
+          "size": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "large": {
+          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-400x400-noPad.jpg?1604769385",
+          "processing": false,
+          "size": {
+            "width": 400,
+            "height": 400
+          }
+        },
+        "xlarge": {
+          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-800x800-noPad.jpg?1604769385",
+          "processing": false,
+          "size": {
+            "width": 800,
+            "height": 800
+          }
+        }
+      }
+    },
+    "roles": [],
+    "anonymous": false
+  },
+  "organization": {
+    "id": 3192669,
+    "slug": "ondata",
+    "name": "Ondata",
+    "website": "https://ondata.it/",
+    "country_code": "IT",
+    "mission": "Siamo un’associazione che promuove l’apertura dei dati pubblici per renderli accessibili a tutti.",
+    "address": "",
+    "address_line_2": null,
+    "city": "",
+    "state": "",
+    "state_code": "",
+    "zipcode": "",
+    "postal_code": "",
+    "formatted_location_string": "Italia",
+    "fb_page": "",
+    "twitter_page": "ondatait",
+    "phone_number": null,
+    "admin_contact_name": null,
+    "admin_contact_email": null,
+    "tax_name": null,
+    "tax_id_number": null,
+    "tax_address": null,
+    "tax_city": null,
+    "tax_state_code": null,
+    "tax_country_code": null,
+    "non_profit": null,
+    "verified_by": null,
+    "verified_at": null,
+    "verification_requested_at": null,
+    "video": null,
+    "photo": {
+      "id": 224817960,
+      "url": "photos/6/qo/re/DDQoreneslQRRpQ-fullsize.jpg",
+      "sizes": {
+        "small": {
+          "url": "//assets.change.org/photos/6/qo/re/DDQoreneslQRRpQ-48x48-noPad.jpg?1604593004",
+          "processing": false,
+          "size": {
+            "width": 48,
+            "height": 48
+          }
+        },
+        "medium": {
+          "url": "//assets.change.org/photos/6/qo/re/DDQoreneslQRRpQ-128x128-noPad.jpg?1604593004",
+          "processing": false,
+          "size": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "large": {
+          "url": "//assets.change.org/photos/6/qo/re/DDQoreneslQRRpQ-400x400-noPad.jpg?1604593005",
+          "processing": false,
+          "size": {
+            "width": 400,
+            "height": 400
+          }
+        }
+      }
+    }
+  },
   "headline_bandit": {
     "experimentName": "fht-25684771-it-it",
     "variants": [
@@ -315,32 +496,6 @@
       }
     ]
   },
-  "activity": {
-    "recruit..count": 1,
-    "recruit..last_updated": 1635342848,
-    "recruit.copylink.count": 9,
-    "recruit.copylink.last_updated": 1653462932,
-    "recruit.email.count": 5,
-    "recruit.email.last_updated": 1676313066,
-    "recruit.facebook.count": 5,
-    "recruit.facebook.last_updated": 1667748960,
-    "recruit.whatsapp.count": 14,
-    "recruit.whatsapp.last_updated": 1669925966,
-    "share.copylink.count": 44,
-    "share.copylink.last_updated": 1669882315.329,
-    "share.email.count": 10,
-    "share.email.last_updated": 1669851163.038,
-    "share.facebook.count": 50,
-    "share.facebook.last_updated": 1675019039.543,
-    "share.facebook_messenger.count": 1,
-    "share.facebook_messenger.last_updated": 1630338164.375,
-    "share.sms.count": 1,
-    "share.sms.last_updated": 1640420282.546,
-    "share.twitter.count": 17,
-    "share.twitter.last_updated": 1675890989.16,
-    "share.whatsapp.count": 76,
-    "share.whatsapp.last_updated": 1676313087.186
-  },
   "copylink_share_copy_bandit_definition": {
     "experimentName": "cl_sharecopy_25684771_it-IT",
     "selectedVariant": {
@@ -457,161 +612,6 @@
         "variant_group_name": "copylink-sharecopy_it-IT"
       }
     ]
-  },
-  "photo": {
-    "id": 224817954,
-    "url": "photos/5/yr/fm/eryrfmwKHIUhUlN-fullsize.jpg",
-    "sizes": {
-      "square": {
-        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-400x400-noPad.jpg?1605763696",
-        "processing": false,
-        "size": {
-          "width": 400,
-          "height": 400
-        }
-      },
-      "small": {
-        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-400x225-noPad.jpg?1605763696",
-        "processing": false,
-        "size": {
-          "width": 400,
-          "height": 225
-        }
-      },
-      "medium": {
-        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-800x450-noPad.jpg?1605763697",
-        "processing": false,
-        "size": {
-          "width": 800,
-          "height": 450
-        }
-      },
-      "large": {
-        "url": "//assets.change.org/photos/5/yr/fm/eryrfmwKHIUhUlN-1600x900-noPad.jpg?1605763696",
-        "processing": false,
-        "size": {
-          "width": 1600,
-          "height": 900
-        }
-      }
-    },
-    "type": "photo"
-  },
-  "organization": {
-    "id": 3192669,
-    "slug": "ondata",
-    "name": "Ondata",
-    "website": "https://ondata.it/",
-    "country_code": "IT",
-    "mission": "Siamo un’associazione che promuove l’apertura dei dati pubblici per renderli accessibili a tutti.",
-    "address": "",
-    "address_line_2": null,
-    "city": "",
-    "state": "",
-    "state_code": "",
-    "zipcode": "",
-    "postal_code": "",
-    "formatted_location_string": "Italia",
-    "fb_page": "",
-    "twitter_page": "ondatait",
-    "phone_number": null,
-    "admin_contact_name": null,
-    "admin_contact_email": null,
-    "tax_name": null,
-    "tax_id_number": null,
-    "tax_address": null,
-    "tax_city": null,
-    "tax_state_code": null,
-    "tax_country_code": null,
-    "non_profit": null,
-    "verified_by": null,
-    "verified_at": null,
-    "verification_requested_at": null,
-    "video": null,
-    "photo": {
-      "id": 224817960,
-      "url": "photos/6/qo/re/DDQoreneslQRRpQ-fullsize.jpg",
-      "sizes": {
-        "small": {
-          "url": "//assets.change.org/photos/6/qo/re/DDQoreneslQRRpQ-48x48-noPad.jpg?1604593004",
-          "processing": false,
-          "size": {
-            "width": 48,
-            "height": 48
-          }
-        },
-        "medium": {
-          "url": "//assets.change.org/photos/6/qo/re/DDQoreneslQRRpQ-128x128-noPad.jpg?1604593004",
-          "processing": false,
-          "size": {
-            "width": 128,
-            "height": 128
-          }
-        },
-        "large": {
-          "url": "//assets.change.org/photos/6/qo/re/DDQoreneslQRRpQ-400x400-noPad.jpg?1604593005",
-          "processing": false,
-          "size": {
-            "width": 400,
-            "height": 400
-          }
-        }
-      }
-    }
-  },
-  "user": {
-    "id": 1161785303,
-    "slug": "1161785303",
-    "first_name": "Andrea Nelson",
-    "last_name": "Mauro",
-    "short_display_name": "Andrea Nelson",
-    "display_name": "Andrea Nelson Mauro",
-    "city": "Milan",
-    "state_code": "",
-    "country_code": "IT",
-    "website": "https://www.twitter.com/nelsonmau",
-    "locale": "it-IT",
-    "description": "",
-    "photo": {
-      "id": 224827295,
-      "url": "photos/5/kx/wg/WNKxwGhTiaCbqCH-fullsize.jpg",
-      "sizes": {
-        "small": {
-          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-48x48-noPad.jpg?1604769385",
-          "processing": false,
-          "size": {
-            "width": 48,
-            "height": 48
-          }
-        },
-        "medium": {
-          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-128x128-noPad.jpg?1604769385",
-          "processing": false,
-          "size": {
-            "width": 128,
-            "height": 128
-          }
-        },
-        "large": {
-          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-400x400-noPad.jpg?1604769385",
-          "processing": false,
-          "size": {
-            "width": 400,
-            "height": 400
-          }
-        },
-        "xlarge": {
-          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-800x800-noPad.jpg?1604769385",
-          "processing": false,
-          "size": {
-            "width": 800,
-            "height": 800
-          }
-        }
-      }
-    },
-    "roles": [],
-    "anonymous": false
   },
   "targets": [
     {
