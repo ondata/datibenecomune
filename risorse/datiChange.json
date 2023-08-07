@@ -105,7 +105,7 @@
       "photo_id": null,
       "created_by_owner": false,
       "created_by_staff_member": true,
-      "total_count": 342
+      "total_count": 343
     }
   ],
   "discoverable": true,
@@ -116,8 +116,8 @@
   "weekly_signature_count": 12,
   "total_page_views": 92100,
   "total_share_count": 17156,
-  "daily_signature_count": 4,
-  "monthly_signature_count": 70,
+  "daily_signature_count": 3,
+  "monthly_signature_count": 69,
   "daily_signup_count": 0,
   "weekly_signup_count": 0,
   "monthly_signup_count": 0,
