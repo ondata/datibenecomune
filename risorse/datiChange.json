@@ -111,8 +111,8 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 60845,
-  "total_signature_count": 60845,
+  "displayed_signature_count": 60846,
+  "total_signature_count": 60846,
   "weekly_signature_count": 22,
   "total_page_views": 92107,
   "total_share_count": 17156,
@@ -393,109 +393,6 @@
     },
     "is_active": true
   },
-  "whatsapp_share_copy_bandit_definition": {
-    "experimentName": "washarecopy_25684771_it-IT",
-    "selectedVariant": {
-      "data": {
-        "description": "%{petition_name}",
-        "headline": "Questa campagna ha bisogno di te, adesso",
-        "message": "Arriviamo a %{signature_target} firme entro oggi, puoi firmare ora?"
-      },
-      "inserted_at": "2020-04-15T20:36:22",
-      "position": 4,
-      "pulls": 5668,
-      "rewards": 6814,
-      "state": "active",
-      "updated_at": "2020-04-15T20:36:22",
-      "variant_group_name": "whatsapp-sharecopy_it-IT"
-    },
-    "variants": [
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Firma la petizione",
-          "message": "Puoi aiutarmi firmando anche tu questa petizione?"
-        },
-        "inserted_at": "2020-04-15T20:36:22",
-        "position": 0,
-        "pulls": 150,
-        "rewards": 127,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:22",
-        "variant_group_name": "whatsapp-sharecopy_it-IT"
-      },
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Aiuta %{sharer_name} a far crescere questa petizione! 🚀",
-          "message": "Puoi firmare anche tu? ✍️"
-        },
-        "inserted_at": "2020-04-15T20:36:22",
-        "position": 1,
-        "pulls": 187,
-        "rewards": 227,
-        "state": "inactive",
-        "updated_at": "2020-12-18T23:08:56",
-        "variant_group_name": "whatsapp-sharecopy_it-IT"
-      },
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Crea il cambiamento. Firma questa petizione.",
-          "message": "C'è ancora bisogno di %{signature_target} firme, puoi aggiungere anche la tua? ✍️"
-        },
-        "inserted_at": "2020-04-15T20:36:22",
-        "position": 2,
-        "pulls": 128,
-        "rewards": 150,
-        "state": "inactive",
-        "updated_at": "2020-12-18T23:08:57",
-        "variant_group_name": "whatsapp-sharecopy_it-IT"
-      },
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Possiamo creare un cambiamento.",
-          "message": "C'è ancora bisogno di %{signature_target} firme, possiamo dare il nostro aiuto firmando questa petizione. 💪"
-        },
-        "inserted_at": "2020-04-15T20:36:22",
-        "position": 3,
-        "pulls": 108,
-        "rewards": 94,
-        "state": "inactive",
-        "updated_at": "2020-12-18T23:08:58",
-        "variant_group_name": "whatsapp-sharecopy_it-IT"
-      },
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Questa campagna ha bisogno di te, adesso",
-          "message": "Arriviamo a %{signature_target} firme entro oggi, puoi firmare ora?"
-        },
-        "inserted_at": "2020-04-15T20:36:22",
-        "position": 4,
-        "pulls": 5668,
-        "rewards": 6814,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:22",
-        "variant_group_name": "whatsapp-sharecopy_it-IT"
-      },
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Hai già visto questa petizione?",
-          "message": "Puoi aiutarmi firmando anche tu questa petizione?"
-        },
-        "inserted_at": "2020-12-18T23:09:21",
-        "position": 5,
-        "pulls": 175,
-        "rewards": 154,
-        "state": "active",
-        "updated_at": "2020-12-18T23:09:21",
-        "variant_group_name": "whatsapp-sharecopy_it-IT"
-      }
-    ]
-  },
   "copylink_share_copy_bandit_definition": {
     "experimentName": "cl_sharecopy_25684771_it-IT",
     "selectedVariant": {
@@ -613,6 +510,109 @@
       }
     ]
   },
+  "whatsapp_share_copy_bandit_definition": {
+    "experimentName": "washarecopy_25684771_it-IT",
+    "selectedVariant": {
+      "data": {
+        "description": "%{petition_name}",
+        "headline": "Questa campagna ha bisogno di te, adesso",
+        "message": "Arriviamo a %{signature_target} firme entro oggi, puoi firmare ora?"
+      },
+      "inserted_at": "2020-04-15T20:36:22",
+      "position": 4,
+      "pulls": 5668,
+      "rewards": 6814,
+      "state": "active",
+      "updated_at": "2020-04-15T20:36:22",
+      "variant_group_name": "whatsapp-sharecopy_it-IT"
+    },
+    "variants": [
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Firma la petizione",
+          "message": "Puoi aiutarmi firmando anche tu questa petizione?"
+        },
+        "inserted_at": "2020-04-15T20:36:22",
+        "position": 0,
+        "pulls": 150,
+        "rewards": 127,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:22",
+        "variant_group_name": "whatsapp-sharecopy_it-IT"
+      },
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Aiuta %{sharer_name} a far crescere questa petizione! 🚀",
+          "message": "Puoi firmare anche tu? ✍️"
+        },
+        "inserted_at": "2020-04-15T20:36:22",
+        "position": 1,
+        "pulls": 187,
+        "rewards": 227,
+        "state": "inactive",
+        "updated_at": "2020-12-18T23:08:56",
+        "variant_group_name": "whatsapp-sharecopy_it-IT"
+      },
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Crea il cambiamento. Firma questa petizione.",
+          "message": "C'è ancora bisogno di %{signature_target} firme, puoi aggiungere anche la tua? ✍️"
+        },
+        "inserted_at": "2020-04-15T20:36:22",
+        "position": 2,
+        "pulls": 128,
+        "rewards": 150,
+        "state": "inactive",
+        "updated_at": "2020-12-18T23:08:57",
+        "variant_group_name": "whatsapp-sharecopy_it-IT"
+      },
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Possiamo creare un cambiamento.",
+          "message": "C'è ancora bisogno di %{signature_target} firme, possiamo dare il nostro aiuto firmando questa petizione. 💪"
+        },
+        "inserted_at": "2020-04-15T20:36:22",
+        "position": 3,
+        "pulls": 108,
+        "rewards": 94,
+        "state": "inactive",
+        "updated_at": "2020-12-18T23:08:58",
+        "variant_group_name": "whatsapp-sharecopy_it-IT"
+      },
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Questa campagna ha bisogno di te, adesso",
+          "message": "Arriviamo a %{signature_target} firme entro oggi, puoi firmare ora?"
+        },
+        "inserted_at": "2020-04-15T20:36:22",
+        "position": 4,
+        "pulls": 5668,
+        "rewards": 6814,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:22",
+        "variant_group_name": "whatsapp-sharecopy_it-IT"
+      },
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Hai già visto questa petizione?",
+          "message": "Puoi aiutarmi firmando anche tu questa petizione?"
+        },
+        "inserted_at": "2020-12-18T23:09:21",
+        "position": 5,
+        "pulls": 175,
+        "rewards": 154,
+        "state": "active",
+        "updated_at": "2020-12-18T23:09:21",
+        "variant_group_name": "whatsapp-sharecopy_it-IT"
+      }
+    ]
+  },
   "targets": [
     {
       "id": 12270016,
@@ -708,7 +708,7 @@
       "type": "Custom",
       "slug": "roberto-speranza-b4e27e4c-9ea3-447e-a0ed-b824eeb2ec10",
       "description": "",
-      "description_ai": null,
+      "description_ai": "Roberto Speranza is an Italian politician who has served as the Minister of Health since 2019. Born in 1979 in Potenza, he began his political career in the Italian Communist Youth Federation before transitioning to the Democrats of the Left party. Speranza was elected as a Member of Parliament in 2008 and has held leadership roles within his party, including serving as the national coordinator from 2009. Throughout his career, he has demonstrated a strong commitment to progressive policy issues such as labour rights and public healthcare.",
       "publicly_visible": true,
       "verified_at": null,
       "summary": null,
@@ -770,7 +770,7 @@
       "type": "Custom",
       "slug": "renato-brunetta-15",
       "description": "",
-      "description_ai": null,
+      "description_ai": "Renato Brunetta is an Italian politician and economist who, as of 2021, serves as the Minister for Public Administration in Mario Draghi's government. He was born in Venice in 1950, and has been a long-standing member of Forza Italia, a center-right political party in Italy. Besides his political career, Brunetta is academically accomplished with a significant career in economics before entering politics. He has a master's degree in development economics from the University of Sussex and a PhD in economic and social history from the University of Venice. Known for his strong views and controversial statements, Brunetta was also Minister for Public Administration during Silvio Berlusconi's fourth government from 2008-2011.",
       "publicly_visible": true,
       "verified_at": null,
       "summary": null,
@@ -882,7 +882,7 @@
       "type": "Custom",
       "slug": "domenico-arcuri",
       "description": null,
-      "description_ai": null,
+      "description_ai": "Domenico Arcuri is an Italian businessman and manager best known for his executive roles in several major companies. He has served as the CEO of Invitalia - the National Agency for Inward Investment and Economic Development. Throughout his career, Arcuri has been recognized as a strong leader and policy expert who is dedicated to promoting economic growth and innovation. He holds a degree in Economics from Sapienza University of Rome and has further honed his expertise in a range of sectors including industrial, technological, and economic development.",
       "photo_id": null,
       "publicly_visible": true,
       "verified_at": null,
@@ -907,7 +907,7 @@
       "type": "Custom",
       "slug": "angelo-borrelli",
       "description": null,
-      "description_ai": null,
+      "description_ai": "Angelo Borrelli is a dedicated and experienced public servant, known prominently for his vital roles in Italy's governmental structure. He served as the Head of the Italian Civil Protection Department, where his leadership and efficient approach to crisis management were particularly upheld during the COVID-19 pandemic. Borrelli's career in public safety and security has also seen him holding key positions in Italy's Fire Department, testifying to his broad proficiency in emergency services. He is well-respected for his commitment to the safety and wellbeing of the Italian people, showcasing exemplary skills in strategic planning, coordination, and problem-solving.",
       "photo_id": null,
       "publicly_visible": true,
       "verified_at": null,
@@ -1078,5 +1078,5 @@
     "has_email": true,
     "location_name": null
   },
-  "progress": 81.12666666666667
+  "progress": 81.128
 }
