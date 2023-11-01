@@ -45,7 +45,7 @@
       "photo_id": 226631963,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 14020
+      "total_count": 14021
     },
     {
       "id": 519179,
@@ -105,19 +105,19 @@
       "photo_id": null,
       "created_by_owner": false,
       "created_by_staff_member": true,
-      "total_count": 479
+      "total_count": 480
     }
   ],
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 61398,
-  "total_signature_count": 61398,
-  "weekly_signature_count": 74,
+  "displayed_signature_count": 61399,
+  "total_signature_count": 61399,
+  "weekly_signature_count": 75,
   "total_page_views": 92147,
   "total_share_count": 17159,
-  "daily_signature_count": 15,
-  "monthly_signature_count": 249,
+  "daily_signature_count": 8,
+  "monthly_signature_count": 250,
   "daily_signup_count": 0,
   "weekly_signup_count": 0,
   "monthly_signup_count": 0,
@@ -426,6 +426,90 @@
       }
     ]
   },
+  "headline_bandit": {
+    "experimentName": "fht-25684771-it-it",
+    "variants": [
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Hai un minuto per aiutare %{sharer_name}?"
+        },
+        "inserted_at": "2020-04-15T20:36:03",
+        "position": 0,
+        "pulls": 84,
+        "rewards": 36,
+        "state": "inactive",
+        "updated_at": "2020-12-18T19:23:02",
+        "variant_group_name": "fht_it-IT"
+      },
+      {
+        "data": {
+          "description": "Mancano ancora %{signature_target} firme! %{petition_name}",
+          "headline": "Hai un minuto per aiutare %{sharer_name}?"
+        },
+        "inserted_at": "2020-04-15T20:36:03",
+        "position": 1,
+        "pulls": 86,
+        "rewards": 44,
+        "state": "inactive",
+        "updated_at": "2020-12-18T19:23:03",
+        "variant_group_name": "fht_it-IT"
+      },
+      {
+        "data": {
+          "description": "Mancano ancora %{signature_target} firme!",
+          "headline": "Petizione di tendenza 🚀: %{petition_name}"
+        },
+        "inserted_at": "2020-04-15T20:36:03",
+        "position": 2,
+        "pulls": 92,
+        "rewards": 76,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:03",
+        "variant_group_name": "fht_it-IT"
+      },
+      {
+        "data": {
+          "description": "Mancano ancora %{signature_target} firme!",
+          "headline": "Firma ora 👉 %{petition_name}"
+        },
+        "inserted_at": "2020-04-15T20:36:03",
+        "position": 3,
+        "pulls": 3194,
+        "rewards": 4106,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:03",
+        "variant_group_name": "fht_it-IT"
+      },
+      {
+        "data": {
+          "description": "Mancano ancora %{signature_target} firme!",
+          "headline": "Hai già visto questa petizione?"
+        },
+        "inserted_at": "2020-12-18T19:23:44",
+        "position": 4,
+        "pulls": 40,
+        "rewards": 22,
+        "state": "active",
+        "updated_at": "2020-12-18T19:23:44",
+        "variant_group_name": "fht_it-IT"
+      }
+    ],
+    "selectedVariant": {
+      "data": {
+        "description": "Mancano ancora %{signature_target} firme!",
+        "headline": "Firma ora 👉 %{petition_name}"
+      },
+      "inserted_at": "2020-04-15T20:36:03",
+      "position": 3,
+      "pulls": 3194,
+      "rewards": 4106,
+      "state": "active",
+      "updated_at": "2020-04-15T20:36:03",
+      "variant_group_name": "fht_it-IT"
+    },
+    "is_active": true
+  },
   "whatsapp_share_copy_bandit_definition": {
     "experimentName": "washarecopy_25684771_it-IT",
     "selectedVariant": {
@@ -529,90 +613,6 @@
       }
     ]
   },
-  "headline_bandit": {
-    "experimentName": "fht-25684771-it-it",
-    "variants": [
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Hai un minuto per aiutare %{sharer_name}?"
-        },
-        "inserted_at": "2020-04-15T20:36:03",
-        "position": 0,
-        "pulls": 84,
-        "rewards": 36,
-        "state": "inactive",
-        "updated_at": "2020-12-18T19:23:02",
-        "variant_group_name": "fht_it-IT"
-      },
-      {
-        "data": {
-          "description": "Mancano ancora %{signature_target} firme! %{petition_name}",
-          "headline": "Hai un minuto per aiutare %{sharer_name}?"
-        },
-        "inserted_at": "2020-04-15T20:36:03",
-        "position": 1,
-        "pulls": 86,
-        "rewards": 44,
-        "state": "inactive",
-        "updated_at": "2020-12-18T19:23:03",
-        "variant_group_name": "fht_it-IT"
-      },
-      {
-        "data": {
-          "description": "Mancano ancora %{signature_target} firme!",
-          "headline": "Petizione di tendenza 🚀: %{petition_name}"
-        },
-        "inserted_at": "2020-04-15T20:36:03",
-        "position": 2,
-        "pulls": 92,
-        "rewards": 76,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:03",
-        "variant_group_name": "fht_it-IT"
-      },
-      {
-        "data": {
-          "description": "Mancano ancora %{signature_target} firme!",
-          "headline": "Firma ora 👉 %{petition_name}"
-        },
-        "inserted_at": "2020-04-15T20:36:03",
-        "position": 3,
-        "pulls": 3194,
-        "rewards": 4106,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:03",
-        "variant_group_name": "fht_it-IT"
-      },
-      {
-        "data": {
-          "description": "Mancano ancora %{signature_target} firme!",
-          "headline": "Hai già visto questa petizione?"
-        },
-        "inserted_at": "2020-12-18T19:23:44",
-        "position": 4,
-        "pulls": 40,
-        "rewards": 22,
-        "state": "active",
-        "updated_at": "2020-12-18T19:23:44",
-        "variant_group_name": "fht_it-IT"
-      }
-    ],
-    "selectedVariant": {
-      "data": {
-        "description": "Mancano ancora %{signature_target} firme!",
-        "headline": "Firma ora 👉 %{petition_name}"
-      },
-      "inserted_at": "2020-04-15T20:36:03",
-      "position": 3,
-      "pulls": 3194,
-      "rewards": 4106,
-      "state": "active",
-      "updated_at": "2020-04-15T20:36:03",
-      "variant_group_name": "fht_it-IT"
-    },
-    "is_active": true
-  },
   "targets": [
     {
       "id": 12270016,
@@ -625,7 +625,7 @@
       "photo_id": null,
       "publicly_visible": true,
       "verified_at": null,
-      "summary": null,
+      "summary": "Ministro per la Pubblica Amministrazione",
       "locale": null,
       "confirmed_at": "2021-06-22T13:05:55Z",
       "is_person": true,
@@ -649,7 +649,7 @@
       "description_ai": null,
       "publicly_visible": false,
       "verified_at": null,
-      "summary": null,
+      "summary": "Presidente del Consiglio dei Ministri",
       "locale": null,
       "confirmed_at": "2021-02-15T09:58:13Z",
       "is_person": true,
@@ -711,7 +711,7 @@
       "description_ai": "Roberto Speranza is an Italian politician who has served as the Minister of Health since 2019. Born in 1979 in Potenza, he began his political career in the Italian Communist Youth Federation before transitioning to the Democrats of the Left party. Speranza was elected as a Member of Parliament in 2008 and has held leadership roles within his party, including serving as the national coordinator from 2009. Throughout his career, he has demonstrated a strong commitment to progressive policy issues such as labour rights and public healthcare.",
       "publicly_visible": true,
       "verified_at": null,
-      "summary": null,
+      "summary": "Ministro della Salute",
       "locale": null,
       "confirmed_at": "2019-09-11T10:51:15Z",
       "is_person": true,
@@ -773,7 +773,7 @@
       "description_ai": "Renato Brunetta is an Italian politician and economist who, as of 2021, serves as the Minister for Public Administration in Mario Draghi's government. He was born in Venice in 1950, and has been a long-standing member of Forza Italia, a center-right political party in Italy. Besides his political career, Brunetta is academically accomplished with a significant career in economics before entering politics. He has a master's degree in development economics from the University of Sussex and a PhD in economic and social history from the University of Venice. Known for his strong views and controversial statements, Brunetta was also Minister for Public Administration during Silvio Berlusconi's fourth government from 2008-2011.",
       "publicly_visible": true,
       "verified_at": null,
-      "summary": null,
+      "summary": "Ministro della Pubblica Amministrazione",
       "locale": null,
       "confirmed_at": null,
       "is_person": true,
@@ -836,7 +836,7 @@
       "photo_id": null,
       "publicly_visible": true,
       "verified_at": null,
-      "summary": null,
+      "summary": "Ministro per l'Innovazione tecnologica e la Digitalizzazione",
       "locale": null,
       "confirmed_at": "2019-10-11T12:45:26Z",
       "is_person": true,
@@ -1064,7 +1064,7 @@
     "photo_id": null,
     "publicly_visible": true,
     "verified_at": null,
-    "summary": null,
+    "summary": "Ministro per la Pubblica Amministrazione",
     "locale": null,
     "confirmed_at": "2021-06-22T13:05:55Z",
     "is_person": true,
@@ -1078,5 +1078,5 @@
     "has_email": true,
     "location_name": null
   },
-  "progress": 81.864
+  "progress": 81.86533333333334
 }
