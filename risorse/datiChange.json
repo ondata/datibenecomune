@@ -45,7 +45,7 @@
       "photo_id": 226631963,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 14026
+      "total_count": 14028
     },
     {
       "id": 519179,
@@ -111,8 +111,8 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 61412,
-  "total_signature_count": 61412,
+  "displayed_signature_count": 61416,
+  "total_signature_count": 61416,
   "weekly_signature_count": 85,
   "total_page_views": 92147,
   "total_share_count": 17159,
@@ -128,6 +128,32 @@
   "media_text": null,
   "media_url": null,
   "geo_reach": null,
+  "activity": {
+    "recruit..count": 1,
+    "recruit..last_updated": 1635342848,
+    "recruit.copylink.count": 9,
+    "recruit.copylink.last_updated": 1653462932,
+    "recruit.email.count": 5,
+    "recruit.email.last_updated": 1676313066,
+    "recruit.facebook.count": 6,
+    "recruit.facebook.last_updated": 1684501170,
+    "recruit.whatsapp.count": 14,
+    "recruit.whatsapp.last_updated": 1669925966,
+    "share.copylink.count": 45,
+    "share.copylink.last_updated": 1697195186.238,
+    "share.email.count": 10,
+    "share.email.last_updated": 1669851163.038,
+    "share.facebook.count": 50,
+    "share.facebook.last_updated": 1675019039.543,
+    "share.facebook_messenger.count": 1,
+    "share.facebook_messenger.last_updated": 1630338164.375,
+    "share.sms.count": 1,
+    "share.sms.last_updated": 1640420282.546,
+    "share.twitter.count": 19,
+    "share.twitter.last_updated": 1684378029.522,
+    "share.whatsapp.count": 78,
+    "share.whatsapp.last_updated": 1684097196.993
+  },
   "photo": {
     "id": 224817954,
     "url": "photos/5/yr/fm/eryrfmwKHIUhUlN-fullsize.jpg",
@@ -228,32 +254,6 @@
         }
       }
     }
-  },
-  "activity": {
-    "recruit..count": 1,
-    "recruit..last_updated": 1635342848,
-    "recruit.copylink.count": 9,
-    "recruit.copylink.last_updated": 1653462932,
-    "recruit.email.count": 5,
-    "recruit.email.last_updated": 1676313066,
-    "recruit.facebook.count": 6,
-    "recruit.facebook.last_updated": 1684501170,
-    "recruit.whatsapp.count": 14,
-    "recruit.whatsapp.last_updated": 1669925966,
-    "share.copylink.count": 45,
-    "share.copylink.last_updated": 1697195186.238,
-    "share.email.count": 10,
-    "share.email.last_updated": 1669851163.038,
-    "share.facebook.count": 50,
-    "share.facebook.last_updated": 1675019039.543,
-    "share.facebook_messenger.count": 1,
-    "share.facebook_messenger.last_updated": 1630338164.375,
-    "share.sms.count": 1,
-    "share.sms.last_updated": 1640420282.546,
-    "share.twitter.count": 19,
-    "share.twitter.last_updated": 1684378029.522,
-    "share.whatsapp.count": 78,
-    "share.whatsapp.last_updated": 1684097196.993
   },
   "user": {
     "id": 1161785303,
@@ -1078,5 +1078,5 @@
     "has_email": true,
     "location_name": null
   },
-  "progress": 81.88266666666667
+  "progress": 81.888
 }
