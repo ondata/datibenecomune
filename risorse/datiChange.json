@@ -40,12 +40,12 @@
     {
       "id": 1596,
       "locale": "it-IT",
-      "name": "salute",
+      "name": "Salute",
       "slug": "salute",
       "photo_id": 226631963,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 14277
+      "total_count": 14278
     },
     {
       "id": 519179,
@@ -80,7 +80,7 @@
     {
       "id": 491007,
       "locale": "it-IT",
-      "name": "coronavirus",
+      "name": "Coronavirus",
       "slug": "coronavirus-it-it",
       "photo_id": null,
       "created_by_owner": false,
@@ -111,13 +111,13 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 62562,
-  "total_signature_count": 62562,
-  "weekly_signature_count": 24,
+  "displayed_signature_count": 62563,
+  "total_signature_count": 62563,
+  "weekly_signature_count": 25,
   "total_page_views": 92171,
   "total_share_count": 17161,
-  "daily_signature_count": 1,
-  "monthly_signature_count": 200,
+  "daily_signature_count": 4,
+  "monthly_signature_count": 191,
   "daily_signup_count": 0,
   "weekly_signup_count": 0,
   "monthly_signup_count": 0,
@@ -1078,5 +1078,5 @@
     "has_email": true,
     "location_name": null
   },
-  "progress": 83.416
+  "progress": 83.41733333333333
 }
