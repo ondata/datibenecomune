@@ -46,7 +46,7 @@
       "photo_id": 226631963,
       "created_by_owner": true,
       "created_by_staff_member": false,
-      "total_count": 14356
+      "total_count": 14357
     },
     {
       "id": 519179,
@@ -106,7 +106,7 @@
       "photo_id": null,
       "created_by_owner": false,
       "created_by_staff_member": true,
-      "total_count": 1257
+      "total_count": 1258
     }
   ],
   "discoverable": true,
