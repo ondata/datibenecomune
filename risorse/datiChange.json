@@ -47,7 +47,7 @@
       "created_by_owner": true,
       "created_by_staff_member": false,
       "created_by_model": false,
-      "total_count": 14406,
+      "total_count": 14407,
       "tagging_created_at": "2020-11-05T16:16:00Z"
     },
     {
@@ -131,8 +131,8 @@
   "weekly_signature_count": 79,
   "total_page_views": 92183,
   "total_share_count": 17161,
-  "daily_signature_count": 8,
-  "monthly_signature_count": 302,
+  "daily_signature_count": 6,
+  "monthly_signature_count": 303,
   "daily_signup_count": 0,
   "weekly_signup_count": 0,
   "monthly_signup_count": 0,
