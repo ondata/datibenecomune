@@ -132,7 +132,7 @@
   "total_page_views": 92197,
   "total_share_count": 17165,
   "daily_signature_count": 3,
-  "monthly_signature_count": 234,
+  "monthly_signature_count": 233,
   "daily_signup_count": 0,
   "weekly_signup_count": 0,
   "monthly_signup_count": 0,
@@ -208,6 +208,60 @@
     "share.whatsapp.count": 78,
     "share.whatsapp.last_updated": 1684097196.993
   },
+  "user": {
+    "id": 1161785303,
+    "slug": "1161785303",
+    "first_name": "Andrea Nelson",
+    "last_name": "Mauro",
+    "short_display_name": "Andrea Nelson",
+    "display_name": "Andrea Nelson Mauro",
+    "city": "Milan",
+    "state_code": "",
+    "country_code": "IT",
+    "website": "https://www.twitter.com/nelsonmau",
+    "locale": "it-IT",
+    "description": "",
+    "photo": {
+      "id": 224827295,
+      "url": "photos/5/kx/wg/WNKxwGhTiaCbqCH-fullsize.jpg",
+      "sizes": {
+        "small": {
+          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-48x48-noPad.jpg?1604769385",
+          "processing": false,
+          "size": {
+            "width": 48,
+            "height": 48
+          }
+        },
+        "medium": {
+          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-128x128-noPad.jpg?1604769385",
+          "processing": false,
+          "size": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "large": {
+          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-400x400-noPad.jpg?1604769385",
+          "processing": false,
+          "size": {
+            "width": 400,
+            "height": 400
+          }
+        },
+        "xlarge": {
+          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-800x800-noPad.jpg?1604769385",
+          "processing": false,
+          "size": {
+            "width": 800,
+            "height": 800
+          }
+        }
+      }
+    },
+    "roles": [],
+    "anonymous": false
+  },
   "organization": {
     "id": 3192669,
     "slug": "ondata",
@@ -269,177 +323,6 @@
         }
       }
     }
-  },
-  "user": {
-    "id": 1161785303,
-    "slug": "1161785303",
-    "first_name": "Andrea Nelson",
-    "last_name": "Mauro",
-    "short_display_name": "Andrea Nelson",
-    "display_name": "Andrea Nelson Mauro",
-    "city": "Milan",
-    "state_code": "",
-    "country_code": "IT",
-    "website": "https://www.twitter.com/nelsonmau",
-    "locale": "it-IT",
-    "description": "",
-    "photo": {
-      "id": 224827295,
-      "url": "photos/5/kx/wg/WNKxwGhTiaCbqCH-fullsize.jpg",
-      "sizes": {
-        "small": {
-          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-48x48-noPad.jpg?1604769385",
-          "processing": false,
-          "size": {
-            "width": 48,
-            "height": 48
-          }
-        },
-        "medium": {
-          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-128x128-noPad.jpg?1604769385",
-          "processing": false,
-          "size": {
-            "width": 128,
-            "height": 128
-          }
-        },
-        "large": {
-          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-400x400-noPad.jpg?1604769385",
-          "processing": false,
-          "size": {
-            "width": 400,
-            "height": 400
-          }
-        },
-        "xlarge": {
-          "url": "//assets.change.org/photos/5/kx/wg/WNKxwGhTiaCbqCH-800x800-noPad.jpg?1604769385",
-          "processing": false,
-          "size": {
-            "width": 800,
-            "height": 800
-          }
-        }
-      }
-    },
-    "roles": [],
-    "anonymous": false
-  },
-  "copylink_share_copy_bandit_definition": {
-    "experimentName": "cl_sharecopy_25684771_it-IT",
-    "selectedVariant": {
-      "data": {
-        "description": "%{petition_name}",
-        "headline": "Firma la petizione",
-        "message": "Puoi aiutarmi firmando anche tu questa petizione?"
-      },
-      "inserted_at": "2020-04-15T20:36:32",
-      "position": 0,
-      "pulls": 583,
-      "rewards": 253,
-      "state": "active",
-      "updated_at": "2020-04-15T20:36:32",
-      "variant_group_name": "copylink-sharecopy_it-IT"
-    },
-    "variants": [
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Firma la petizione",
-          "message": "Puoi aiutarmi firmando anche tu questa petizione?"
-        },
-        "inserted_at": "2020-04-15T20:36:32",
-        "position": 0,
-        "pulls": 583,
-        "rewards": 253,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:32",
-        "variant_group_name": "copylink-sharecopy_it-IT"
-      },
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Aiuta %{sharer_name} a far crescere questa petizione! 🚀",
-          "message": "Puoi firmare anche tu? ✍️"
-        },
-        "inserted_at": "2020-04-15T20:36:32",
-        "position": 1,
-        "pulls": 58,
-        "rewards": 6,
-        "state": "active",
-        "updated_at": "2020-04-15T20:36:32",
-        "variant_group_name": "copylink-sharecopy_it-IT"
-      },
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Crea il cambiamento. Firma questa petizione.",
-          "message": "C'è ancora bisogno di %{signature_target} firme, puoi aggiungere anche la tua? ✍️"
-        },
-        "inserted_at": "2020-04-15T20:36:32",
-        "position": 2,
-        "pulls": 2118,
-        "rewards": 1271,
-        "state": "inactive",
-        "updated_at": "2020-12-18T23:29:00",
-        "variant_group_name": "copylink-sharecopy_it-IT"
-      },
-      {
-        "data": {
-          "description": "C'è ancora bisogno di %{signature_target} firme! %{petition_name}",
-          "headline": "Questa è una petizione di successo 🚀",
-          "message": "Puoi aiutarmi firmando questa petizione?"
-        },
-        "inserted_at": "2020-04-15T20:36:32",
-        "position": 3,
-        "pulls": 59,
-        "rewards": 16,
-        "state": "inactive",
-        "updated_at": "2020-12-18T23:29:00",
-        "variant_group_name": "copylink-sharecopy_it-IT"
-      },
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Possiamo creare un cambiamento.",
-          "message": "C'è ancora bisogno di %{signature_target} firme, possiamo dare il nostro aiuto firmando questa petizione. 💪"
-        },
-        "inserted_at": "2020-04-15T20:36:32",
-        "position": 4,
-        "pulls": 56,
-        "rewards": 14,
-        "state": "inactive",
-        "updated_at": "2020-12-18T23:29:01",
-        "variant_group_name": "copylink-sharecopy_it-IT"
-      },
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Questa campagna ha bisogno di te, adesso",
-          "message": "Arriviamo a %{signature_target} firme entro oggi, puoi firmare ora?"
-        },
-        "inserted_at": "2020-04-15T20:36:32",
-        "position": 5,
-        "pulls": 56,
-        "rewards": 29,
-        "state": "inactive",
-        "updated_at": "2020-12-18T23:29:02",
-        "variant_group_name": "copylink-sharecopy_it-IT"
-      },
-      {
-        "data": {
-          "description": "%{petition_name}",
-          "headline": "Hai già visto questa petizione?",
-          "message": "Puoi aiutarmi firmando anche tu questa petizione?"
-        },
-        "inserted_at": "2020-12-18T23:29:25",
-        "position": 6,
-        "pulls": 55,
-        "rewards": 15,
-        "state": "active",
-        "updated_at": "2020-12-18T23:29:25",
-        "variant_group_name": "copylink-sharecopy_it-IT"
-      }
-    ]
   },
   "headline_bandit": {
     "experimentName": "fht-25684771-it-it",
@@ -625,6 +508,123 @@
         "state": "active",
         "updated_at": "2020-12-18T23:09:21",
         "variant_group_name": "whatsapp-sharecopy_it-IT"
+      }
+    ]
+  },
+  "copylink_share_copy_bandit_definition": {
+    "experimentName": "cl_sharecopy_25684771_it-IT",
+    "selectedVariant": {
+      "data": {
+        "description": "%{petition_name}",
+        "headline": "Firma la petizione",
+        "message": "Puoi aiutarmi firmando anche tu questa petizione?"
+      },
+      "inserted_at": "2020-04-15T20:36:32",
+      "position": 0,
+      "pulls": 583,
+      "rewards": 253,
+      "state": "active",
+      "updated_at": "2020-04-15T20:36:32",
+      "variant_group_name": "copylink-sharecopy_it-IT"
+    },
+    "variants": [
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Firma la petizione",
+          "message": "Puoi aiutarmi firmando anche tu questa petizione?"
+        },
+        "inserted_at": "2020-04-15T20:36:32",
+        "position": 0,
+        "pulls": 583,
+        "rewards": 253,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:32",
+        "variant_group_name": "copylink-sharecopy_it-IT"
+      },
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Aiuta %{sharer_name} a far crescere questa petizione! 🚀",
+          "message": "Puoi firmare anche tu? ✍️"
+        },
+        "inserted_at": "2020-04-15T20:36:32",
+        "position": 1,
+        "pulls": 58,
+        "rewards": 6,
+        "state": "active",
+        "updated_at": "2020-04-15T20:36:32",
+        "variant_group_name": "copylink-sharecopy_it-IT"
+      },
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Crea il cambiamento. Firma questa petizione.",
+          "message": "C'è ancora bisogno di %{signature_target} firme, puoi aggiungere anche la tua? ✍️"
+        },
+        "inserted_at": "2020-04-15T20:36:32",
+        "position": 2,
+        "pulls": 2118,
+        "rewards": 1271,
+        "state": "inactive",
+        "updated_at": "2020-12-18T23:29:00",
+        "variant_group_name": "copylink-sharecopy_it-IT"
+      },
+      {
+        "data": {
+          "description": "C'è ancora bisogno di %{signature_target} firme! %{petition_name}",
+          "headline": "Questa è una petizione di successo 🚀",
+          "message": "Puoi aiutarmi firmando questa petizione?"
+        },
+        "inserted_at": "2020-04-15T20:36:32",
+        "position": 3,
+        "pulls": 59,
+        "rewards": 16,
+        "state": "inactive",
+        "updated_at": "2020-12-18T23:29:00",
+        "variant_group_name": "copylink-sharecopy_it-IT"
+      },
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Possiamo creare un cambiamento.",
+          "message": "C'è ancora bisogno di %{signature_target} firme, possiamo dare il nostro aiuto firmando questa petizione. 💪"
+        },
+        "inserted_at": "2020-04-15T20:36:32",
+        "position": 4,
+        "pulls": 56,
+        "rewards": 14,
+        "state": "inactive",
+        "updated_at": "2020-12-18T23:29:01",
+        "variant_group_name": "copylink-sharecopy_it-IT"
+      },
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Questa campagna ha bisogno di te, adesso",
+          "message": "Arriviamo a %{signature_target} firme entro oggi, puoi firmare ora?"
+        },
+        "inserted_at": "2020-04-15T20:36:32",
+        "position": 5,
+        "pulls": 56,
+        "rewards": 29,
+        "state": "inactive",
+        "updated_at": "2020-12-18T23:29:02",
+        "variant_group_name": "copylink-sharecopy_it-IT"
+      },
+      {
+        "data": {
+          "description": "%{petition_name}",
+          "headline": "Hai già visto questa petizione?",
+          "message": "Puoi aiutarmi firmando anche tu questa petizione?"
+        },
+        "inserted_at": "2020-12-18T23:29:25",
+        "position": 6,
+        "pulls": 55,
+        "rewards": 15,
+        "state": "active",
+        "updated_at": "2020-12-18T23:29:25",
+        "variant_group_name": "copylink-sharecopy_it-IT"
       }
     ]
   },
