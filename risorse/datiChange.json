@@ -126,8 +126,8 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 63818,
-  "total_signature_count": 63818,
+  "displayed_signature_count": 63828,
+  "total_signature_count": 63828,
   "weekly_signature_count": 29,
   "total_page_views": 92217,
   "total_share_count": 17165,
@@ -372,5 +372,5 @@
     },
     "type": "photo"
   },
-  "progress": 85.09066666666666
+  "progress": 85.104
 }
