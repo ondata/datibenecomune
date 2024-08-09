@@ -24,6 +24,8 @@
     "lat": null,
     "lng": null,
     "state_code": null,
+    "sublocality": null,
+    "neighbourhood": null,
     "google_places_id": null,
     "photo_id": null
   },
@@ -126,13 +128,13 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 63828,
-  "total_signature_count": 63828,
-  "weekly_signature_count": 29,
+  "displayed_signature_count": 63827,
+  "total_signature_count": 63827,
+  "weekly_signature_count": 61,
   "total_page_views": 92217,
   "total_share_count": 17165,
-  "daily_signature_count": 8,
-  "monthly_signature_count": 249,
+  "daily_signature_count": 40,
+  "monthly_signature_count": 278,
   "daily_signup_count": 0,
   "weekly_signup_count": 0,
   "monthly_signup_count": 0,
@@ -372,5 +374,5 @@
     },
     "type": "photo"
   },
-  "progress": 85.104
+  "progress": 85.10266666666666
 }
