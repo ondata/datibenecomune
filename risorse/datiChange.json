@@ -128,13 +128,13 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 63873,
-  "total_signature_count": 63873,
-  "weekly_signature_count": 95,
+  "displayed_signature_count": 63874,
+  "total_signature_count": 63874,
+  "weekly_signature_count": 97,
   "total_page_views": 92221,
   "total_share_count": 17165,
   "daily_signature_count": 8,
-  "monthly_signature_count": 283,
+  "monthly_signature_count": 280,
   "daily_signup_count": 0,
   "weekly_signup_count": 0,
   "monthly_signup_count": 0,
@@ -374,5 +374,5 @@
     },
     "type": "photo"
   },
-  "progress": 85.164
+  "progress": 85.16533333333334
 }
