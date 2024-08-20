@@ -49,7 +49,7 @@
       "created_by_owner": true,
       "created_by_staff_member": false,
       "created_by_model": false,
-      "total_count": 14436,
+      "total_count": 14435,
       "tagging_created_at": "2020-11-05T16:16:00Z"
     },
     {
@@ -128,8 +128,8 @@
   "discoverable": true,
   "sponsored_campaign": false,
   "organization_free_email_optins": null,
-  "displayed_signature_count": 63904,
-  "total_signature_count": 63904,
+  "displayed_signature_count": 63906,
+  "total_signature_count": 63906,
   "weekly_signature_count": 26,
   "total_page_views": 92221,
   "total_share_count": 17165,
@@ -374,5 +374,5 @@
     },
     "type": "photo"
   },
-  "progress": 85.20533333333333
+  "progress": 85.208
 }
